@@ -8,12 +8,12 @@ comments: false
 
 To contact BETA, please refer to the links provided to the left and pick the relevant channels. 
 General inquiries should be directed to the BETA secretary: <contact@beta-europe.org>
+For legal affairs, please contact Savina Alexieva, Head of Legal Affairs, syni@gbg.bg
 
 
 ## Become a Member
 
-To join us, just send an email to <contact@beta-europe.org> stating your interest in becoming a BETA member. 
-Then, all you have to do is filling out the application form we will send you. 
+To join us, just send an email to <contact@beta-europe.org> stating your interest in becoming a BETA member, with Ms. Eszter Varo in copy (e.varo@beta-europe.org) stating your interest in becoming a BETA member. Then, all you have to do is filling out the application form we will send you.
 
 
 ## Get Engaged
