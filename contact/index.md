@@ -8,6 +8,7 @@ comments: false
 
 To contact BETA, please refer to the links provided to the left and pick the relevant channels. 
 General inquiries should be directed to the BETA secretary: <contact@beta-europe.org>
+
 For legal affairs, please contact Savina Alexieva, Head of Legal Affairs, syni@gbg.bg
 
 
