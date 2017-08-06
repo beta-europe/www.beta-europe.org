@@ -9,6 +9,7 @@ image:
   feature:
 date: 2016-01-17T01:56:45+01:00
 comments: true
+redirect_from: /few-days-left-to-apply-for-meu-strasbourg-2016/
 ---
 
 [![MEUS Strasbourg Applications Reopened until 21.01.2016]({{ site.url }}/images/meus-2016-application-reopened.jpg)](http://www.meu-strasbourg.org)

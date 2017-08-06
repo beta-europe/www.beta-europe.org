@@ -10,6 +10,7 @@ image:
   feature: 
 date: 2016-04-09
 comments: true
+redirect_from: /meu-symposium-2016-deadline-extended/
 ---
 
 Good news! The deadline to apply for the MEU Symposium has been extended to April 15, 2016! 

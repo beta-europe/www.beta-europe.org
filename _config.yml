@@ -8,7 +8,7 @@ url:              http://www.beta-europe.org
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink:   pretty
 markdown:    kramdown
 highlighter: rouge
 sass:
@@ -17,6 +17,7 @@ sass:
 gems:
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-redirect-from
 
 kramdown:
   auto_ids: true

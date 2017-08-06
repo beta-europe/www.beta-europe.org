@@ -10,6 +10,7 @@ image:
   feature: 
 date: 2016-04-04
 comments: true
+redirect_from: /meu-symposium-2016-apply/
 ---
 
 Applications for the MEU Symposium are now open! 

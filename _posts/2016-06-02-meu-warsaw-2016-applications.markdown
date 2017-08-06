@@ -9,7 +9,7 @@ share: true
 published: true
 comments: false
 source: false
-
+redirect_from: /meu-warsaw-2016-applications/
 ---
 
 Our partner [Model EU Warsaw](http://meu-warsaw.pl/) has [opened the applications](http://meu-warsaw.pl/?p=1195) 

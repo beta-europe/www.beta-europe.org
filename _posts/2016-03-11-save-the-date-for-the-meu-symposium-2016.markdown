@@ -10,6 +10,7 @@ image:
   feature:
 date: 2016-03-11
 comments: true
+redirect_from: /save-the-date-for-the-meu-symposium-2016/
 ---
 
 The **MEU Symposium 2016** will take place May 12th to 15th in Belgrade, Serbia. The
