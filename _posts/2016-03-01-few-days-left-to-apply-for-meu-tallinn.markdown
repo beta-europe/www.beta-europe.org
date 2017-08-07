@@ -9,7 +9,7 @@ tags: [MEU Tallinn, Applications]
 image:
   feature:
 date: 2016-03-01T01:56:45+01:00
-comments: true
+comments: false
 redirect_from: /few-days-left-to-apply-for-meu-tallinn/
 ---
 

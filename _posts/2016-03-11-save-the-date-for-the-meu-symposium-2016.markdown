@@ -10,7 +10,7 @@ tags:
 image:
   feature:
 date: 2016-03-11
-comments: true
+comments: false
 redirect_from: /save-the-date-for-the-meu-symposium-2016/
 ---
 

@@ -10,7 +10,7 @@ tags:
 image:
   feature: 
 date: 2016-04-04
-comments: true
+comments: false
 redirect_from: /meu-symposium-2016-apply/
 ---
 

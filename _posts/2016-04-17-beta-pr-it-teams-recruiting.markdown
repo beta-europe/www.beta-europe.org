@@ -11,7 +11,7 @@ tags:
 image:
   feature: 
 date: 2016-04-17
-comments: true
+comments: false
 redirect_from: /beta-pr-it-teams-recruiting/
 ---
 

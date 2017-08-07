@@ -8,7 +8,7 @@ tags: [MEU Strasbourg, Applications]
 image:
   feature:
 date: 2016-01-17T01:56:45+01:00
-comments: true
+comments: false
 redirect_from: /few-days-left-to-apply-for-meu-strasbourg-2016/
 ---
 
