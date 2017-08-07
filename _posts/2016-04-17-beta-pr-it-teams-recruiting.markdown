@@ -3,6 +3,7 @@ title: Join BETA PR or IT Teams
 layout: post
 modified:
 categories:
+  - Association
 excerpt: "Join BETA Public Relations or Information Technologies Teams"
 tags: 
   - BETA
@@ -11,7 +12,6 @@ image:
   feature: 
 date: 2016-04-17
 comments: true
-_redirect_from: /:categories/:title/
 redirect_from: /beta-pr-it-teams-recruiting/
 ---
 

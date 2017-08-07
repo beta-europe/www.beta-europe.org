@@ -3,6 +3,7 @@ title: "Save the Date for the MEU Symposium 2016!"
 layout: post
 modified: 2016-03-19
 categories:
+  - Association
 excerpt: "The MEU Symposium 2016 will take place May 12th to 15th in Belgrade, Serbia."
 tags: 
   - MEU Symposium

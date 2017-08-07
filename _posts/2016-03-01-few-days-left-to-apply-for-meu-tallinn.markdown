@@ -3,6 +3,7 @@ title: "MEU Tallinn 2016 - Deadline extended until March 10!"
 layout: post
 modified:
 categories:
+  - Network
 excerpt:
 tags: [MEU Tallinn, Applications]
 image:

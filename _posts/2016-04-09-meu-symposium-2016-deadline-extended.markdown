@@ -3,8 +3,9 @@ title: MEU Symposium 2016 Deadline Extended
 layout: post
 modified:
 categories:
+  - Association
 excerpt: "Deadline extended to apply for the MEU Symposium 2016 in Belgrade, Serbia"
-tags: 
+tags:
   - MEU Symposium
 image:
   feature: 

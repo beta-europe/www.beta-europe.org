@@ -3,6 +3,7 @@ title: MEU Symposium 2016 Apply Now
 layout: post
 modified:
 categories:
+  - Association
 excerpt: "Apply now for the MEU Symposium 2016 in Belgrade, Serbia"
 tags: 
   - MEU Symposium
