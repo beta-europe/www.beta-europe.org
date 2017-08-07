@@ -87,6 +87,11 @@ collections:
 defaults:
   - scope:
       path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
       type: conferences
     values:
       layout: conference_page
