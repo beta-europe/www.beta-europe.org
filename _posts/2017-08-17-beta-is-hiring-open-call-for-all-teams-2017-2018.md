@@ -7,7 +7,7 @@ categories:
   - Association
 tags:
   - BETA Team 2017/2018
-comments: false
+comments: true
 share: true
 published: true
 source: true
@@ -24,4 +24,4 @@ Would you like to work in an international team, with young and dynamic people f
 
 Then join us today! **[APPLY HERE!](https://goo.gl/forms/DxSEJC9rFXcSEhrJ2)**
 
-The deadline for applications for Heads of Teams is August 25th, 2017 at 23:59 CEST. For Officers, August 31st, 2017 at 23:59 CEST.
+The deadline for applications for the call is August 25th, 2017 at 23:59 CEST.
