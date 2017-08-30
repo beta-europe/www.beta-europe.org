@@ -6,7 +6,7 @@ link: null
 categories:
   - Association
 tags:
-  - Symposium
+  - MEU Symposium
 image: null
 comments: true
 share: true
