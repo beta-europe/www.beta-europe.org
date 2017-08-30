@@ -1,5 +1,5 @@
 ---
-title: 'Mission accomplished: our 2017 Seminar on how to run Politics Simulations'
+title: 'Mission accomplished: our 2017 Seminar on how to run EU Politics Simulations'
 date: 2017-08-30T17:17:20.631Z
 excerpt: 50 attendees from across Europe met in Berlin to exchange their experience.
 link: null
