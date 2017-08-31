@@ -1,7 +1,9 @@
 ---
-title: 'Mission accomplished: our 2017 Seminar on how to run EU Politics Simulations'
+title: 'MEU Symposium 2017 - how to run EU Politics simulations: Mission accomplished'
 date: 2017-08-30T17:17:20.631Z
-excerpt: 50 attendees from across Europe met in Berlin to exchange their experience.
+excerpt: >-
+  Over 50 attendees from across Europe met in Berlin to exchange their
+  experiences in a unique Seminar on how to run EU Politics Simulations
 link: null
 categories:
   - Association
@@ -38,3 +40,4 @@ In the circle of our partners we discussed a new platform for exchanging the kno
 The annual MEU Symposium is possible thanks to the generous support of the Erasmus+ programme of the European Commission.
 
 We have already started planning the 2018 edition. If you organise an MEU and are interested in joining our community, please, get in touch with [Hanna Pienczykowska](https://forum.beta-europe.org/u/h.pienczykowska), our Head of Concept and Partnerships.
+
