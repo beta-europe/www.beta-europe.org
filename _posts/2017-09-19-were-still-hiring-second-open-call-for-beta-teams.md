@@ -13,6 +13,8 @@ share: true
 published: true
 source: true
 ---
+![null](/assets/images/21463222_10155573195503211_3881211325650300646_n.jpg)
+
 Bringing Europeans Together Association (BETA e.V.) is pleased to announce its SECOND OPEN CALL for our Team!
 
 Application period open for the following positions:
