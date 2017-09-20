@@ -1,5 +1,5 @@
 ---
-title: 'We''re (still) hiring! Second Open Call for BETA Teams! '
+title: 'We''re (still) recruiting! Second Open Call for BETA Teams! '
 date: 2017-09-19T21:29:10.219Z
 excerpt: >-
   Applications wanted for Treasurer, Heads of Fundraising, Legal Affairs and
@@ -30,3 +30,4 @@ If you would like to be part of an international team of young and dynamic peopl
 If you are up for the challenge, please apply [HERE.](https://goo.gl/forms/UOlW9ocQJBQVKjfX2)
 
 The deadline for applications is September 24th, 2017 at 23:59 CEST.
+
