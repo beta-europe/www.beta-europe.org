@@ -4,8 +4,8 @@ slug: meu-glasgow-2017
 partner-slug: beta-scotland
 conference: meu-glasgow
 year: 2017
-begin: 2017-10-19T00:00:00.000Z
-end: 2017-10-24T00:00:00.000Z
+begin: 2017-10-19
+end: 2017-10-24
 mail: president@meu.scot
 website: 'http://www.meu.scot'
 twitter: MEUscotland
