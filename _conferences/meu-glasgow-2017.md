@@ -13,7 +13,7 @@ country: UK
 town: Glasgow
 location: University of Strathclyde
 participants: ca. 100
-geo: '48.59746,7.76780'
+geo: '55.8619,-4.2425'
 source: true
 excerpt: Paris Agreement and fisheries
 ---
