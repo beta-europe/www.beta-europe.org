@@ -2,60 +2,22 @@
    CUSTOMIZATIONS
    ========================================================================== */
 
-.layout--single {
+.layout--single, .layout--home {
   .sidebar{
     .author__avatar {
       img {
         width: inherit;
+        max-width: inherit;
         opacity: 1;
         border: 0;
         border-radius: 0;
-        color: robert;
       }
     }
   }
 }
 
+/*
 table {
   font-family: "PT Sans Narrow", $sans-serif;
 }
-
-/*
-   Grid view
-   ========================================================================== */
-
-
-.team__item {
-  margin-bottom: 2em;
-
-  .team__meta {
-    margin: 0 0 4px;
-  }
-
-  .team__item-title {
-    margin-top: 0.5em;
-    font-size: $type-size-5;
-  }
-
-  .team__item-excerpt {
-    display: block;
-    font-size: $type-size-6;
-  }
-
-  @include breakpoint($small) {
-    @include gallery(5 of 10);
-    .team__item-teaser {
-      max-height: 200px;
-    }
-  }
-
-  @include breakpoint($medium) {
-    margin-left: 0; /* reset before mixin does its thing*/
-    margin-right: 0; /* reset before mixin does its thing*/
-    @include gallery(2.5 of 10);
-
-    .team__item-teaser {
-      max-height: 120px;
-    }
-  }
-}
+*/

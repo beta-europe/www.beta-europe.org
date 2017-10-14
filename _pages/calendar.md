@@ -13,7 +13,7 @@ image:
 To ensure you never miss a Model EU event, please [join our community][join]
 to follow our [news] learn about the next conferences of our partners.
 
-[Join our Community][join]{: .btn} [Checkout the News][news]{: .btn} [Import our Calendar (.ics)][ics]{: .btn}
+[Join our Community][join]{: .btn .btn--info} [Checkout the News][news]{: .btn .btn--info} [Import our Calendar (.ics)][ics]{: .btn .btn--info}
 
 [join]: https://forum.beta-europe.org/signup
 [news]: /news/
@@ -54,6 +54,6 @@ to follow our [news] learn about the next conferences of our partners.
 <p><div id="calendar"></div></p>
 
 
-[Archive of all Conferences][archive]{: .btn}
+[Archive of all Conferences][archive]{: .btn .btn--info}
 
 [archive]: {{ site.baseurl }}{% link _pages/calendar-archive.md %}
