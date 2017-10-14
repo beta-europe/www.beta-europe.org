@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 permalink: /calendar/
 title: Model EU Simulations Calendar
 date: 2016-01-17
@@ -16,7 +16,7 @@ to follow our [news] learn about the next conferences of our partners.
 [Join our Community][join]{: .btn} [Checkout the News][news]{: .btn} [Import our Calendar (.ics)][ics]{: .btn}
 
 [join]: https://forum.beta-europe.org/signup
-[news]: https://forum.beta-europe.org/c/news
+[news]: /news/
 [ics]: {{ "/events.ics" | absolute_url }}
 
 
@@ -51,7 +51,7 @@ to follow our [news] learn about the next conferences of our partners.
 });
 </script>
 
-<div id="calendar"></div>
+<p><div id="calendar"></div></p>
 
 
 [Archive of all Conferences][archive]{: .btn}

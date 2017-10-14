@@ -1,6 +1,5 @@
 ---
 title: MEU Symposium 2016 Apply Now
-layout: post
 modified:
 categories:
   - Association

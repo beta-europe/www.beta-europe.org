@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "BETA Europe"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/beta-logo-180-transparent.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Bringing Europeans Together Association"
   location         :
   email            : contact@beta-europe.org
@@ -103,7 +103,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "BETA_Europe"
   vine             :
   weibo            :
   xing             :
@@ -183,7 +183,7 @@ timezone: "Europe/Paris" # http://en.wikipedia.org/wiki/List_of_tz_database_time
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -258,11 +258,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      sidebar:
-        - title: BETA e.V.
-          image: "/asserts/images/beta-logo-180-transparent.png"
-          image_alt: Logo of BETA e.V.
-          text: Bringing Europeans Together Association
       comments: false
       share: true
       related: true
@@ -279,6 +274,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+      #sidebar:
+        #- title: BETA Europe
+          #image: "/assets/images/beta-logo-180-transparent.png"
+          #image_alt: Logo of BETA Europe
+          #text: Bringing Europeans Together Association
       share: true
       edit: true
       comments: false

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Model EU Warsaw opens Applications"
 excerpt: "Apply for Model EU Warsaw until 20th of June."
 author: robert_riemann
@@ -9,9 +8,7 @@ share: true
 published: true
 comments: false
 source: false
-redirect_from: /meu-warsaw-2016-applications/
-categories:
-  - Network
+
 ---
 
 Our partner [Model EU Warsaw](http://meu-warsaw.pl/) has [opened the applications](http://meu-warsaw.pl/?p=1195) 

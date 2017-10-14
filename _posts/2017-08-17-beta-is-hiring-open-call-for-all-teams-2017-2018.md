@@ -9,10 +9,9 @@ categories:
   - Association
 tags:
   - BETA Team 2017/2018
-image:
-  credit: 'Model European Union Strasbourg, 2015'
-  creditlink: 'http://www.meu-strasbourg.org'
-  feature: header-meu2015.jpg
+header:
+  image: /assets/images/header-meu2015.jpg
+  caption: "Credit: [Model European Union Strasbourg, 2015](http://www.meu-strasbourg.org)"
 comments: true
 share: true
 published: true

@@ -1,6 +1,5 @@
 ---
 title: "Save the Date for the MEU Symposium 2016!"
-layout: post
 modified: 2016-03-19
 categories:
   - Association

@@ -15,10 +15,9 @@ country: France
 location: European Parliament
 geo: 48.59746,7.76780
 excerpt: refugee crisis and renewable energy
-image:
-  feature: header-meu2015.jpg
-  credit: Model European Union Strasbourg, 2015
-  creditlink: http://www.meu-strasbourg.org
+header:
+  image: /assets/images/header-meu2015.jpg
+  caption: "Credit: [Model European Union Strasbourg, 2015](http://www.meu-strasbourg.org)"
 ---
 
 Covered Topics:

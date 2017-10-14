@@ -1,6 +1,5 @@
 ---
 title: MEU Symposium 2016 Deadline Extended
-layout: post
 modified:
 categories:
   - Association

@@ -1,9 +1,7 @@
 ---
 title: Join BETA PR or IT Teams
-layout: post
 modified:
 categories:
-  - Association
 excerpt: "Join BETA Public Relations or Information Technologies Teams"
 tags: 
   - BETA
@@ -11,8 +9,7 @@ tags:
 image:
   feature: 
 date: 2016-04-17
-comments: false
-redirect_from: /beta-pr-it-teams-recruiting/
+comments: true
 ---
 
 BETA PR & IT Teams are recruiting new team members! You will find below a summary of the roles descriptions for each team.
