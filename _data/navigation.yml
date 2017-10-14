@@ -1,25 +1,42 @@
-# Site navigation links
+# main links
+main:
+  - title: About
+    url: /about/
 
-- title: Home
-  url: /
+  - title: Community
+    url: https://forum.beta-europe.org
 
-- title: About
-  url: /about/
+  - title: Contact
+    url: /contact/
+    
+  - title: News
+    url: https://forum.beta-europe.org/c/news
 
-- title: News
-  url: /news/
+  - title: MEU Symposium
+    url: /symposium/
 
-- title: MEU Symposium
-  url: /meu-symposium/
+  - title: Model EU Calendar
+    url: /calendar/
 
-- title: Contact
-  url: /contact/
-
-# - title: Ultimate Conference Guide
-#   url: /guide/
-
-- title: Model EU Calendar
-  url: /calendar/
-
-- title: Community Forum
-  url: //forum.beta-europe.org
+  # - title: Ultimate Conference Guide
+  #   url: /guide/
+  
+teams:
+  - title: BETA Teams
+    children:
+      - title: Management Board
+        url: /team/BETA-Board/
+      - title: Concept and Partnerships
+        url: /team/BETA-CP/
+      - title: Public Relations
+        url: /team/BETA-PR/
+      - title: Fundraising
+        url: /team/BETA-FR/
+      - title: Human Resources
+        url: /team/BETA-HR/
+      - title: Layout and Design
+        url: /team/BETA-LD/
+      - title: Translation Services
+        url: /team/BETA-TS/
+      - title: Information Technology
+        url: /team/BETA-IT/

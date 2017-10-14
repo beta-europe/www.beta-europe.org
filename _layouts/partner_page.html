@@ -1,135 +1,71 @@
-<!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
-<head>
-{% include _head.html %}
-<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
-</head>
+---
+layout: single
+---
 
-<body class="page">
+{{ content }}
 
-{% include _browser-upgrade.html %}
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Organisation Name</strong>
+            </td>
+            <td>{{ page.title }}</td>
+        </tr>
+        <tr>
+            <td><strong>Mail</strong>
+            </td>
+            <td><a href="mailto:{{ page.mail }}">{{ page.mail }}</a></td>
+        </tr>
+        <tr>
+            <td><strong>Website</strong>
+            </td>
+            <td><a href="{{page.website}}">{{page.website}}</a></td>
+        </tr>
+        {% if page.twitter %}
+        <tr>
+            <td><strong>Twitter</strong>
+            </td>
+            <td><a href="https://twitter.com/{{page.twitter}}/">@{{ page.twitter }}</a></td>
+        </tr>
+        {% endif %}
+        <tr>
+            <td><strong>Members Number</strong>
+            </td>
+            <td>{{ page.members }}</td>
+        </tr>
+        <tr>
+            <td><strong>Location</strong>
+            </td>
+            <td>{{ page.country }}, {{ page.town }}{% if page.location %}, {{ page.location }}{% endif %}</td>
+        </tr>
+    </tbody>
+</table>
 
-{% include _navigation.html %}
-
-{% if page.image.feature %}
-  <div class="image-wrap">
-  <img src=
-    {% if page.image.feature contains 'http' %}
-      "{{ page.image.feature }}"
-    {% else %}
-      "{{ site.url }}/images/{{ page.image.feature }}"
-    {% endif %}
-  alt="{{ page.title }} feature image">
-  {% if page.image.credit %}
-    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
-  {% endif %}
-  </div><!-- /.image-wrap -->
+{% assign conferences = site.conferences | where:'partner-slug', page.slug | sort: 'year' %}
+{% if conferences %}
+<h3>Hosted Conferences</h3>
+<ul>
+{% for conference in conferences %}
+  <li><a href="{{ conference.url | absolute_url }}">{{ conference.title }}</a></li>
+{% endfor %}
+</ul>
 {% endif %}
 
-<div id="main" role="main">
-  <div class="article-author-side">
-    {% include _author-bio.html %}
-  </div>
-  <article class="page">
-    <h1>{{ page.title }}</h1>
-    <div class="article-wrap">
-      {{ content }}
+<div id="mapid" style="height: 220px"></div>
 
-      <table>
-          <thead>
-              <tr>
-                  <th>Name</th>
-                  <th>Description</th>
-              </tr>
-          </thead>
-          <tbody>
-              <tr>
-                  <td><strong>Organisation Name</strong>
-                  </td>
-                  <td>{{ page.title }}</td>
-              </tr>
-              <tr>
-                  <td><strong>Mail</strong>
-                  </td>
-                  <td><a href="mailto:{{ page.mail }}">{{ page.mail }}</a></td>
-              </tr>
-              <tr>
-                  <td><strong>Website</strong>
-                  </td>
-                  <td><a href="{{page.website}}">{{page.website}}</a></td>
-              </tr>
-              {% if page.twitter %}
-              <tr>
-                  <td><strong>Twitter</strong>
-                  </td>
-                  <td><a href="https://twitter.com/{{page.twitter}}/">@{{ page.twitter }}</a></td>
-              </tr>
-              {% endif %}
-              <tr>
-                  <td><strong>Members Number</strong>
-                  </td>
-                  <td>{{ page.members }}</td>
-              </tr>
-              <tr>
-                  <td><strong>Location</strong>
-                  </td>
-                  <td>{{ page.country }}, {{ page.town }}{% if page.location %}, {{ page.location }}{% endif %}</td>
-              </tr>
-          </tbody>
-      </table>
-
-      {% assign conferences = site.conferences | where:'partner-slug', page.slug | sort: 'year' %}
-      {% if conferences %}
-      <h3>Hosted Conferences</h3>
-      <ul>
-      {% for conference in conferences %}
-        <li><a href="{{ site.url }}{{ conference.url }}">{{ conference.title }}</a></li>
-      {% endfor %}
-      </ul>
-      {% endif %}
-
-      <div id="mapid" style="height: 220px"></div>
-
-
-      {% if page.share != false %}
-        <hr />
-        {% include _social-share.html %}
-      {% endif %}
-      {% if page.source != false %}
-        <hr />
-        {% include _edit_github.html %}
-      {% endif %}
-    </div><!-- /.article-wrap -->
-    {% if site.owner.disqus-shortname and page.comments == true %}
-      <section id="disqus_thread"></section><!-- /#disqus_thread -->
-    {% endif %}
-    {% if site.owner.discourse-url and page.comments == true %}
-      <section id="discourse-comments"></section><!-- /#discourse_thread -->
-    {% endif %}
-  </article>
-</div><!-- /#index -->
-
-<div class="footer-wrap">
-  <footer>
-    {% include _footer.html %}
-  </footer>
-</div><!-- /.footer-wrap -->
-
-{% include _scripts.html %}
-<script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.1.0/leaflet.js" integrity="sha256-tjeCw1yzCBwiuZUrMPC89d0i82fR7Ij2O1OEo8cEMGw=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/esri-leaflet/2.1.0/esri-leaflet.js" integrity="sha256-0Cv64p2AGKlPdocnd4C/+dG+NSbq2zsp2ZeupUTaLng=" crossorigin="anonymous"></script>
 <script type="text/javascript">
   var mymap = L.map('mapid').setView([{{ page.geo }}], 4);
-  // Esri_WorldStreetMap
-  L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
-        attribution: 'Tiles &copy; Esri &mdash; Source: Esri, DeLorme, NAVTEQ, USGS, Intermap, iPC, NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, 2012'
-  }).addTo(mymap);
+  // https://esri.github.io/esri-leaflet/examples/showing-a-basemap.html
+  L.esri.basemapLayer('Streets').addTo(mymap);
   marker = L.marker([{{ page.geo }}]);
   marker.addTo(mymap)
   marker.bindPopup("<b>{{ page.title }}</b>").openPopup();
 </script>
-
-</body>
-</html>

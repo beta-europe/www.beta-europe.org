@@ -1,0 +1,18 @@
+---
+kate: hl yaml;
+layout:
+permalink: /events.json
+---
+
+[
+{% for event in site.conferences %}
+    {
+        "title":"{{event.title}}",
+        "start": "{{event.begin | date_to_xmlschema }}",
+        "end": "{{event.end | date_to_xmlschema }}",
+        "allDay":true,
+        "url":"{{event.url | absolute_url}}"
+    }
+    {% unless forloop.last %},{% endunless %}
+{% endfor %}
+]
