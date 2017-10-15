@@ -1,0 +1,74 @@
+# kate: hl yaml;
+backend:
+  name: github
+  repo: beta-europe/www.beta-europe.org # Path to your Github repository
+  branch: master # Branch to update (master by default)
+
+media_folder: "assets/images" # Folder where user uploaded files should go
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Post" # Used in the UI, ie.: "New Post"
+    folder: "_posts" # The path to the folder where the documents are stored
+    sort: "date:desc" # Default is title:asc
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    meta: # Meta data fields. Just like fields, but without any preview element
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Post Excerpt (used in archive)", name: "excerpt", widget: "string"}
+      - {label: "Link Type Post (leave empty for normal posts)", name: "link", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Categories", name: "categories", widget: "select", options: ["", "association", "network"]}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
+      - {label: "Comments", name: "comments", widget: "boolean", default: false, required: false}
+      - {label: "Social Share", name: "share", widget: "boolean", default: true, required: false}
+      - {label: "Published", name: "published", widget: "boolean", default: true, required: false}
+      - {label: "Show Edit Source", name: "source", widget: "boolean", default: true, required: false}
+  - name: "partner"
+    label: "Partner"
+    folder: "_partners"
+    sort: "title:asc"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Slug", name: "slug", widget: "string", required: true}
+      - {label: "Website (e.g. http://meu.eu)", name: "website", widget: "string"}
+      - {label: "Twitter Handle (without at)", name: "twitter", widget: "string", required: false}
+      - {label: "Mail", name: "mail", widget: "string", required: false}
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "President", name: "president", widget: "string", required: false}
+      - {label: "Country", name: "country", widget: "string", required: false}
+      - {label: "Town", name: "town", widget: "string", required: false}
+      - {label: "Location", name: "location", widget: "string", required: false}
+      - {label: "Members", name: "members", widget: "string", required: false}
+      - {label: "Geo Location (e.g.: 52.2333,20.8891)", name: "geo", widget: "string", required: false}
+      # - {label: "conferences", name: "conferences", widget: "relation", collection: "conference", searchFields: ["conference"], valueField: "conference"}
+      - {label: "Show Edit Source", name: "source", widget: "boolean", default: true}
+      - {label: "Partner Description", name: "body", widget: "markdown"}
+  - name: "conference"
+    label: "Conference"
+    folder: "_conferences"
+    sort: "title:asc"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Slug", name: "slug", widget: "string", required: true}
+      - {label: "Partner Slug", name: "partner-slug", widget: "relation", collection: "partner", searchFields: ["title"], valueField: "slug", required: false}
+      - {label: "Conference Series", name: "conference", widget: "string", required: true}
+      - {label: "Year", name: "year", widget: "string", required: true}
+      - {label: "Conference Start", name: "begin", widget: "date", format: "YYYY-MM-DD", required: true}
+      - {label: "Conference End", name: "end", widget: "date", format: "YYYY-MM-DD", required: true}
+      - {label: "Mail", name: "mail", widget: "string"}
+      - {label: "Website (e.g. http://mywebsite.eu)", name: "website", widget: "string", required: true}
+      - {label: "Twitter Handle (without at)", name: "twitter", widget: "string", required: false}
+      - {label: "Country", name: "country", widget: "string", required: false}
+      - {label: "Town", name: "town", widget: "string", required: false}
+      - {label: "Location", name: "location", widget: "string", required: false}
+      - {label: "Participant Number", name: "participants", widget: "string", required: false}
+      - {label: "Geo Location (e.g.: 52.2333,20.8891)", name: "geo", widget: "string", required: false}
+      - {label: "Show Edit Source", name: "source", widget: "boolean", default: true, required: false}
+      - {label: "Topic Excerpt (used in archive)", name: "excerpt", widget: "string", required: false}
+      - {label: "Conference Description", name: "body", widget: "markdown"}
