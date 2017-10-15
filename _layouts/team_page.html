@@ -9,13 +9,15 @@ layout: archive
   <h2>Members</h2>
   <div class="grid__wrapper">
     <div class="grid__item" ng-repeat="member in ctrl.group_members.members">
-      <div>
-        <img ng-src="{{ctrl.$window.forum_api+member.avatar_template.replace('{size}', '120')}}" alt="">
+      <div class="grid__item-title-team">
+        <a ng-href="{{ ctrl.$window.forum_api + '/users/' + member.username }}">
+          <img ng-src="{{ctrl.$window.forum_api+member.avatar_template.replace('{size}', '120')}}" alt="">
+        </a>
+        <h3>
+          <a ng-href="{{ ctrl.$window.forum_api + '/users/' + member.username }}" rel="permalink">{{ member.name }}</a>
+        </h3>
       </div>
-      <h3>
-        <a ng-href="{{ ctrl.$window.forum_api + '/users/' + member.username }}" rel="permalink">{{ member.name }}</a>
-      </h3>
-      <div class="grid__item-excerpt">
+      <div class="grid__item-excerpt grid__item-excerpt-team">
         <em>{{ member.title }}</em>
         <ul class="author__urls social-icons" style="z-index: 0;">
           <li ng-if="member.location">
