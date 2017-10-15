@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "BETA Europe"
-  avatar           : "/assets/images/beta-logo-180-transparent.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :  # path of avatar image, e.g. "/assets/images/beta-logo-180-transparent.png"
   bio              : "Bringing Europeans Together Association"
   location         :
   email            : contact@beta-europe.org
