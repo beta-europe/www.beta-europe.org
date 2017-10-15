@@ -49,3 +49,9 @@ intro_03:
 {% include feature_row id="intro_02" type="right" %}
 
 {% include feature_row id="intro_03" type="left" %}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% for post in site.posts limit:3 %}
+  {% include archive-single.html %}
+{% endfor %}
