@@ -47,7 +47,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Members", name: "members", widget: "string", required: false}
       - {label: "Geo Location (e.g.: 52.2333,20.8891)", name: "geo", widget: "string", required: false}
       # - {label: "conferences", name: "conferences", widget: "relation", collection: "conference", searchFields: ["conference"], valueField: "conference"}
-      - {label: "Partner Description", name: "body", widget: "markdown"}
+      - {label: "Partner Description", name: "body", widget: "markdown", required: false}
       - label: "Cover Image"
         name: "header"
         widget: "object"
@@ -56,27 +56,27 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Image", name: "image", widget: "image", required: false}
           - {label: "Thumbnail for Partner Overview", name: "teaser", widget: "image", required: false}
           - {label: "Label (e.g. for credit)", name: "credit", widget: "markdown", required: false}
-  - name: "conference"
-    label: "Conference"
-    folder: "_conferences"
-    sort: "title:asc"
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - {label: "Title", name: "title", widget: "string", required: true}
-      - {label: "Slug", name: "slug", widget: "string", required: true}
-      - {label: "Partner Slug", name: "partner-slug", widget: "relation", collection: "partner", searchFields: ["title"], valueField: "slug", required: false}
-      - {label: "Conference Series", name: "conference", widget: "string", required: true}
-      - {label: "Year", name: "year", widget: "string", required: true}
-      - {label: "Conference Start", name: "begin", widget: "date", format: "YYYY-MM-DD", required: true}
-      - {label: "Conference End", name: "end", widget: "date", format: "YYYY-MM-DD", required: true}
-      - {label: "Mail", name: "mail", widget: "string"}
-      - {label: "Website (e.g. http://mywebsite.eu)", name: "website", widget: "string", required: true}
-      - {label: "Twitter Handle (without at)", name: "twitter", widget: "string", required: false}
-      - {label: "Country", name: "country", widget: "string", required: false}
-      - {label: "Town", name: "town", widget: "string", required: false}
-      - {label: "Location", name: "location", widget: "string", required: false}
-      - {label: "Participant Number", name: "participants", widget: "string", required: false}
-      - {label: "Geo Location (e.g.: 52.2333,20.8891)", name: "geo", widget: "string", required: false}
-      - {label: "Topic Excerpt (used in archive)", name: "excerpt", widget: "string", required: false}
-      - {label: "Conference Description", name: "body", widget: "markdown"}
+  #- name: "conference"
+    #label: "Conference"
+    #folder: "_conferences"
+    #sort: "title:asc"
+    #create: true
+    #slug: "{{slug}}"
+    #fields:
+      #- {label: "Title", name: "title", widget: "string", required: true}
+      #- {label: "Slug", name: "slug", widget: "string", required: true}
+      #- {label: "Partner Slug", name: "partner-slug", widget: "relation", collection: "partner", searchFields: ["title"], valueField: "slug", required: false}
+      #- {label: "Conference Series", name: "conference", widget: "string", required: true}
+      #- {label: "Year", name: "year", widget: "string", required: true}
+      #- {label: "Conference Start", name: "begin", widget: "date", format: "YYYY-MM-DD", required: true}
+      #- {label: "Conference End", name: "end", widget: "date", format: "YYYY-MM-DD", required: true}
+      #- {label: "Mail", name: "mail", widget: "string"}
+      #- {label: "Website (e.g. http://mywebsite.eu)", name: "website", widget: "string", required: true}
+      #- {label: "Twitter Handle (without at)", name: "twitter", widget: "string", required: false}
+      #- {label: "Country", name: "country", widget: "string", required: false}
+      #- {label: "Town", name: "town", widget: "string", required: false}
+      #- {label: "Location", name: "location", widget: "string", required: false}
+      #- {label: "Participant Number", name: "participants", widget: "string", required: false}
+      #- {label: "Geo Location (e.g.: 52.2333,20.8891)", name: "geo", widget: "string", required: false}
+      #- {label: "Topic Excerpt (used in archive)", name: "excerpt", widget: "string", required: false}
+      #- {label: "Conference Description", name: "body", widget: "markdown"}
