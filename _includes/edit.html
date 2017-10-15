@@ -1,0 +1,17 @@
+<section class="page__share">
+  <h4 class="page__edit-title">Improve this Page</h4>
+  {% if page.path contains '_pages/'%}
+    {% assign collection = 'pages' %}
+  {% elsif page.path contains '_conferences/' %}
+    {% assign collection = 'conference' %}
+  {% elsif page.path contains '_partners/' %}
+    {% assign collection = 'partner' %}
+  {% elsif page.path contains '_teams/' %}
+    {% assign collection = 'team' %}
+  {% elsif page.path contains '_posts/' %}
+    {% assign collection = 'post' %}
+  {% endif %}
+  {% if collection %}<a class="btn btn--inverse" href="{{ '/admin/' | absolute_url }}#" title="Edit on CMS"><i class="fa fa-fw fa-pencil-square-o" aria-hidden="true"></i><span> via CMS</span></a> {% endif %}
+  <a class="btn btn--inverse" href="https://github.com/{{ site.repository }}/edit/master/{{ page.path }}" title="Edit on Github"><i class="fa fa-fw fa-github" aria-hidden="true"></i><span> via Github</span></a>
+  <a class="btn btn--inverse" href="https://github.com/{{ site.repository }}/raw/master/{{ page.path }}" title="Download from Github"><i class="fa fa-fw fa-download" aria-hidden="true"></i><span> Download</span></a>
+</section>
