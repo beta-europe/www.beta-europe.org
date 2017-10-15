@@ -18,11 +18,9 @@
 }
 
 /* copy some styles from achive page for splash page */
-.layout--splash {
-  .page__content {
-    p.page__meta, p.archive__item-excerpt {
-      font-size: 0.75em;
-    }
+.layout--splash .layout--splash__recent--posts {
+  p.page__meta, p.archive__item-excerpt {
+    font-size: 0.75em;
   }
   .archive__item .archive__item-title {
   }
