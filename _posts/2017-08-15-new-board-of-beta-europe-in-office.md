@@ -7,7 +7,7 @@ categories:
   - Association
 tags:
   - Board
-comments: true
+comments: false
 share: true
 published: true
 source: true

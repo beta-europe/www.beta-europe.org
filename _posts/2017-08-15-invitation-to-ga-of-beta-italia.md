@@ -9,7 +9,7 @@ categories:
   - Network
 tags:
   - BETA Italia
-comments: true
+comments: false
 share: true
 published: true
 source: true

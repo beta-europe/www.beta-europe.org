@@ -9,7 +9,7 @@ tags:
 image:
   feature: 
 date: 2016-04-17
-comments: true
+comments: false
 ---
 
 BETA PR & IT Teams are recruiting new team members! You will find below a summary of the roles descriptions for each team.

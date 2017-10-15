@@ -6,6 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 theme: minimal-mistakes-jekyll
+minimal_mistakes_skin : "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
 locale                   : "en_GB"
@@ -48,6 +49,9 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+  
+# Related to Forum API
+forum_api: https://forum.beta-europe.org
 
 # SEO Related
 google_site_verification :
@@ -72,7 +76,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
+  provider               : # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-70785498-1"
 
@@ -176,7 +180,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:year/:month/:day/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /news/page:num/
 timezone: "Europe/Paris" # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -246,6 +250,10 @@ collections:
     title: Partners
     output: true
     permalink: "/partner/:path/"
+  teams:
+    title: Teams
+    output: true
+    permalink: "/team/:path/"
 
 
 # Defaults
@@ -258,13 +266,12 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: false
       share: true
       related: true
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
   # _pages
@@ -310,7 +317,7 @@ defaults:
       type: teams
     values:
       layout: team_page
-      author_profile: true
+      author_profile: false
       comments: false
       share: true
       edit: false

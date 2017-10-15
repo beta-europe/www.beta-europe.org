@@ -7,7 +7,7 @@ tags: [MEU Tallinn, Applications]
 image:
   feature:
 date: 2016-03-01T01:56:45+01:00
-comments: true
+comments: false
 ---
 
 [![MEU Tallinn Applications Reopened until 10.03.2016]({{ site.url }}/images/meu-tallinn-2016.png)](http://bit.ly/20hzoZy)

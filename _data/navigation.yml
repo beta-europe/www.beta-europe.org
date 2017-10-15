@@ -25,18 +25,18 @@ teams:
   - title: BETA Teams
     children:
       - title: Management Board
-        url: /team/BETA-Board/
+        url: /team/board/
       - title: Concept and Partnerships
-        url: /team/BETA-CP/
+        url: /team/concept-partnerships/
       - title: Public Relations
-        url: /team/BETA-PR/
+        url: /team/public-relations/
       - title: Fundraising
-        url: /team/BETA-FR/
+        url: /team/fundraising/
       - title: Human Resources
-        url: /team/BETA-HR/
+        url: /team/human-resources/
       - title: Layout and Design
-        url: /team/BETA-LD/
+        url: /team/layout-design/
       - title: Translation Services
-        url: /team/BETA-TS/
+        url: /team/translations/
       - title: Information Technology
-        url: /team/BETA-IT/
+        url: /team/information-technology/

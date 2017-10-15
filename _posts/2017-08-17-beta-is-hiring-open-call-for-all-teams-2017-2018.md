@@ -12,7 +12,7 @@ tags:
 header:
   image: /assets/images/header-meu2015.jpg
   caption: "Credit: [Model European Union Strasbourg, 2015](http://www.meu-strasbourg.org)"
-comments: true
+comments: false
 share: true
 published: true
 source: true

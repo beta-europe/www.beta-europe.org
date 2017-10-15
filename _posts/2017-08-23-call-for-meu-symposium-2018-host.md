@@ -8,7 +8,7 @@ categories:
 tags:
   - MEU Symposium
 image: null
-comments: true
+comments: false
 share: true
 published: true
 source: true

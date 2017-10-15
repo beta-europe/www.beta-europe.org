@@ -5,7 +5,7 @@ tags: [Milan, Call for Organisers, BETA Italia]
 link: https://betaitalia.wordpress.com/2017/07/31/be-part-of-the-team-of-milan-meu/
 share: true
 published: true
-comments: true
+comments: false
 source: false
 categories:
   - Network
