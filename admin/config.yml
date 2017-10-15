@@ -3,6 +3,7 @@ backend:
   name: github
   repo: beta-europe/www.beta-europe.org # Path to your Github repository
   branch: master # Branch to update (master by default)
+  base_url: https://cmsauth.beta-europe.org # Path to ext auth provider
 
 media_folder: "assets/images" # Folder where user uploaded files should go
 
