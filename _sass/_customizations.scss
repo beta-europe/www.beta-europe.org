@@ -37,7 +37,7 @@
   .site-title-logo {
     display: none;
   }
-  @include breakpoint(0) {
+  @include breakpoint(0) { /* e.g. $medium $small */
     height: 2.5em;
     z-index: 0;
     img {

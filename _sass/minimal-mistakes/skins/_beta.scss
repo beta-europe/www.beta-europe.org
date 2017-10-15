@@ -1,0 +1,17 @@
+/* ==========================================================================
+   BETA skin
+   ========================================================================== */
+
+/* Colors */
+$beta-color                   : #001280;
+$gray                         : #7a8288 !default;
+$dark-gray                    : mix(#000, $gray, 40%) !default;
+$text-color                   : $dark-gray !default;
+$primary-color                : $beta-color !default;
+$link-color                   : $beta-color !default;
+$masthead-link-color          : $text-color !default;
+/* $masthead-link-color-hover: $text-color !default; */
+$masthead-link-color          : $primary-color !default;
+$masthead-link-color-hover    : mix(#000, $primary-color, 25%) !default;
+$navicon-link-color-hover     : mix(#fff, $primary-color, 75%) !default;
+$navicon-link-color-hover     : mix(#fff, $text-color, 80%) !default;
