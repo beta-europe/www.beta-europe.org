@@ -5,7 +5,7 @@ slug: aegee-mainz
 title: AEGEE Mainz
 website: 'http://aegee-mainz.de'
 twitter: aegeemainz
-mail: 'http://aegee-mainz.de'
+mail: mainz@aegee.org
 excerpt: >-
   Local of European Students' Forum, connecting over 10,000 students in more
   then 200 academic cities in 40 countries all over Europe.
@@ -18,3 +18,4 @@ header:
   teaser: /assets/images/partner-logo-aegee-mainz.png
 ---
 Local of European Students' Forum, connecting over 10,000 students in more then 200 academic cities in 40 countries all over Europe.
+
