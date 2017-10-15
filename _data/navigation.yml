@@ -12,11 +12,14 @@ main:
   - title: Symposium
     url: /tags/meu-symposium/
 
-  - title: Model EU Calendar
+  - title: MEU Calendar
     url: /calendar/
 
   - title: Forum
     url: https://forum.beta-europe.org
+  
+  - title: Partners
+    url: /partner/
 
   # - title: Ultimate Conference Guide
   #   url: /guide/

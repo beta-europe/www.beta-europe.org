@@ -35,10 +35,11 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{slug}}"
     fields:
       - {label: "Slug", name: "slug", widget: "string", required: true}
+      - {label: "Title", name: "title", widget: "string", required: true}
       - {label: "Website (e.g. http://meu.eu)", name: "website", widget: "string"}
       - {label: "Twitter Handle (without at)", name: "twitter", widget: "string", required: false}
       - {label: "Mail", name: "mail", widget: "string", required: false}
-      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Excerpt (used in Partner Overview)", name: "excerpt", widget: "string", required: false}
       - {label: "President", name: "president", widget: "string", required: false}
       - {label: "Country", name: "country", widget: "string", required: false}
       - {label: "Town", name: "town", widget: "string", required: false}
@@ -47,6 +48,14 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Geo Location (e.g.: 52.2333,20.8891)", name: "geo", widget: "string", required: false}
       # - {label: "conferences", name: "conferences", widget: "relation", collection: "conference", searchFields: ["conference"], valueField: "conference"}
       - {label: "Partner Description", name: "body", widget: "markdown"}
+      - label: "Cover Image"
+        name: "header"
+        widget: "object"
+        required: false
+        fields:
+          - {label: "Image", name: "image", widget: "image", required: false}
+          - {label: "Thumbnail for Partner Overview", name: "teaser", widget: "image", required: false}
+          - {label: "Label (e.g. for credit)", name: "credit", widget: "markdown", required: false}
   - name: "conference"
     label: "Conference"
     folder: "_conferences"
