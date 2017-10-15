@@ -1,4 +1,4 @@
 ---
 title: Legal Service
-forum_group: BETA-LS
+forum_group: BETA-LA
 ---
