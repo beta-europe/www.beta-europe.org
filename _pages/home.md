@@ -38,7 +38,7 @@ intro_03:
     excerpt:
     |
       To pursue these goals, BETA organises simulations of the European legislative procedure called “Model European Union (MEU)” and supports other associations with the organisation of such conferences. Over the years, BETA has acquired a large and consistently increasing network of partner organisations that organise MEU conferences in various countries.
-    url: "/calendar/archive/"
+    url: "/calendar/"
     btn_label: "Conference Calendar"
     btn_class: "btn--primary"
 
