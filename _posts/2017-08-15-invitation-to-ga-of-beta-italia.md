@@ -12,7 +12,7 @@ tags:
 comments: false
 share: true
 published: true
-source: true
+edit: true
 ---
 ![BETA Italia General Assembly](/assets/images/BETA-Italia-GA-2017-invitation.jpg)
 

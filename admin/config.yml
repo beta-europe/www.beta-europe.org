@@ -26,7 +26,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Comments", name: "comments", widget: "boolean", default: false, required: false}
       - {label: "Social Share", name: "share", widget: "boolean", default: true, required: false}
       - {label: "Published", name: "published", widget: "boolean", default: true, required: false}
-      - {label: "Show Edit Source", name: "source", widget: "boolean", default: true, required: false}
+      - {label: "Show Edit Source", name: "edit", widget: "boolean", default: true, required: false}
   - name: "partner"
     label: "Partner"
     folder: "_partners"

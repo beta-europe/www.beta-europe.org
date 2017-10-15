@@ -15,7 +15,7 @@ header:
 comments: false
 share: true
 published: true
-source: true
+edit: true
 ---
 New year, new management! Bringing Europeans Together Association (BETA e.V.) is pleased to announce its OPEN CALL FOR BETA TEAMS 2017/2018!
 

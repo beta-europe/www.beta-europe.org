@@ -10,7 +10,7 @@ tags:
 comments: false
 share: true
 published: true
-source: true
+edit: true
 ---
 ![BETA Board 2017](/assets/images/beta-board-2017.jpg)
 
