@@ -31,6 +31,6 @@ image:
 {% endfor %}
 </div>
 
-[Model EU Calendar][calendar]{: .btn}
+[Model EU Calendar][calendar]{: .btn .btn--primary}
 
 [calendar]: {{ site.baseurl }}{% link _pages/calendar.md %}
