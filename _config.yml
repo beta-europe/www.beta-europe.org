@@ -9,7 +9,7 @@ theme: minimal-mistakes-jekyll
 minimal_mistakes_skin : "beta" # "default", "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
-locale                   : "en_GB"
+locale                   : "en-GB"
 title                    : "BETA Europe"
 title_separator          : "-"
 name                     : "Bringing Europeans Together Association e.V."
