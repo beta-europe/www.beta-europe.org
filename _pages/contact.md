@@ -24,7 +24,7 @@ Then, all you have to do is filling out the application form we will send you.
 
 There are many ways to get engaged with and within BETA. 
 
-You can take on a position in a BETA team, as an Officer or Head of the team. 
+You can take on a position in a BETA team, as an Officer or Head. 
 Please refer to the open calls and the roles descriptions before applying for one of these roles. 
 You will gain valuable work experience and will be awarded a certification upon completion of your work. 
 
