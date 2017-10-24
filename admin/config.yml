@@ -20,7 +20,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Post Excerpt (used in archive)", name: "excerpt", widget: "string"}
       - {label: "Link Type Post (leave empty for normal posts)", name: "link", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Categories", name: "categories", widget: "select", options: ["", "association", "network"]}
+      - {label: "Categories", name: "categories", widget: "select", options: ["", "association", "network"], required: false}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
       - {label: "Comments", name: "comments", widget: "boolean", default: false, required: false}
