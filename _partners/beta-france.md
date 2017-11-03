@@ -1,13 +1,8 @@
 ---
 slug: beta-france
 title: BETA France
-conferences:
-  - meu-strasbourg
-president:
-mail:
-website:
-country:
-town: 
-members:
-geo:
+website: 'https://www.beta-france.org/'
+header:
+  teaser: /assets/images/BETA_France_logo_colored.png
 ---
+
