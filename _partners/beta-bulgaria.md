@@ -1,13 +1,9 @@
 ---
 slug: beta-bulgaria
 title: BETA Bulgaria
-conferences:
-  - meu-sofia
-president:
-mail:
-website:
+website: 'https://www.facebook.com/MEUSofia/'
 country: Bulgaria
-town: 
-members:
-geo:
+header:
+  teaser: /assets/images/partner-logo-beta-bulgaria.png
 ---
+
