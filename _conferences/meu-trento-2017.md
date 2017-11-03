@@ -12,7 +12,7 @@ participants: ~80
 town: Trento
 country: Italy
 location: Dipartimento di Sociologia e Ricerca Sociale Università di Trento
-geo:46.066667, 11.133333
+geo: 46.066667, 11.133333
 excerpt: Topics = European Fund for Sustainable Development (EFSD) and establishing EFSD Guarantee; EU Global Strategy in the area of Security and Defence and fighting terrorism
 ---
 MEU Trento is a youth organization, whose aim is to organize events for young students, in particular, simulations of the EU decision-making process in close cooperation with the University of Trento
