@@ -14,6 +14,6 @@ share: true
 published: true
 edit: true
 ---
- BETA Polska is recruiting! Join the inspiring BETA Polska organizing team to contribute to their annual event - Model European Union Warsaw 2018. To apply, fill this [form ](https://docs.google.com/forms/d/e/1FAIpQLSeNFiIuV_oPStP3Ek3a0s7uK-FGb2WO4yNCxwtpw0quKtDxzQ/viewform?usp=send_form)until 10th November!
+ BETA Polska is recruiting! Join the inspiring BETA Polska organizing team to contribute to their annual event - Model European Union Warsaw. To apply, fill this [form ](https://docs.google.com/forms/d/e/1FAIpQLSeNFiIuV_oPStP3Ek3a0s7uK-FGb2WO4yNCxwtpw0quKtDxzQ/viewform?usp=send_form)until 10th November!
 
 ![undefined](/assets/images/22687970_1998396240402444_534209644045844509_n.jpg)
