@@ -12,6 +12,6 @@ share: true
 published: true
 edit: true
 ---
-Their role will be to present the Commission proposals to the participants and provide expertise throughout the negotiations. Commissioners are part of the Content Team and will be involved in the preparation of the simulation together with the Chairs. To apply, please send your CV and a short motivation letter of 200-300 words to **mathias@meutallinn.eu **until **19th November**!
+Their role will be to present the Commission proposals to the participants and provide expertise throughout the negotiations. Commissioners are part of the Content Team and will be involved in the preparation of the simulation together with the Chairs. To apply, please send your CV and a short motivation letter of 200-300 words to mathias@meutallinn.eu until 19th November!
 
 ![undefined](/assets/images/22894211_1481506498585103_5480190216954253718_n.jpg)
