@@ -7,8 +7,8 @@ mail: info@meu-vienna.at
 website: http://www.meu-vienna.at
 twitter: MEUVienna
 year: 2018
-begin: 2017-02-22
-end: 2017-02-25
+begin: 2018-02-22
+end: 2018-02-25
 participants:
 town: Vienna
 country: Austria
