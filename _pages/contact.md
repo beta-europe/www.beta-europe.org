@@ -1,8 +1,16 @@
 ---
 title: Contact
+tags: [contact, BETA, partners]
+date: 2016-01-16
+permalink: /contact/
+comments: false
+author_profile: false
+sidebar:
+  nav: "teams"
 modified: 2017-11-06T09:51:33.139Z
-excerpt: Contact us
+excerpt: "Contact us"
 ---
+
 {% include toc title="Contact" %}
 
 To contact BETA, please refer to the links provided to the left and pick the relevant channels. 
