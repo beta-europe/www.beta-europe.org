@@ -1,7 +1,7 @@
 ---
 title: Contact
 modified: 2017-11-06T09:51:33.139Z
-excerpt: Contact
+excerpt: Contact us
 ---
 To contact BETA, please refer to the links provided to the left and pick the relevant channels. 
 General inquiries should be directed to the BETA secretary, Ms. Kristin Aldag - <mailto:contact@beta-europe.org>
