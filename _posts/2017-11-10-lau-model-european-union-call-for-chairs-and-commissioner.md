@@ -47,7 +47,7 @@ We are looking for the following profiles:
 * Availability of at least 2 hours a week for preparations
 * Previous experience as a Content Officer or Chair at a Model European Union would be a strong asset
 
-**If interested, send a cover letter (approximately 500 words) and an MEU relevant CV to **<mailto:j.vermaut@beta-europe.org>.
+**If interested, send a cover letter (approximately 500 words) and an MEU relevant CV to: **<mailto:j.vermaut@beta-europe.org>.
 
 The cover letter should answer the following questions:
 
