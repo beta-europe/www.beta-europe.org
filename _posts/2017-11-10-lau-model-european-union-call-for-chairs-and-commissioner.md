@@ -62,4 +62,6 @@ The cover letter should answer the following questions:
 
 \*The Concept and Partnerships team reserves the right to give priority to candidates holding the membership of BETA e.V. or one of its partner organisations.
 
-Questions regarding the call or the conference can be asked to Jasper Vermaut, C&P Officer at BETA e.V. who can be reached on the email address mentioned above
+Questions regarding the call or the conference can be asked to Jasper Vermaut, C&P Officer at BETA e.V. who can be reached on the email address mentioned above.
+
+[Call for Chairs and Commissioner](https://forum.beta-europe.org/uploads/default/original/1X/835bbe7cda3258e0fa32414c77b7610698145af4.pdf)
