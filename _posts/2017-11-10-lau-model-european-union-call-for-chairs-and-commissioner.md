@@ -14,21 +14,13 @@ edit: true
 ---
 The Concept&Partnerships Team of BETA e.V. is looking for experienced MEU chairs and content officer to represent the association at the inaugural session of LAU-MEU in Byblos, Lebanon in February of 2018. The chosen chairs will also need to take part in the content preparation process and help with conducting workshops for the Lebanese team members.
 
-
-
 ![undefined](/assets/images/Call for Chairs and Commissioner.jpg)
-
-
 
 All selected BETA representatives need to be available, at least, between the 8th and 12th of February 2018. The airfare and accommodation of the chosen candidates will be covered upfront by the Lebanese American University.
 
-
-
 We are looking for the following profiles:
 
-
-
-1) English - speaking Chair
+1. English - speaking Chair
 
 * Chairing experience at Model European Union simulations
 * Strong knowledge of European legislation (and how it translates into the MEU format)
@@ -36,7 +28,7 @@ We are looking for the following profiles:
 * Strong knowledge of English
 * Availability of at least 2 hours a week for preparations
 
-2) French - speaking Chair
+2. French - speaking Chair
 
 * Chairing experience at Model European Union simulations
 * Strong knowledge of European legislation (and how it translates into the MEU format)
@@ -45,7 +37,7 @@ We are looking for the following profiles:
 * Good knowledge of English
 * Availability of at least 2 hours a week for preparations
 
-3) French - speaking Commissioner
+3. French - speaking Commissioner
 
 * Experience as a participant at Model European Union simulations
 * Strong knowledge of European legislation (and how it translates into the MEU format)
@@ -65,8 +57,6 @@ The cover letter should answer the following questions:
 4. If applying for the French Chair or Commissioner positions, how is your level of French? If you’re not a native-speaker, where did you learn it?
 5. How is your availability the week prior to the start of the conference (between 02/02 and 09/02)?
 6. Are you a member of BETA e.V. or one of its partner organisations?
-
-
 
 **The call is open until 23/11/2017.**
 
