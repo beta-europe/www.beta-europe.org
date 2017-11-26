@@ -45,7 +45,6 @@ to follow our [news] learn about the next conferences of our partners.
         },
 
         defaultView: 'month',
-        defaultDate: '2017-09-12',
         navLinks: true // can click day/week names to navigate views
     })
 });
