@@ -6,8 +6,8 @@ twitter: '@meu_granada'
 mail: spain.beta@gmail.com / info@meugranada.org
 president: ''
 country: Spain
-town: Granada
-geo: '37.176487,-3.597929'
+town: Valladolid
+geo: '41.65278,-4.72361'
 ---
 <!--StartFragment-->
 
