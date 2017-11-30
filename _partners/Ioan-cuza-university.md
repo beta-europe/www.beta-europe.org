@@ -9,6 +9,8 @@ excerpt: >-
 country: Romania
 town: Iași
 geo: '47.151726,27.587914'
+header:
+  teaser: /assets/images/sigla ASDI - Georgiana Cretu.png
 ---
 Law Students’ Association UAIC Iași - ASD UAIC is formed by representatives of the students of Faculty of Law from “Alexandru Ioan Cuza” University of Iași and other students who want to get involved and make a contribution in our community. We represent the interests of students in an organized framework and promote transparency in representation process, support students’ community of the Law Faculty and also offer many opportunities to start their career in Law. We are creating a dynamic environment that promotes and supports the active participation of law students in the development of the community in which they belong. About ASD-UAIC Iasi Activities of representation: 
 
