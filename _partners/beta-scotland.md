@@ -8,6 +8,8 @@ president: Gary Paterson
 country: Scotland
 town: Dundee
 geo: '56.46913,-2.97489'
+header:
+  teaser: /assets/images/BETA_Scotland_colored - Gary Paterson.png
 ---
 <!--StartFragment-->
 
