@@ -7,6 +7,8 @@ mail: beta-estonia@meutallinn.eu
 country: Estonia
 town: Tallinn
 geo: '59.436962,24.753574'
+header:
+  teaser: /assets/images/BETA_Eesti_colored - Kristjan Kalve.jpg
 ---
 <!--StartFragment-->
 
