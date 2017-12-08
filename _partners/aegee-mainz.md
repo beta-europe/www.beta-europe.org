@@ -1,6 +1,4 @@
 ---
-conferences:
-  - meu-mainz
 slug: aegee-mainz
 title: AEGEE Mainz
 website: 'http://aegee-mainz.de'
@@ -12,10 +10,9 @@ excerpt: >-
 president: Alicia Clesius
 country: Germany
 town: Mainz
-members: null
 geo: '49.9999952,8.2710237'
 header:
-  teaser: /assets/images/partner-logo-aegee-mainz.png
+  teaser: /assets/images/logos_resized_0008_partner-logo-aegee-mainz.png
 ---
 Local of European Students' Forum, connecting over 10,000 students in more then 200 academic cities in 40 countries all over Europe.
 
