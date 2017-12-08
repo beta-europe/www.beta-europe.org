@@ -8,7 +8,8 @@ country: Spain
 town: Madrid
 geo: '40.416775,-3.703790 '
 header:
-  teaser: /assets/images/Logo de JEF icono - ignacio Esteban Avendaño.png
+  teaser: >-
+    /assets/images/logos_resized_0009_Logo-de-JEF-icono---ignacio-Esteban-Avendaño.png
 ---
 <!--StartFragment-->
 
