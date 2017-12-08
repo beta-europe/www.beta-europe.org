@@ -14,7 +14,7 @@ country: Italy
 town: Rome
 geo: '41.9015,12.4608'
 header:
-  teaser: /assets/images/Logo Beta Italia definitivoh - Marco Gerbaudo.jpg
+  teaser: /assets/images/logos_resized_0010_Background.png
 ---
 <!--StartFragment-->
 
