@@ -9,7 +9,7 @@ country: Spain
 town: Valladolid
 geo: '41.65278,-4.72361'
 header:
-  teaser: /assets/images/Logo BETA - Laura.PNG
+  teaser: /assets/images/logos_resized_0002_BETAsello.png
 ---
 <!--StartFragment-->
 
