@@ -11,7 +11,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "3.6.2"
 
-gem "minimal-mistakes-beta-jekyll", :git => "https://github.com/beta-europe/minimal-mistakes-beta.git"
+gem "minimal-mistakes-beta-jekyll", "4.8.0.2", :git => "https://github.com/beta-europe/minimal-mistakes-beta.git"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
@@ -19,3 +19,4 @@ gem "minimal-mistakes-beta-jekyll", :git => "https://github.com/beta-europe/mini
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
