@@ -10,8 +10,11 @@ METHOD:PUBLISH
 {% for event in site.conferences limit:20 %}BEGIN:VEVENT
 UID:{{ event.slug }}@beta-europe.org
 ORGANIZER;CN="{% if event.partner-slug %}{% assign partner = site.partners | where: 'slug', event.partner-slug  | first %}{{ partner.title }}{% else %}{{ event.title }} Team{% endif %}":MAILTO:{% if event.mail %}{{ event.mail }}{% else %}{{ site.author.email }}{% endif %}
-LOCATION:{{ event.town }}
+LOCATION:{{ event.town }}{% if event.geo %}
+GEO:{{ event.geo | split: "," | join: ";" }}{% endif %}
 SUMMARY:{{ event.title }}
+DESCRIPTION:More Information at {{ event.url | absolute_url }}
+URL:{{ event.url | absolute_url }}
 CLASS:PUBLIC
 DTSTART:{{ event.begin | date: "%Y%m%dT%H%M%SZ" }}
 DTEND:{{ event.end | date: "%Y%m%dT%H%M%SZ" }}
