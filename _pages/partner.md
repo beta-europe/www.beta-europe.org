@@ -15,9 +15,11 @@ sidebar:
 
 The network of BETA Europe is strong thanks to its partners.
 
+{% include map.html geojson="/partners.geojson" %}
+
 {% include base_path %}
 
-<div class="grid__wrapper">
+<div class="grid__wrapper grid__partners">
   {% for post in site.partners %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
