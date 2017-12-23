@@ -9,9 +9,6 @@ main:
   - title: News
     url: /news/
 
-  - title: Symposium
-    url: /tags/meu-symposium/
-
   - title: MEU Calendar
     url: /calendar/
 
