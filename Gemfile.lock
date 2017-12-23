@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/beta-europe/minimal-mistakes-beta.git
-  revision: 6eb22a1498ddb0aef7e8f15311ee2815b5ade3d8
+  revision: af7ce4de4a75ad491d2fcbfa21bfdc07e42f768f
   specs:
-    minimal-mistakes-beta-jekyll (4.8.0.2)
+    minimal-mistakes-beta-jekyll (4.8.0.3)
       jekyll (~> 3.6)
       jekyll-archives (~> 2.1)
       jekyll-data (~> 1.0)
@@ -105,7 +105,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (= 3.6.2)
-  minimal-mistakes-beta-jekyll (= 4.8.0.2)!
+  minimal-mistakes-beta-jekyll (= 4.8.0.3)!
   tzinfo-data
 
 RUBY VERSION
