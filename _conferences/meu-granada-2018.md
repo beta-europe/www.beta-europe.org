@@ -7,8 +7,8 @@ mail: info@meugranada.org
 website: http://meugranada.org
 twitter: MEU_Granada
 year: 2018
-begin: 2018-03-21
-end: 2018-03-25
+begin: '2018-03-21'
+end: '2018-03-25'
 participants:
 town: Granada
 country: Spain

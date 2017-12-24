@@ -7,8 +7,8 @@ mail: modeleu.zagreb@gmail.com
 website: http://meuz.eu
 twitter: meu_zagreb
 year: 2017
-begin: 2017-05-07
-end: 2017-05-12
+begin: '2017-05-07'
+end: '2017-05-12'
 participants: 80
 town: Zagreb
 country: Croatia

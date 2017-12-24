@@ -7,8 +7,8 @@ mail: annaliisa@meutallinn.eu
 website: http://meutallinn.eu
 twitter: meu_tallinn
 year: 2016
-begin: 2016-08-21
-end: 2016-08-27
+begin: '2016-08-21'
+end: '2016-08-27'
 participants:
 town: Tallinn
 country: Estonia

@@ -6,8 +6,8 @@ conference: trento-meu
 mail: model.eu.tn@gmail.com 
 website: https://www.facebook.com/MeuTrento/
 year: 2017
-begin: 2017-11-16
-end: 2017-11-18
+begin: '2017-11-16'
+end: '2017-11-18'
 participants: ~80
 town: Trento
 country: Italy

@@ -4,8 +4,8 @@ slug: meu-mainz-2016
 partner-slug: aegee-mainz
 conference: meu-mainz
 year: 2016
-begin: 2016-07-06
-end: 2016-07-10
+begin: '2016-07-06'
+end: '2016-07-10'
 mail: meum.coordination@gmail.com
 website: 'http://meum.aegee-mainz.de/'
 twitter: null

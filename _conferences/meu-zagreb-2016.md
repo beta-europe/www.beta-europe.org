@@ -7,8 +7,8 @@ mail: ​meu@jefmadrid.eu​
 website: http://meuz.eu
 twitter: meu_zagreb
 year: 2016
-begin: 2016-10-02
-end: 2016-10-07
+begin: '2016-10-02'
+end: '2016-10-07'
 participants: 80
 town: Zagreb
 country: Croatia

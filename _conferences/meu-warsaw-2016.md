@@ -6,8 +6,8 @@ conference: meu-warsaw
 mail: meuwarsaw@beta-europe.org
 website: http://www.meu-warsaw.pl/
 year: 2016
-begin: 2016-09-01
-end: 2016-09-06
+begin: '2016-09-01'
+end: '2016-09-06'
 participants:
 town: Warsaw
 country: Poland

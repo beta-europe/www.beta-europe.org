@@ -7,8 +7,8 @@ mail: info@belgrade-meu.org
 website: http://www.belgrade-meu.org/
 twitter:
 year: 2017
-begin: 2017-10-19
-end: 2017-10-22
+begin: '2017-10-19'
+end: '2017-10-22'
 participants: ca. 200
 town: Belgrade
 country: Serbia

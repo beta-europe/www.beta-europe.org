@@ -6,8 +6,8 @@ conference: brussels-meu
 mail: contact@brusselsmeu.org
 website: http://www.brusselsmeu.org/
 year: 2017
-begin: 2017-05-01
-end: 2017-05-06
+begin: '2017-05-01'
+end: '2017-05-06'
 participants:
 town: Brussels
 country: Belgium

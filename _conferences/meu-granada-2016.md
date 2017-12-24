@@ -7,8 +7,8 @@ mail: spain.beta@gmail.com
 website: http://meugranada.org
 twitter: MEU_Granada
 year: 2016
-begin: 2016-10-19
-end: 2016-10-23
+begin: '2016-10-19'
+end: '2016-10-23'
 participants:
 town: Granada
 country: Spain
