@@ -1,7 +1,7 @@
 ---
 slug: beta-italia
 title: BETA Italia
-website: 'https://betaitalia.wordpress.com/'
+website: 'https://italy.beta-europe.org'
 twitter: BETA_Italia
 mail: ' infobetaitalia@gmail.com'
 excerpt: >-
