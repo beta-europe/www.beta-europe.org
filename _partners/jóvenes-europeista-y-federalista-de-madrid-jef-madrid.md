@@ -4,6 +4,9 @@ title: Jóvenes Europeista y Federalista de Madrid - JEF Madrid
 website: www.jefmadrid.eu
 twitter: '@jefmadrid'
 mail: info@jefmadrid.eu
+excerpt: >-
+  JEF Madrid is the local section of the region of Madrid integrated in the
+  national section of JEF Spain who is part of JEF Europe.
 country: Spain
 town: Madrid
 geo: '40.416775,-3.703790 '
