@@ -1,7 +1,7 @@
 ---
 slug: beum-association
 title: BEUM Association
-website: 'https://www.beum.org     /     https://www.belgrade-meu.org'
+website: 'https://www.beum.org  '
 twitter: BEUMorg
 mail: ddordevic@beum.org
 president: Đorđe Đorđević
