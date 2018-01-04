@@ -2,7 +2,7 @@
 slug: eu-studies-fair
 title: ' EU Studies Fair'
 website: 'https://www.politico.eu/event/eu-studies-fair-2018/'
-twitter: '@EUstudiesfair'
+twitter: EUstudiesfair
 mail: events@politico.eu
 excerpt: >-
   EU Studies Fair is the largest educational and networking event in Europe
