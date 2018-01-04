@@ -4,6 +4,10 @@ title: BETA Scotland
 website: www.meu.scot
 twitter: '@MEUscotland'
 mail: president@meu.scot
+excerpt: >-
+  BETA Scotland organizes Model European Union Scotland. The project consists of
+  a simulation of the main European institutions, the European Parliament and
+  the Council. 
 president: Gary Paterson
 country: Scotland
 town: Dundee
