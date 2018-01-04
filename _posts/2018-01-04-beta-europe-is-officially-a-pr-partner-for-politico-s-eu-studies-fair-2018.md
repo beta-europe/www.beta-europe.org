@@ -9,7 +9,7 @@ share: true
 published: true
 edit: true
 header:
-  image: /assets/images/webp.net-resizeimage (1).png
+  image: /assets/images/visual 1.png
 ---
 On January the 3rd, BETA and POLITICO signed a partnership agreement, where BETA will become PR partner for POLITICO's EU Studies Fair 2018. Two parties agreed on mutual promotion, where BETA will advertise #EUSF2018, while they will promote BETA on Social Media channels!
 
