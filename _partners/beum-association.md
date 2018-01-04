@@ -9,7 +9,7 @@ country: Serbia
 town: Belgrade
 geo: '44.81032,20.46150'
 header:
-  image: /assets/images/beum_bez_godine.png
+  image: ''
   teaser: /assets/images/beum_color.png
 ---
 BEUM Association was founded in 2011 by the group of prominent students from several universities in Belgrade. The main goals of the Association are practical education about the European Union and connecting the young professionals. The main project of BEUM Association is Belgrade Model European Union - BEUM, a student simulation of the European Union which gathered over 1500 students from 60 countries in the last six annual editions. For a period of only five years, Belgrade Model European Union developed into one of the largest Models European Union, and became an inspiration for similar projects throughout the European Continent.
