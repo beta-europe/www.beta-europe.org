@@ -10,6 +10,7 @@ excerpt: >-
 president: Morten Munch Jespersen
 country: France
 town: Strasbourg
+geo: '48.573405, 7.752111'
 header:
   teaser: /assets/images/logos_resized_0006_partner-logo-beta-france.png
 ---
