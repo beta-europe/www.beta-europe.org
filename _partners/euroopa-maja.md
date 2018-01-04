@@ -4,6 +4,10 @@ title: Bringing Europeans Together Association Eesti
 website: www.meutallinn.eu
 twitter: meu_tallinn
 mail: beta-estonia@meutallinn.eu
+excerpt: >-
+  Bringing Europeans Together Assocation Eesti (BETA Eesti) was established in
+  2017 as the Estonian national branch of Bringing Europeans Together
+  Association e.V.
 country: Estonia
 town: Tallinn
 geo: '59.436962,24.753574'
