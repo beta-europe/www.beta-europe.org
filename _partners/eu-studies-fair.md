@@ -11,6 +11,7 @@ excerpt: >-
 president: ''
 country: Kingdom of Belgium
 town: Brussels
+geo: '50.8454,4.3500'
 header:
   teaser: /assets/images/logo.png
 ---
