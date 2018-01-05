@@ -9,7 +9,7 @@ theme: minimal-mistakes-beta-jekyll
 minimal_mistakes_skin : "beta" # "default", "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
-locale                   : "en-GB"
+locale                   : "en"
 title                    : "BETA Europe"
 title_separator          : "-"
 name                     : "Bringing Europeans Together Association e.V."
@@ -50,6 +50,8 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+cms:
+  has_conference         : true
   
 # Related to Forum API
 forum_api: https://forum.beta-europe.org
