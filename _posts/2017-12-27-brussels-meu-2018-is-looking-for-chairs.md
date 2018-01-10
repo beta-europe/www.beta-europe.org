@@ -12,7 +12,7 @@ share: true
 published: true
 edit: true
 header:
-  image: /assets/images/rsz_25994720_1740357269360031_8734586998202029922_n.jpg
+  image: ''
 ---
 Brussels MEU is  happy to announce that applications for Chairs for #BMEU2018 are now officially open!
 
@@ -21,3 +21,7 @@ If you are you looking for a lifetime experience and the opportunity to chair th
 More information to be found on our application form below:
 
 https://goo.gl/forms/Ihvxon2nW4UMkArw2
+
+
+
+![](/assets/images/bmeu_logo_color_transparent.png)
