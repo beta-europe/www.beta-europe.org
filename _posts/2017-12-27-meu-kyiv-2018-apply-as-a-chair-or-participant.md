@@ -12,7 +12,7 @@ share: true
 published: true
 edit: true
 header:
-  image: /assets/images/rsz_125152094_1927710170812420_6013690342446917336_n.png
+  image: ''
 ---
 Join the third edition of MEU Kyiv - annual conference aimed to develop the knowledge of the functioning of EU Institutions.
 
@@ -28,3 +28,7 @@ Topics for the discussion are the following:
 Conference activities will include hot debates, inspiring lectures, awesome workshops, unforgettable social parties and endless networking.
 
 If you have any questions, feel free to reach them at meukyiv@gmail.com or visit their [Facebook](https://www.facebook.com/meukyiv/) page.
+
+
+
+![](/assets/images/25152094_1927710170812420_6013690342446917336_n.png)
