@@ -12,7 +12,7 @@ share: true
 published: true
 edit: true
 header:
-  image: /assets/images/rsz_25446084_640588992794035_992908811476357472_n.png
+  image: ''
 ---
 CHAIRS WANTED!
 
@@ -23,3 +23,7 @@ If you have what it takes to chair an intensive, innovative and rewarding simula
 They  offer you a rewarding experience, as well as accommodation free of charge in Sofia during the conference!
 
 Deadline: 14.01.2018
+
+
+
+![](/assets/images/25446084_640588992794035_992908811476357472_n.png)
