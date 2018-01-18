@@ -12,7 +12,7 @@ country: Portugal
 town: Lisbon
 geo: '38.736946, -9.142685'
 header:
-  teaser: /assets/images/beta_portugal_logo.png
+  teaser: /assets/images/47b50700bd0f930c2dcee0b9b030422352d05c93.png
 ---
 BETA Portugal was created in November 2017. Inspired by the fire that runs in this truly European family, a group of friends from the entire country got together and decided it was the perfect time to make BETA Portugal happen.
 
