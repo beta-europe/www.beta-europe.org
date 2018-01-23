@@ -26,6 +26,8 @@ teams:
     children:
       - title: Management Board
         url: /team/board/
+      - title: Trustees
+        url: /team/trustees/
       - title: Concept and Partnerships
         url: /team/concept-partnerships/
       - title: Public Relations
