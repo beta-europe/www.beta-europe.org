@@ -1,15 +1,10 @@
 ---
 title: About BETA
-tags: [about, BETA, Bringing Europeans Together Association, Model European Union, Conference, European Union]
-date: 2014-08-08
-permalink: /about/
+modified: 2018-02-10T00:00:00+01:00
+excerpt: About
 header:
   image: /assets/images/beta-assembly-2015.jpg
-author_profile: false
-sidebar:
-  nav: teams
 ---
-
 {% include toc title="About BETA" %}
 
 ## Our Association
@@ -40,9 +35,6 @@ We are strong advocates of the power of youth; we therefore want to help young p
 We go all out to make sure that our activities are of the highest quality. Internally, we ensure that all our volunteers are supported, given the tools to succeed, learn together and enjoy their roles.
 We have a highly experienced management team and we are an outstanding organisation to volunteer for. Externally, our teams aim to treat participants, partners and guests with utmost respect and professionalism.
 
-
-
-
 ### Tolerance and inclusivity
 
 We believe in the power of diversity, and this starts with us. We strive towards ensuring that our activities are open to all, regardless of people’s respective backgrounds. Tolerance and inclusivity are integral parts of the way we conduct and organise our activities as an association.
@@ -51,7 +43,7 @@ We believe in the power of diversity, and this starts with us. We strive towards
 
 Although BETA is registered in Germany, we are European by nature. Our members are present in over 30 different countries in Europe and beyond. Ensuring that this diversity is also reflected within our projects and their teams is paramount for us. We will continue to value difference, making sure that our teams and participants in our activities are as diverse as they can be.
 
-### Inspire ###
+### Inspire
 
 We want our activities to be exciting and motivating, and our members to be passionate about what they do. Our goal is to encourage young people to become active citizens and promote our goals through attending and running our events, taking part in our initiatives and engaging with our association.
 
@@ -63,10 +55,8 @@ Strengthen the European society by encouraging democratic processes and consciou
 
 **To become a leading, well-run and supportive organisation which facilitates understanding of and within Europe.** Young people need to have this knowledge in order to become active citizens in Europe and in their home countries, and we facilitate exactly that. We will do this through supporting organisations, projects and activities which are in accordance with our mission. BETA will encourage informed and active citizenship in Europe through:
 
-- Promoting intercultural exchange throughout our activities and events;
-- Strengthening civic networks by bringing organisations and people together;
-- Supporting non-formal education and advocating access to information about the work
-- of the European Union;
-- Encouraging civic participation and volunteer work among our members and beyond;
-- Developing sustainable, impactful and professional educational events about EU politics, such as Model European Union conferences in Strasbourg and elsewhere.
-
+* Promoting intercultural exchange throughout our activities and events;
+* Strengthening civic networks by bringing organisations and people together;
+* Supporting non-formal education and advocating access to information about the work of the European Union;
+* Encouraging civic participation and volunteer work among our members and beyond;
+* Developing sustainable, impactful and professional educational events about EU politics, such as Model European Union conferences in Strasbourg and elsewhere.
