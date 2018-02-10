@@ -1,16 +1,8 @@
 ---
 title: Contact
-tags: [contact, BETA, partners]
-date: 2016-01-16
-permalink: /contact/
-comments: false
-author_profile: false
-sidebar:
-  nav: "teams"
 modified: 2017-11-06T09:51:33.139Z
-excerpt: "Contact us"
+excerpt: Contact us
 ---
-
 {% include toc title="Contact" %}
 
 To contact BETA, please refer to the links provided to the left and pick the relevant channels. 
@@ -36,7 +28,7 @@ For any further inquiries on BETA positions, please contact our Head of Human Re
 You can also create a national BETA organisation and/or organise your own MEU simulation in your city with like-minded people and friends. 
 BETA will gladly support your project and help you throughout the whole process.
 
-For any further inquiries on how to start your own project, please contact our Head of Concept and Partnerships, Ms. Hanna Pieńczykowska - [h.pienczykowska@beta-europe.org](h.pienczykowska@beta-europe.org)
+For any further inquiries on how to start your own project, please contact our Head of Concept and Partnerships, Mr. Rémi Carton - [r.carton@beta-europe.org](h.pienczykowska@beta-europe.org)
 
 ## Become a partner
 
@@ -45,4 +37,4 @@ Then, you will be able to apply for a partnership agreement with BETA.
 
 We encourage you to join our network since you will benefit from BETA's support as well as all other MEU partners' experiences. 
 
-To know more about our partnership programme, you can contact our Head of Concept and Partnerships, Ms. Hanna Pieńczykowska - [h.pienczykowska@beta-europe.org](h.pienczykowska@beta-europe.org)
+To know more about our partnership programme, you can contact our Head of Concept and Partnerships, Mr. Rémi Carton - [r.carton@beta-europe.org](h.pienczykowska@beta-europe.org)
