@@ -1,9 +1,12 @@
 ---
 title: About BETA
-modified: 2018-02-10T00:00:00+01:00
+modified: 2018-02-09T23:00:00.000Z
 excerpt: About
 header:
   image: /assets/images/beta-assembly-2015.jpg
+author_profile: false
+sidebar:
+  nav: teams
 ---
 {% include toc title="About BETA" %}
 
