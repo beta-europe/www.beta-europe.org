@@ -3,7 +3,7 @@ slug: beta-italia
 title: BETA Italia
 website: 'https://italy.beta-europe.org'
 twitter: BETA_Italia
-mail: ' infobetaitalia@gmail.com'
+mail: contact@italy.beta-europe.org
 excerpt: >-
   BETA Italia is the Italian branch of Bringing Europeans Together Association
   e.V. Founded in 2016, we already count 40 members all over Italy and Europe,
