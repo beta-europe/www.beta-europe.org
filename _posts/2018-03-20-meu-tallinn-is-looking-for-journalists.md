@@ -1,6 +1,11 @@
 ---
 title: MEU Tallinn is looking for Journalists
 excerpt: 'Don''t miss a chance to be a Journalist at #meutallinn2018'
+categories: network
+tags:
+  - meu-tallinn
+  - application
+  - ''
 date: '2018-03-20 06:13:03'
 toc: false
 comments: false
