@@ -1,6 +1,12 @@
 ---
 title: 'Inside the MEU: MEU Vienna 2018'
 excerpt: Inside the MEU is a feature that provides insights and details of a MEU event
+categories: network
+tags:
+  - meu-vienna
+  - inside-the-meu
+  - vienna
+  - modeleu
 date: '2018-03-20 06:19:28'
 toc: false
 comments: false
