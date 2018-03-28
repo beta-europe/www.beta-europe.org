@@ -25,7 +25,7 @@ We have two important announcements:
 
 
 
-(In case you want to become a member, or regulate your membership status, do not hesitate to contact Ms. Lina Kalouti, l.kalouti@beta-europe.org, our Head of HR)
+(In case you want to become a member, or regulate your membership status, do not hesitate to contact Ms. Lina Kalouti, <l.kalouti@beta-europe.org>, our Head of HR)
 
 
 
