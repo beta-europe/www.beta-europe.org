@@ -2,7 +2,7 @@
 slug: meu-trento-2017
 title: MEU Trento 2017
 partner-slug: meu-trento
-conference: trento-meu
+conference: meu-trento
 mail: model.eu.tn@gmail.com 
 website: https://www.facebook.com/MeuTrento/
 year: 2017

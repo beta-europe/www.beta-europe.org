@@ -1,7 +1,7 @@
 ---
 slug: meu-trento-2016
 title: MEU Trento 2016
-partner-slug: null
+partner-slug: meu-trento
 conference: meu-trento
 mail: model.eu.tn@gmail.com
 website: http://meu-trento.jimdo.com/

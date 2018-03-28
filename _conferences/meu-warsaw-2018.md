@@ -1,9 +1,9 @@
 ---
-title: MEU Warsaw 2018
 slug: meu-warsaw-2018
+title: MEU Warsaw 2018
 partner-slug: beta-poland
-conference: warsaw-meu
-year: '2018'
+conference: meu-warsaw
+year: 2018
 begin: '2018-08-23'
 end: '2018-08-28'
 mail: polska@beta-europe.org
