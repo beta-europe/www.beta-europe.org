@@ -15,6 +15,4 @@ Dear Members and Friends,
 
 Bringing European Together Association wishes you and your family a very Happy Easter that is filled with plenty of love and happiness!
 
-
-
-![](/assets/images/artboard-1.png)
+![null](/assets/images/artboard-1.png)
