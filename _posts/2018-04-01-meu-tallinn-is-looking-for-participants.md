@@ -1,6 +1,10 @@
 ---
 title: MEU Tallinn is looking for participants!
 excerpt: MEU Tallinn has launched a open call for participants
+categories: network
+tags:
+  - meu-tallinn
+  - participants
 date: '2018-04-01 07:30:40'
 toc: false
 comments: false
