@@ -14,6 +14,6 @@ This years #ModelEU conference will be held from 21st till 28th of July! At #MEU
 
 For more info, and to APPLY, please check this link=> http://bit.ly/2IgHL3S
 
-Deadline for applications is 20th of April 2018!
+Deadline for applications is 20th of April 2018!
 
-![](/assets/images/123456.png)
+![null](/assets/images/123456.png)
