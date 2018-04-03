@@ -26,7 +26,7 @@ The [Lifelong Learning Platform](http://lllplatform.eu/) (you can also call us �
 
 Founded in 2005, LLLP’s mission is to voice citizens’ concerns on lifelong learning issues, and to propose concrete solutions, based on the expertise, competencies and experience of its networks, for lifelong learning to become a reality for all. We believe that it is essential to create more complementarity and continuity between formal, non-formal and informal learning. The Platform believes education is the key to foster equity, social cohesion and active citizenship. Thus, the objectives of education and training should not only be described in terms of employability or economic growth but also as a framework for personal development.
 
-**In 2017 you decided to launch #Erasmusx10 campaign. How did the idea emerge?**
+**In 2017 you decided to launch #Erasmusx10 campaign. How did the idea emerged?**
 
 The idea for the Ex10 came out of an  E[rasmus+ Coalition](http://lllplatform.eu/what-we-do/erasmus-coalition/) meeting. The coalition is an informal gathering of civil society organisations actively involved in the Erasmus+ Programme, initiated by the LLLP together with the E[uropean Youth Forum](http://www.youthforum.org/), where we share updates with our members and interested stakeholders. We also contribute to the overall discussion and policy developments of the programme. Well, on the opening ceremony of the 30th anniversary of the Erasmus, in his first declarations upon the new programme Juncker claimed that "we need to be nine times more ambitious”. We saw an opportunity, jumped on it and said to ourselves: "let's round it up, let's go x10!" That's how the idea for the [\#Erasmusx10](http://erasmusx10.eu/) was born.
 
