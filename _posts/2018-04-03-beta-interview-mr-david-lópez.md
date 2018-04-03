@@ -34,9 +34,9 @@ The idea for the Ex10 came out of an  E[rasmus+ Coalition](http://lllplatform.eu
 
 The title is quite straightforward, we want to see the budget of the Erasmus+ increased by ten times. All stakeholders, including the EU institutions, agree that the programme is the most successful European initiative. Why not capitalise on this success? We are aware that it is a rather ambitious goal, but in this historic moment we have the chance to shape education, mobility and research to make them meet societal needs and hence to make EU progress towards a more inclusive Europe, where education and learning are at the forefront. We believe that investing in the Erasmus+ is a win-win partnership, in that it could really turn it into the education programme of the European Union.
 
-![null](/assets/images/456.png)
+![](/assets/images/456.png)
 
-**Are you satisfied with the results achieved so far? What are the next steps? **
+**Are you satisfied with the results achieved so far? What are the next steps?**
 
 Since the beginning of the campaign we managed to gather transnational and cross-sectoral support. We mobilised European organisations, politicians, as well as the beneficiaries and people on the ground. We are being acknowledged in the political discourse: the [CULT Committee](http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-%2F%2FEP%2F%2FNONSGML%2BCOMPARL%2BPE-610.693%2B02%2BDOC%2BPDF%2BV0%2F%2FEN) expressly asked the Parliament to refer to our position, and this makes us happy. We also have a petition that gathered thousands and thousands of supporters ([sign it here](https://www.change.org/p/council-of-the-european-union-increase-the-erasmus-budget-by-ten-times?utm_source=embedded_petition_view)!). But, of course, there is room for improvement.
 
