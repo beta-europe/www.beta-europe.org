@@ -34,7 +34,7 @@ The idea for the Ex10 came out of an  E[rasmus+ Coalition](http://lllplatform.eu
 
 The title is quite straightforward, we want to see the budget of the Erasmus+ increased by ten times. All stakeholders, including the EU institutions, agree that the programme is the most successful European initiative. Why not capitalise on this success? We are aware that it is a rather ambitious goal, but in this historic moment we have the chance to shape education, mobility and research to make them meet societal needs and hence to make EU progress towards a more inclusive Europe, where education and learning are at the forefront. We believe that investing in the Erasmus+ is a win-win partnership, in that it could really turn it into the education programme of the European Union.
 
-![](/assets/images/456.png)
+![null](/assets/images/456.png)
 
 **Are you satisfied with the results achieved so far? What are the next steps?**
 
@@ -53,3 +53,7 @@ We also work actively with international partners on [EU-funded projects](http:/
 **Is there any advice you would like to give to the youth in Europe?**
 
 I would advice to never stop learning. From your first day on this planet till your last, life is a continuous journey across your learning experiences. Thus, the best advice I can give European youth is to embrace the learning dimension of life in all of its forms.
+
+
+
+_Interview conducted by Evelina Semaškevič, Sponsorship&Outreach Manager in BETA e.V._
