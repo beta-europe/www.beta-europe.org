@@ -1,6 +1,6 @@
 ---
-title: 'Save the Date! '
-excerpt: The dates for General Assembly are published.
+title: 'BETA General Assembly 2018: Save the Date!'
+excerpt: The dates for General Assembly are fixed.
 categories: association
 tags:
   - ga
