@@ -35,8 +35,6 @@ Programme:
 
 1st July - Official founding of BETA Europe and First General Assembly (Morning)
 
-\[REGISTRATIONS HERE](https://desk.beta-europe.org/civicrm/event/info?reset=1&id=8){: .btn .btn--success}
-
 \===>> [ **REGISTER HERE**](https://desk.beta-europe.org/civicrm/event/info?reset=1&id=8)  <<===
 
 An Official convocation shall be sent out by email very soon, together with detailed agenda, venues and all relevant documents for the discussions.
