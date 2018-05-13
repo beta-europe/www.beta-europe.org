@@ -15,23 +15,13 @@ edit: true
 ---
 Dear Members,
 
-
-
 We are delighted to announce that registration for the BETA e.V.’s General Assembly is now OPEN! 
-
-
 
 This year’s General Assembly will be held from 29th June - 1st July 2018 in Brussels, Kingdom of Belgium.
 
-
-
 This GA marks an historic moment for this association: its reform into a Federal European Youth NGO. To make sure that the vast majority of members has the possibility to attend and make their voices heard, we have chosen a central location and the most affordable offer for our members:
 
-
-
 BETA Europe GA will have the single cost of 20 euros, which includes hotel accommodation for 2 nights, seat at 10th Anniversary Gala Dinner and social events, and conference materials.
-
-
 
 Programme:
 
@@ -47,4 +37,4 @@ Programme:
 
 An Official convocation shall be sent out by email very soon, together with detailed agenda, venues and all relevant documents for the discussions.
 
-![](/assets/images/rsz_1a38a265a940926b2b6ce8fc621a9624cfcec5075_1_690x388.jpg)
+![null](/assets/images/rsz_1a38a265a940926b2b6ce8fc621a9624cfcec5075_1_690x388.jpg)
