@@ -19,7 +19,7 @@ We are delighted to announce that registration for the BETA e.V.’s General Ass
 
 This year’s General Assembly will be held from 29th June - 1st July 2018 in Brussels, Kingdom of Belgium.
 
-![](/assets/images/rsz_1a38a265a940926b2b6ce8fc621a9624cfcec5075_1_690x388.jpg)
+![null](/assets/images/rsz_1a38a265a940926b2b6ce8fc621a9624cfcec5075_1_690x388.jpg)
 
 This GA marks an historic moment for this association: its reform into a Federal European Youth NGO. To make sure that the vast majority of members has the possibility to attend and make their voices heard, we have chosen a central location and the most affordable offer for our members:
 
@@ -35,6 +35,6 @@ Programme:
 
 1st July - Official founding of BETA Europe and First General Assembly (Morning)
 
-\===>>>       [ **REGISTER HERE**](https://desk.beta-europe.org/civicrm/event/info?reset=1&id=8)  <<<===
+\===>> [ **REGISTER HERE**](https://desk.beta-europe.org/civicrm/event/info?reset=1&id=8)  <<===
 
 An Official convocation shall be sent out by email very soon, together with detailed agenda, venues and all relevant documents for the discussions.
