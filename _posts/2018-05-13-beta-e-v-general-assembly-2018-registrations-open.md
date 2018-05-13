@@ -5,9 +5,8 @@ categories: association
 tags:
   - beta-ga
   - general-assembly
-  - ''
 date: '2018-05-13 08:41:26'
-toc: false
+toc: true
 comments: true
 share: true
 published: true
