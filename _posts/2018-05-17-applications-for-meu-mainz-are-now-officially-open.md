@@ -3,7 +3,7 @@ title: Applications for MEU Mainz are now officially open
 excerpt: 'Embark on an adventure and apply for #MEUM2018'
 categories: network
 tags:
-  - meu-maniz
+  - meu-mainz
   - beta
   - mainz
   - applications
