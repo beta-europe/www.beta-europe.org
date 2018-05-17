@@ -7,6 +7,8 @@ comments: false
 share: true
 published: true
 edit: true
+header:
+  teaser: /assets/images/rsz_32525943_1529330670529952_4195749544257912832_n.png
 ---
 BETA Portugal has announced the dates for international edition of Model European Lisbon 2018. The conference will be held from 9th till 14th September 2018. 
 
