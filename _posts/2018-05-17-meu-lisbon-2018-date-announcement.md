@@ -12,4 +12,4 @@ BETA Portugal has announced the dates for international edition of Model Europea
 
 To receive regular information on #MEULisbon2018, do not forget to follow their [Facebook](https://www.facebook.com/MEULisbon/?ref=br_rs) page!
 
-![](/assets/images/rsz_32525943_1529330670529952_4195749544257912832_n.png)
+![null](/assets/images/rsz_32525943_1529330670529952_4195749544257912832_n.png)
