@@ -1,6 +1,11 @@
 ---
 title: Apply for MEU Warsaw 2018
 excerpt: 'Applications for #MEUW2018 are now officially open'
+categories: network
+tags:
+  - meu-warsaw
+  - beta-polska
+  - application
 date: '2018-05-17 09:13:16'
 toc: false
 comments: false
