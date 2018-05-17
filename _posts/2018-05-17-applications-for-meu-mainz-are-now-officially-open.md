@@ -13,6 +13,8 @@ comments: false
 share: true
 published: true
 edit: true
+header:
+  teaser: /assets/images/30714365_1658411097540611_1987050659395928064_n.png
 ---
 ![](/assets/images/rsz_30714365_1658411097540611_1987050659395928064_n.png)
 
