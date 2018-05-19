@@ -14,13 +14,13 @@ General inquiries should be directed to the Secretary of BETA Europe, Ms. Kristi
 
 Official contacts or requests to the Management Board should be addressed to the President of BETA Europe, Mr. Cláudio Teixeira (<mailto:contact@beta-europe.org>)
 
-
-
 ## Become a Member
 
 An online membership form will soon be available. 
 
-In the meantime, you can join us by sending a quick email to our Head of Human Resources, Ms. Lina Kalouti (<mailto:l.kalouti@beta-europe.org>) - stating your interest in becoming a BETA member. Then, all you have to do is to fill out the application form we will send you. 
+In the meantime, you can join us by sending a quick email to our Head of Human Resources, Ms. Lina Kalouti (<mailto:l.kalouti@beta-europe.org>), stating your interest in becoming a BETA member.
+
+A membership form will then be sent to you, and all you need to do is fill it out!
 
 ## Get Engaged
 
@@ -40,7 +40,7 @@ For any further inquiries on how to start your own project, please contact our H
 ## Become a partner
 
 If you are organising your own MEU simulation and would like to join our partner network, you first have to become a BETA Europe member. 
-\
+
 Your organisation will then be invited to sign a partnership agreement with BETA Europe.
 
 We encourage you to join our network since you will benefit from BETA's support as well as all other MEU partners' experiences. 
