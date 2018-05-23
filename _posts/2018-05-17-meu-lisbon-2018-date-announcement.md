@@ -3,7 +3,7 @@ title: MEU Lisbon 2018 announced for September!
 excerpt: Simulation of EU politics arrives to Portugal
 date: '2018-05-17 09:02:35'
 toc: false
-comments: false
+comments: true
 share: true
 published: true
 edit: true
