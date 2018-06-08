@@ -5,6 +5,10 @@ excerpt: >-
   that has happened recently. For this edition’s feature, we present you with an
   overview of the 2nd Edition of Model European Union Iasi, which took place in
   Iasi, from 14th - 18th of March.
+categories: network
+tags:
+  - meu-iasi
+  - model-eu
 date: '2018-06-08 05:21:27'
 toc: false
 comments: false
