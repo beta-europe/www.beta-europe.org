@@ -1,6 +1,11 @@
 ---
 title: 'Interested in the #ModelEU adventure in "The City of Lights"?'
 excerpt: Applications for MEU Paris 2018 are now open!
+categories: network
+tags:
+  - meu-paris
+  - model-eu
+  - beta-france
 date: '2018-06-12 07:30:15'
 toc: false
 comments: false
