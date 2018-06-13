@@ -8,7 +8,7 @@ tags:
   - model-eu
 date: '2018-06-12 07:25:16'
 toc: false
-comments: false
+comments: true
 share: true
 published: true
 edit: true
