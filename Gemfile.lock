@@ -103,7 +103,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (= 3.6.2)
+  jekyll (~> 3.6.2)
   minimal-mistakes-beta-jekyll (= 4.12.0.4)!
   tzinfo-data
 

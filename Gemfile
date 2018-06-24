@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "3.6.2"
+gem "jekyll", "~>3.6.2"
 
 gem "minimal-mistakes-beta-jekyll", "4.12.0.4", :git => "https://github.com/beta-europe/minimal-mistakes-beta.git"
 
