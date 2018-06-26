@@ -1,6 +1,6 @@
 ---
 slug: eu-studies-fair
-title: ' EU Studies Fair'
+title: POLITICO EU Studies Fair
 website: 'https://www.politico.eu/event/eu-studies-fair-2018/'
 twitter: EUstudiesfair
 mail: events@politico.eu
