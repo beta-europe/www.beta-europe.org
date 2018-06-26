@@ -1,6 +1,6 @@
 ---
 slug: beta-espana
-title: Bringing Europeans Together Association España - BETA España
+title: BETA España
 website: 'http://www.meugranada.org'
 twitter: '@meu_granada'
 mail: spain.beta@gmail.com / info@meugranada.org
