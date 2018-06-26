@@ -1,6 +1,6 @@
 ---
 slug: beta-eesti
-title: Bringing Europeans Together Association Eesti
+title: BETA Eesti
 website: www.meutallinn.eu
 twitter: meu_tallinn
 mail: beta-estonia@meutallinn.eu
