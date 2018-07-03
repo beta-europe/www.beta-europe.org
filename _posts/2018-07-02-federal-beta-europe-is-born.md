@@ -1,8 +1,8 @@
 ---
 title: 'Federal BETA Europe is born! '
 excerpt: >-
-  At the meeting in Brussels, national BETAs decided to establish federal BETA
-  Europe
+  At our General Assembly in Brussels, members and national BETAs approve to
+  establish a federal BETA Europe
 categories: association
 tags:
   - beta-europe
