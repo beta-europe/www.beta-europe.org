@@ -1,7 +1,6 @@
 ---
 title: "Model EU Warsaw opens Applications"
 excerpt: "Apply for Model EU Warsaw until 20th of June."
-author: robert_riemann
 tags: [Warsaw, Applications, meu-warsaw]
 link: http://meu-warsaw.pl/?p=1195
 share: true
