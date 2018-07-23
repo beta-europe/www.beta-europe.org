@@ -1,5 +1,5 @@
 ---
-title: Do you have what it takes to be a Director-General for MEU Symposium 2018?!
+title: Do you have what it takes to be Director-General of MEU Symposium 2018?
 excerpt: 'Embark in a new #ModelEU adventure'
 categories: association
 tags:
@@ -15,12 +15,14 @@ edit: true
 ---
 Dear all,
 
+We are currently looking for a Director-General for the 2018 edition of the MEU Symposium taking place in Prague. 
 
+This is a 3-month project specific position, reporting to Mr. Nick Madzarov, BETA Treasurer. The Director-General will be responsible for all the content and logistical aspects of the Symposium.
 
-We are currently looking for a Director-General for the 2018 edition of the MEU Symposium taking place in Prague. This is a 3-month project specific position reporting to Nick, BETA Treasurer. The Director-General will be responsible for all the content and logistical aspects of the Symposium. BETA e.V. and/or BETA Czech Republic membership is needed and it desirable that the successful candidate attended an earlier edition of the Symposium.
+BETA e.V. and/or BETA Czech Republic membership is required. It is also desirable that the successful candidate has attended earlier editions of MEU Symposium.
 
+![null](/assets/images/xzxzzx.png)
 
+If you are a team player,  dynamic person and outgoing person, like volunteering and interested in #ModelEU conferences, and you interested in the position, please contact Ms. Lina Kalouti, Head of HR, at l.kalouti@beta-europe.org 
 
-![](/assets/images/xzxzzx.png)
-
-If you are a team player,  dynamic person and outgoing person, like volunteering and interested in #ModelEU conferences, interested in the position, please contact Lina at l.kalouti@beta-europe.org by Sun 22nd July 2018.
+Deadline for applications is Sun 22nd July 2018.
