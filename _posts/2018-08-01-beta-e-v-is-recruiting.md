@@ -17,6 +17,6 @@ Recruitment to join BETA Team 2018/2019 is now open! Tick on the Team you find y
 
 Our Head of HR, Lina is looking forward to your applications! If you have questions please refer to her at l.kalouti@beta-europe.org
 
-\[Apply here](https://docs.google.com/forms/d/e/1FAIpQLScoCHPw45xH6HgTDYAGvDsSHCgiRYe0ANPQhM_ucMvvpQvraA/viewform){: .btn .btn--success}
+[Apply here](https://docs.google.com/forms/d/e/1FAIpQLScoCHPw45xH6HgTDYAGvDsSHCgiRYe0ANPQhM_ucMvvpQvraA/viewform){: .btn .btn--success}
 
 ![null](/assets/images/11390133_10153317503468211_7967853315745316571_n.jpg)
