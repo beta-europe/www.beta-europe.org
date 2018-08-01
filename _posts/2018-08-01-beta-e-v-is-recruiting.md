@@ -1,6 +1,11 @@
 ---
 title: BETA e.V. is recruiting
 excerpt: 'Join us, and help shaping #ModelEU conferences!'
+categories: association
+tags:
+  - beta-europe
+  - model-eu
+  - ''
 date: '2018-08-01 08:37:01'
 toc: false
 comments: false
