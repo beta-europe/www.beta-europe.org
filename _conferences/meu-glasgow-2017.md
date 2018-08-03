@@ -1,9 +1,9 @@
 ---
-title: MEU Scotland 2017
-slug: meu-scotland-2017
+title: MEU Scotland 2018
+slug: meu-scotland-2018
 partner-slug: beta-scotland
 conference: meu-scotland
-year: 2017
+year: 2018
 begin: '2018-10-18'
 end: '2018-10-24'
 mail: president@meu.scot
@@ -14,7 +14,7 @@ town: Glasgow
 location: University of Strathclyde
 participants: ca. 100
 geo: '55.8619,-4.2425'
-excerpt: Paris Agreement and fisheries
+excerpt: ''
 header:
   image: ''
   teaser: ''
