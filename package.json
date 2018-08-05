@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "lambda-serve": "netlify-lambda serve lambda-src",
+    "build": "NODE_ENV=production netlify-lambda build lambda-src",
+    "dev": "NODE_ENV=development yarn run lambda-serve",
+    "test": "echo 'No tests are currently configured.'"
+  },
+  "dependencies": {
+    "stripe": "^5.4.0"
+  },
+  "devDependencies": {
+    "netlify-lambda": "^0.2.0"
+  }
+}

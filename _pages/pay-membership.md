@@ -27,6 +27,12 @@ References:
 <script src="https://checkout.stripe.com/checkout.js"></script>
 
 <script>
+function uuidv4() {
+  return ([1e7]+-1e3+-4e3+-8e3+-1e11).replace(/[018]/g, c =>
+    (c ^ crypto.getRandomValues(new Uint8Array(1))[0] & 15 >> c / 4).toString(16)
+  )
+}
+
 var handler = StripeCheckout.configure({
   // key: 'pk_live_1gz0SmUMlPWVoaiXtgJezHqP',
   key: 'pk_test_QWON4XJghKqnPLwdrYG499Lq',
@@ -35,7 +41,26 @@ var handler = StripeCheckout.configure({
   token: function(token) {
     // You can access the token ID with `token.id`.
     // Get the token ID to your server-side code for use.
-    window.location.replace('/pay-membership/success/');
+    // window.location.replace('/pay-membership/success/');
+window.location.replace('/pay-membership/success/')
+
+    fetch(`https://www.beta-europe.org/.netlify/functions/purchase`, {
+      method: 'POST',
+      body: JSON.stringify({
+        token,
+        amount: 1500, // in euro cent
+        idempotency_key: uuidv4()
+      }),
+      headers: new Headers({
+        'Content-Type': 'application/json'
+      })
+    })
+    .then(res => res.json())
+    .catch(error => console.error('Error:', error))
+    .then(response => {
+      console.log(response)
+      window.location.replace('/pay-membership/success/')
+    });
   }
 });
 
