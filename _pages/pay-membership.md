@@ -28,7 +28,8 @@ References:
 
 <script>
 var handler = StripeCheckout.configure({
-  key: 'pk_live_1gz0SmUMlPWVoaiXtgJezHqP',
+  // key: 'pk_live_1gz0SmUMlPWVoaiXtgJezHqP',
+  key: 'pk_test_QWON4XJghKqnPLwdrYG499Lq',
   image: 'https://www.beta-europe.org/assets/images/apple-touch-icon-144x144-precomposed.png',
   locale: 'auto',
   token: function(token) {
