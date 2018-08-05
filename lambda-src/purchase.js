@@ -28,6 +28,7 @@ exports.handler = function(event, context, callback) {
   if(
     !data.token ||
     !data.amount ||
+    !data.description ||
     !data.idempotency_key
   ) {
 
@@ -48,7 +49,7 @@ exports.handler = function(event, context, callback) {
       amount: data.amount,
       source: data.token.id,
       receipt_email: data.token.email,
-      description: `BETA membership fee`
+      description: data.description
     },
     {
       idempotency_key: data.idempotency_key

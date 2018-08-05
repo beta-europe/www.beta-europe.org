@@ -42,13 +42,15 @@ var handler = StripeCheckout.configure({
     // You can access the token ID with `token.id`.
     // Get the token ID to your server-side code for use.
     // window.location.replace('/pay-membership/success/');
-window.location.replace('/pay-membership/success/')
+    var form_name = `BETA Membership`
+    var description = `Annual BETA e.V. Membership Fee`
 
     fetch(`https://www.beta-europe.org/.netlify/functions/purchase`, {
       method: 'POST',
       body: JSON.stringify({
         token,
         amount: 1500, // in euro cent
+        description: description,
         idempotency_key: uuidv4()
       }),
       headers: new Headers({
@@ -67,9 +69,10 @@ window.location.replace('/pay-membership/success/')
 document.getElementById('stripeButton').addEventListener('click', function(e) {
   // Open Checkout with further options:
   handler.open({
-    name: 'BETA Membership',
-    description: 'Pay Annual BETA e.V. Membership Fee',
+    name: form_name,
+    description: description,
     zipCode: false,
+    billingAddress: true,
     amount: 1500,
     currency: 'EUR',
     allowRememberMe: false,
