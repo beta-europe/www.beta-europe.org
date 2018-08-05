@@ -57,7 +57,7 @@ cms:
 forum_api: https://forum.beta-europe.org
 
 # Stripe
-stripe_public_key: pk_test_QWON4XJghKqnPLwdrYG499Lq
+stripe_public_key: pk_live_1gz0SmUMlPWVoaiXtgJezHqP
 
 # SEO Related
 google_site_verification :
