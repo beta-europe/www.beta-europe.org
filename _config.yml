@@ -52,9 +52,12 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 cms:
   has_conference         : true
-  
+
 # Related to Forum API
 forum_api: https://forum.beta-europe.org
+
+# Stripe
+stripe_public_key: pk_test_QWON4XJghKqnPLwdrYG499Lq
 
 # SEO Related
 google_site_verification :
@@ -242,7 +245,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-    
+
 # Collections
 collections:
   conferences:

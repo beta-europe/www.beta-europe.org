@@ -34,8 +34,7 @@ function uuidv4() {
 }
 
 var handler = StripeCheckout.configure({
-  // key: 'pk_live_1gz0SmUMlPWVoaiXtgJezHqP',
-  key: 'pk_test_QWON4XJghKqnPLwdrYG499Lq',
+  key: '{{ site.config.stripe_public_key }}',
   image: 'https://www.beta-europe.org/assets/images/apple-touch-icon-144x144-precomposed.png',
   locale: 'auto',
   token: function(token) {
