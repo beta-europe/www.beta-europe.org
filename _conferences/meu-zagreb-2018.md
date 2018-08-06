@@ -13,6 +13,6 @@ country: Croatia
 town: Zagreb
 location: Parliament of Croatia
 participants: c.a 80
-geo: '45.8401104,15.824247'
+geo: 45.8401104,15.824247
 ---
-.
+
