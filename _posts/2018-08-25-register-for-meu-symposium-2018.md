@@ -41,8 +41,7 @@ For the best experience, it is recommended that you already have some MEU backgr
 We believe that personal get-togethers of like-minded, motivated MEU-enthusiasts are worth every possible effort from our side. That's why, as promised, there will be NO participation fee - accommodation, venues, and meals are covered! Registration is now open on BETA Desk 
 
 
-
- https://desk.beta-europe.org/civicrm/event/info?reset=1&id=9
+[Register here](https://desk.beta-europe.org/civicrm/event/info?reset=1&id=9){: .btn .btn--success}
 
 
 
