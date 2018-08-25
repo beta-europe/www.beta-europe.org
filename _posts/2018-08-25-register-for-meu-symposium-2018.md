@@ -3,7 +3,7 @@ title: Register for MEU Symposium 2018
 excerpt: 'Your heart beats for #ModelEU''s? Then join us!'
 date: '2018-08-25 06:18:51'
 toc: false
-comments: false
+comments: true
 share: true
 published: true
 edit: true
