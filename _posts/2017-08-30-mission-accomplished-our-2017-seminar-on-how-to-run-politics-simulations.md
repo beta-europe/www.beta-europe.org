@@ -1,20 +1,19 @@
 ---
 title: 'MEU Symposium 2017: Mission Accomplished!'
-date: 2017-08-30T17:17:20.631Z
 excerpt: >-
   Over 50 attendees from across Europe met in Berlin to exchange their
   experiences in a unique Seminar on how to run EU Politics Simulations
-link: null
 categories:
   - Association
 tags:
   - MEU Symposium
+date: 2017-08-30T17:17:20.631Z
 comments: false
 share: true
 published: true
 edit: true
 ---
-![BETA Symposium 2017 Participants](http://www.beta-europe.org/assets/images/beta-symposum-2017-participants.jpg)
+![BETA Symposium 2017 Participants](https://www.beta-europe.org/assets/images/beta-symposum-2017-participants.jpg)
 
 MEU Symposium is a project that gathers the community of BETA partner organisations very year to train new officers  of local MEUs and to discuss the future of the network.
 
