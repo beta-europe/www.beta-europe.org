@@ -1,13 +1,13 @@
 ---
 title: Call for BETA Team members extended!
-date: 2017-08-26T09:41:07.095Z
 excerpt: 'Application deadline extended to September 1st, 23:59 CEST'
+date: 2017-08-26T09:41:07.095Z
 comments: false
 share: true
 published: true
 edit: true
 ---
-![BETA Symposium 2017 participants](http://www.beta-europe.org/assets/images/beta-symposum-2017-participants.jpg)
+![BETA Symposium 2017 participants](https://www.beta-europe.org/assets/images/beta-symposum-2017-participants.jpg)
 
 Missed the deadline? You now have one last chance!
 
