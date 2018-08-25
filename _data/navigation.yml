@@ -1,33 +1,20 @@
-# main links
 main:
   - title: About
     url: /about/
-
   - title: Contact
     url: /contact/
-    
   - title: News
     url: /news/
-
   - title: MEU Calendar
     url: /calendar/
-
   - title: Forum
-    url: https://forum.beta-europe.org
-  
+    url: 'https://forum.beta-europe.org'
   - title: Partners
     url: /partner/
-
-  # - title: Ultimate Conference Guide
-  #   url: /guide/
-  
 teams:
-  - title: BETA Teams
-    children:
+  - children:
       - title: Management Board
         url: /team/board/
-      - title: Trustees
-        url: /team/trustees/
       - title: Concept and Partnerships
         url: /team/concept-partnerships/
       - title: Public Relations
@@ -42,7 +29,8 @@ teams:
         url: /team/translations/
       - title: Information Technology
         url: /team/information-technology/
-      - title: Legal Service
+      - title: Legal Affairs
         url: /team/legal-affairs/
-      - title: Trainees
-        url: /team/trainees/
+      - title: Trustees
+        url: /team/trustees/
+    title: BETA Teams
