@@ -3,7 +3,10 @@ title: 'Call for BETA Partnership Teams: Lebanon and Kazakhstan'
 excerpt: 'Interested in being a #BETAambassador? Join us now!'
 categories: association
 tags:
-  - ''
+  - beta-europe
+  - model-eu
+  - lebanon
+  - kazakhstan
 date: '2018-09-06 07:55:11'
 toc: false
 comments: false
