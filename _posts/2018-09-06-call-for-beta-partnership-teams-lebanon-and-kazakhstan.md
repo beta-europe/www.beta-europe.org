@@ -14,20 +14,22 @@ share: true
 published: true
 edit: true
 ---
-![](/assets/images/14479819_763307860475402_7627674594925883006_n.jpg)
+![null](/assets/images/14479819_763307860475402_7627674594925883006_n.jpg)
 
 Call for Recruitment!
 
-BETA Europe is growing bigger and bigger not just in Europe, but also beyond!
+BETA Europe is growing bigger and better; not just in Europe, but also beyond!
 
-We are currently looking for motivated volunteers to join our two specific BETA Partnership Teams, tasked with helping and facilitating the preparation of MEU conferences in:
+We are currently looking for motivated volunteers to join our two project-specific BETA Partnership Teams, tasked with helping and facilitating the preparation of MEU conferences in:
 
-* Lebanon
-* Kazakhstan
+* **Lebanon**
+* **Kazakhstan**
 
-Detailed descriptions of all roles [HERE](https://drive.google.com/file/d/1XJ45CpGEQhVoJzGOfOrXeXaYDlk8NZ2A/view?usp=sharing)
+Job description and application requirements** **[**HERE**](https://drive.google.com/file/d/1XJ45CpGEQhVoJzGOfOrXeXaYDlk8NZ2A/view?usp=sharing)
 
-Wanna join us? Please send your CV and a Motivation Letter, indicating your interests and why you would be a suitable candidate, to Ms Lina Kalouti, Head of Human Resources, at l.kalouti@beta-europe.org.
+Wanna join us? \
+\
+Please send your CV and a Motivation Letter, indicating your interests and why you would be a suitable candidate, to Ms Lina Kalouti, Head of Human Resources, at l.kalouti@beta-europe.org.
 
 Deadline: Thursday, 13.09.2018, 23:59 CEST\
 \
