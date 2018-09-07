@@ -36,4 +36,4 @@ Please send your CV and a Motivation Letter, indicating your interests and why y
 Deadline: Thursday, 13.09.2018, 23:59 CEST\
 
 
-So hurry up!{: .notice--info}
+[So hurry up!]{: .notice--info}
