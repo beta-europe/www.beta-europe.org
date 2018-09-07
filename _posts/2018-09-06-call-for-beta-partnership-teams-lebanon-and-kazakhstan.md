@@ -33,7 +33,8 @@ Wanna join us?
 
 Please send your CV and a Motivation Letter, indicating your interests and why you would be a suitable candidate, to Ms Lina Kalouti, Head of Human Resources, at l.kalouti@beta-europe.org.
 
-Deadline: Thursday, 13.09.2018, 23:59 CEST\
 
-
-[So hurry up!]{: .notice--info}
+<div class="Deadline: Thursday, 13.09.2018, 23:59 CEST">
+  <h4>Message</h4>
+  <p>So, hurry up!</p>
+</div>
