@@ -25,12 +25,15 @@ We are currently looking for motivated volunteers to join our two project-specif
 * **Lebanon**
 * **Kazakhstan**
 
-Job description and application requirements[ HERE](https://drive.google.com/file/d/1XJ45CpGEQhVoJzGOfOrXeXaYDlk8NZ2A/view?usp=sharing)
+Description of the position and application requirements 
+
+[HERE](https://drive.google.com/file/d/1XJ45CpGEQhVoJzGOfOrXeXaYDlk8NZ2A/view?usp=sharing){: .btn .btn--success}
 
 Wanna join us? 
 
 Please send your CV and a Motivation Letter, indicating your interests and why you would be a suitable candidate, to Ms Lina Kalouti, Head of Human Resources, at l.kalouti@beta-europe.org.
 
 Deadline: Thursday, 13.09.2018, 23:59 CEST\
-\
-So hurry up!
+
+
+So hurry up!{: .notice--info}
