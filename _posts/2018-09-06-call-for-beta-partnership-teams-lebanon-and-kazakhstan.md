@@ -25,9 +25,9 @@ We are currently looking for motivated volunteers to join our two project-specif
 * **Lebanon**
 * **Kazakhstan**
 
-Description of the position and application requirements 
+Description of the position and application requirements:
 
-[HERE](https://drive.google.com/file/d/1XJ45CpGEQhVoJzGOfOrXeXaYDlk8NZ2A/view?usp=sharing){: .btn .btn--success}
+[READ HERE](https://drive.google.com/file/d/1XJ45CpGEQhVoJzGOfOrXeXaYDlk8NZ2A/view?usp=sharing){: .btn .btn--success}
 
 Wanna join us? 
 
