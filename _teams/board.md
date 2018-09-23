@@ -1,4 +1,4 @@
 ---
-title: Extended Board
-forum_group: BETA-Extended-Board
+title: Management Board
+forum_group: BETA-Board
 ---
