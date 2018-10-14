@@ -9,6 +9,8 @@ main:
     url: /calendar/
   - title: Forum
     url: 'https://forum.beta-europe.org'
+  - title: Members
+    url: /member/
   - title: Partners
     url: /partner/
 teams:
@@ -16,7 +18,7 @@ teams:
       - title: Management Board
         url: /team/board/
       - title: Extended Management Board
-        url: /team/extended-board/
+        url: /team/extended-board
       - title: Concept and Partnerships
         url: /team/concept-partnerships/
       - title: Public Relations

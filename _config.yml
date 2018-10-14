@@ -52,6 +52,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 cms:
   has_conference         : true
+  has_members            : true
 
 # Related to Forum API
 forum_api: https://forum.beta-europe.org
@@ -256,6 +257,10 @@ collections:
     title: Partners
     output: true
     permalink: "/partner/:path/"
+  members:
+    title: Members
+    output: true
+    permalink: "/member/:path/"
   teams:
     title: Teams
     output: true
@@ -313,6 +318,17 @@ defaults:
   - scope:
       path: ''
       type: partners
+    values:
+      layout: partner_page
+      author_profile: true
+      comments: false
+      share: true
+      edit: true
+      related: false
+  # _members
+  - scope:
+      path: ''
+      type: members
     values:
       layout: partner_page
       author_profile: true
