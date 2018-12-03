@@ -8,6 +8,6 @@ author_profile: false
 sidebar:
   nav:
 ---
-{% for post in site.euvote_posts limit:3 %}
+{% for post in site.euvoteposts limit:3 %}
   {% include archive-single.html %}
 {% endfor %}
