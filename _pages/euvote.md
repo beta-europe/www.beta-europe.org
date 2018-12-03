@@ -1,5 +1,5 @@
 ---
-title: About BETA
+title:
 modified: 2018-03-012T23:00:00.000Z
 excerpt: European Parliament Elections
 header:
@@ -8,4 +8,3 @@ author_profile: false
 sidebar:
   nav:
 ---
-## EU parliamentary Elections
