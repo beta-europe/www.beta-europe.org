@@ -256,7 +256,7 @@ collections:
   euvoteposts:
         title: euvoteposts
         output: true
-        permalink: "/euvoteposts/:path/"
+        permalink: "/euvoteposts:path/"
   partners:
     title: Partners
     output: true
