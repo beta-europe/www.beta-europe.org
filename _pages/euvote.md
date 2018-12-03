@@ -18,7 +18,11 @@ sidebar:
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 {% for post in site.euvoteposts limit:3 %}
+=======
+{% for post in site.euvote_posts limit:3 %}
+>>>>>>> parent of 6f36b81... Changed post directory name for continuity
   {% include archive-single.html %}
 {% endfor %}
 =======
