@@ -269,10 +269,6 @@ collections:
     title: Pages
     output: true
     permalink: "/:slug/"
-  euvoteposts:
-    title: euvoteposts
-    output: true
-    permalink: "/euvoteposts:path/"
 
 # Defaults
 defaults:
