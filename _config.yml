@@ -253,6 +253,10 @@ collections:
     title: Conferences
     output: true
     permalink: "/conference/:path/"
+  euvoteposts:
+        title: euvoteposts
+        output: true
+        permalink: "/euvoteposts:path/"
   partners:
     title: Partners
     output: true
@@ -269,10 +273,7 @@ collections:
     title: Pages
     output: true
     permalink: "/:slug/"
-  euvoteposts:
-    title: euvoteposts
-    output: true
-    permalink: "/euvoteposts:path/"
+
 
 # Defaults
 defaults:
