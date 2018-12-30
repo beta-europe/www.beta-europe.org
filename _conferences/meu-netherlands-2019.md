@@ -11,7 +11,6 @@ website: 'https://netherlands.beta-europe.org/'
 country: Netherlands
 town: Hague
 geo: '52.0705, 4.3007, '
-excerpt: >-
-1: Directive on the reduction of the impact of certain plastic products on the environment 2:TBC
+
   ---
   The flagship project of BETA Netherlands is Model European Union The Netherlands (MEU The Netherlands) which is scheduled to premiere in July 2019 and will host around 100 participants from all over Europe. The project aims to promote knowledge of the decision-making process, representing the way new EU legislation comes to force while fostering mutual understanding and cooperation through debate and dialogue amidst youth within Netherlands and Europe.
