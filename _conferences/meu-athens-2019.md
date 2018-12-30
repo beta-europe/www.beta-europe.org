@@ -10,6 +10,6 @@ mail: y.rajendra@beta-europe.org
 website: 'https://greece.beta-europe.org/'
 country: Greece
 town: Athens
-geo: '37.9837, 27.7293'
+geo: '37.9837, 23.7293'
 ---
 The flagship project of BETA Greece is Model European Union Athens (MEU Athens). The project aims to promote knowledge of the decision-making process, representing the way new EU legislation comes to force while fostering mutual understanding and cooperation through debate and dialogue amidst youth within Greece and Europe.
