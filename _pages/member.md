@@ -20,10 +20,10 @@ The network of BETA Europe is strong thanks to its members.
 </div>
 
 <div class="grid__wrapper grid__partners">
-  {% include <h1>Observers</h1> type="grid" %}
+  {% include archive-single.html type="grid" %}
 </div>
 
-
+# Observers
 <div class="grid__wrapper grid__partners">
   {% for post in site.observers %}
     {% include archive-single.html type="grid" %}
