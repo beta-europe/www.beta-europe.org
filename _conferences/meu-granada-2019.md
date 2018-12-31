@@ -10,6 +10,6 @@ mail: info@meugranada.org
 website: 'http://meugranada.org'
 country: Spain
 town: Granada
-geo: '-3.5985, 37.1773'
+geo: '37.1809,-3.6198'
 ---
 MEU Granada is being organised by BETA España, a non-profit national youth association founded in the summer of 2011 and whose primary goal is to bring young people closer to how EU institutions work.

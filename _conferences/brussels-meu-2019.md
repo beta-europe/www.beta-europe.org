@@ -11,7 +11,7 @@ website: 'https://www.brusselsmeu.org/'
 twitter: BrusselsMEU
 country: Kingdom of Belgium
 town: Brussels
-geo: '4.3517, 50.8503'
+geo: '50.840556,4.377222'
 excerpt: >-
   1)        EP & CoEU: Regulation on Consumer Protection & New Medical Device
   Regulation (MDR) 2)        European Council: European Defence and Military
