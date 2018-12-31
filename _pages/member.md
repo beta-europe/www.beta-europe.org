@@ -14,8 +14,8 @@ The network of BETA Europe is strong thanks to its members.
 {% include base_path %}
 
 <div class="grid__wrapper grid__partners">
-  {% int postcounter = 0 %}
-  {% int remainder = 0 %}
+  {% var postcounter = 0 %}
+  {% var remainder = 0 %}
   {% for post in site.members %}
     {% include archive-single.html type="grid" %}
     {% postcounter++ %}
