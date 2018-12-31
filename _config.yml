@@ -333,7 +333,7 @@ defaults:
   # _observers
   - scope:
       path: ''
-      type: partners
+      type: observers
     values:
       layout: partner_page
       author_profile: true
