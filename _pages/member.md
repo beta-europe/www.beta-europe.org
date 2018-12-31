@@ -25,6 +25,7 @@ The network of BETA Europe is strong thanks to its members.
 {% include feature_row id="observers" type="left" %}
 
 <div class="grid__wrapper grid__partners">
+  <h1>Observers</h1>
   {% for post in site.observers %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
