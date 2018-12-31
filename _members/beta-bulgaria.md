@@ -4,6 +4,9 @@ title: BETA Bulgaria
 website: 'https://www.facebook.com/MEUSofia/'
 twitter: MEUSofia
 mail: modeleusofia@gmail.com
+facebook:
+instagram:
+linkedin:
 excerpt: >-
   BETA Bulgaria was founded in September 2016, by a small team of volunteers in
   order to recreate and expand the MEU format in Bulgaria.
