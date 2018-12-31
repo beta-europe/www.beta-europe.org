@@ -11,7 +11,7 @@ website: 'http://www.meu-vienna.at'
 twitter: MEUVienna
 country: Austria
 town: Vienna
-geo: '16.3738, 48.2081'
+geo: '48.2392831,16.3773241'
 excerpt: >-
   1.
   https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52018PC0238&fbclid=IwAR1ppqcVRq9JlsFbTzWmelkakxJKKRe2iIaE2tXnZpMNZQF6jFnGj4T_xmo
