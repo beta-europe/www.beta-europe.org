@@ -139,7 +139,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Thumbnail for Member Overview", name: "teaser", widget: "image", required: false}
           - {label: "Label (e.g. for credit)", name: "credit", widget: "string", required: false}
 {% endraw %}{% endif %}{% if site.cms.has_observers %}{% raw %}
-  - name: "observer"
+  - name: "observers"
     label: "Observers"
     folder: "_observers"
     sort: "title:asc"
