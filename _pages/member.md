@@ -25,8 +25,8 @@ The network of BETA Europe is strong thanks to its members.
 
 
 
-# Observers
-{% include base_path %}
+
+
 
 <div class="grid__wrapper grid__partners">
   {% for post in site.observers %}
