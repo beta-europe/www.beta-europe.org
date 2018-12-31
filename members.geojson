@@ -20,19 +20,5 @@ permalink: /members.geojson
       }
     }{% unless forloop.last %},{% endunless %}
   {% endfor %}
-  {% assign localised_partners = site.observers | where_exp: "partner", "partner.geo contains ','" %}
-  {% for partner in localised_partners %}
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "{{partner.title}}",
-        "url": "{{partner.url | absolute_url}}"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [ {{partner.geo | split: "," | reverse | join: "," }} ]
-      }
-    }{% unless forloop.last %},{% endunless %}
-  {% endfor %}
   ]
 }

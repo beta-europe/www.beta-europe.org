@@ -261,10 +261,6 @@ collections:
     title: Members
     output: true
     permalink: "/member/:path/"
-  observers:
-    title: Observers
-    output: true
-    permalink: "/observer/:path/"
   teams:
     title: Teams
     output: true
@@ -329,10 +325,10 @@ defaults:
       share: true
       edit: true
       related: false
-  # _observers
+  # _members
   - scope:
       path: ''
-      type: observers
+      type: members
     values:
       layout: partner_page
       author_profile: true
@@ -340,17 +336,6 @@ defaults:
       share: true
       edit: true
       related: false
-    # _members
-    - scope:
-        path: ''
-        type: members
-      values:
-        layout: partner_page
-        author_profile: true
-        comments: false
-        share: true
-        edit: true
-        related: false
   # _teams
   - scope:
       path: ''

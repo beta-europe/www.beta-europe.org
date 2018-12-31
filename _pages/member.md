@@ -7,8 +7,6 @@ author_profile: true
 
 The network of BETA Europe is strong thanks to its members.
 
-# Full members
-
 {% include map.html geojson="/members.geojson" %}
 
 {% include base_path %}
