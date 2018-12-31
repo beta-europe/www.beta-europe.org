@@ -3,6 +3,9 @@ slug: beta-ukraine
 title: BETA Ukraine
 website: 'https://www.facebook.com/meukyiv/'
 mail: meukyiv@gmail.com
+facebook:
+instagram:
+linkedin:
 president: Yulia Kril
 country: Ukraine
 town: Kyiv

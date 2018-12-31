@@ -3,6 +3,9 @@ slug: beta-netherlands
 title: BETA Netherlands
 website: 'Netherlands.BETA-europe.org'
 mail: c.kroes@beta-europe.org
+facebook:
+instagram:
+linkedin: 'facebook.com/MEUNL'
 president: Casper Kroes
 country: Netherlands
 town: The Hague

@@ -2,6 +2,9 @@
 slug: beta-greece
 title: BETA Greece
 website: 'https://greece.beta-europe.org'
+facebook:
+instagram:
+linkedin:
 excerpt: >-
   BETA Greece is the official organisation of BETA Europe in Greece, a
   non-profit national youth association founded in June 2018.

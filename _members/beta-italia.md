@@ -2,13 +2,16 @@
 slug: beta-italia
 title: BETA Italia
 website: 'https://italy.beta-europe.org'
+facebook:
+instagram:
+linkedin:
 twitter: BETA_Italia
 mail: contact@italy.beta-europe.org
 excerpt: >-
   BETA Italia is the Italian branch of Bringing Europeans Together Association
   e.V. Founded in 2016, we already count 40 members all over Italy and Europe,
   focusing on the realisation of 3 Model European Union in Venice, Rome and
-  Milan. 
+  Milan.
 president: Marco Gerbaudo
 country: Italy
 town: Rome

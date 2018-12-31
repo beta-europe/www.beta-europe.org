@@ -3,6 +3,9 @@ slug: beta-portugal
 title: BETA Portugal
 website: 'https://portugal.beta-europe.org/'
 mail: betaportugal.official@gmail.com
+facebook:
+instagram:
+linkedin:
 excerpt: >-
   Bringing Europeans Together Association Portugal (BETA Portugal) was
   established in 2017 as the Portuguese national branch of Bringing Europeans

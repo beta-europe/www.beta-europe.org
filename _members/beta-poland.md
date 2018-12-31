@@ -2,6 +2,9 @@
 slug: beta-poland
 title: BETA Polska
 website: 'http://www.meu-warsaw.pl/'
+facebook:
+instagram:
+linkedin:
 twitter: meu_warsaw
 mail: polska@beta-europe.org
 president: Aleksandra Pikus

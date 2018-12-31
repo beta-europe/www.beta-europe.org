@@ -2,6 +2,9 @@
 slug: beta-slovakia
 title: BETA Slovakia
 website: 'https://slovakia.beta-europe.org'
+facebook:
+instagram:
+linkedin:
 excerpt: >-
   BETA Slovakia is the official organisation of BETA Europe in Slovakia, a
   non-profit national youth association founded in 2017.
