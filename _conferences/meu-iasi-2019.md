@@ -10,6 +10,6 @@ mail: meu.iasi@asd-uaic.ro
 website: 'http://asd-uaic.ro/meu'
 country: Romania
 town: Iași
-geo: '27.5828, 47.1620'
+geo: '47.1622,27.4123'
 ---
 MEU Iasi is the first #ModelEU simulation in Romania. It is organised by Law Students’ Association UAIC Iași.
