@@ -19,11 +19,10 @@ The network of BETA Europe is strong thanks to its members.
   {% endfor %}
 </div>
 
-<div class="grid__wrapper grid__partners">
-</div>
-[//]: # (Comment: ugly solution to a formating error with the previous grid not closing well)
 
-# Observers
+
+<h1>{{"Observers"}}</h1>
+
 <div class="grid__wrapper grid__partners">
   {% for post in site.observers %}
     {% include archive-single.html type="grid" %}
