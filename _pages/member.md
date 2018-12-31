@@ -19,6 +19,12 @@ The network of BETA Europe is strong thanks to its members.
   {% endfor %}
 </div>
 
+
+
+
+
+
+
 # Observers
 {% include base_path %}
 
