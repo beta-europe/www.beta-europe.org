@@ -14,6 +14,7 @@ The network of BETA Europe is strong thanks to its members.
 {% include base_path %}
 
 <div class="grid__wrapper grid__partners">
+
   {% var postcounter = 0 %}
   {% var remainder = 0 %}
   {% for post in site.members %}
@@ -24,6 +25,7 @@ The network of BETA Europe is strong thanks to its members.
   {% while remainder > 0 %}
     {% include  %}
     {% remainder-- %}
+    
 </div>
 
 
