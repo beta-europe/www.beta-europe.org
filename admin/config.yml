@@ -86,7 +86,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Twitter Handle (without at)", name: "twitter", widget: "string", required: false}
       - {label: "Mail", name: "mail", widget: "string", required: false}
       - {label: "Linkedin (e.g. http://linkedin.com/BETAEU)", name: "linkedin", widget: "string"}
-      - {label: "Instagram (e.g. "BetaEU")", name: "instagram", widget: "string"}
+      - {label: "Instagram (e.g. BetaEU)", name: "instagram", widget: "string"}
       - {label: "Facebook (e.g. http://facebook.com/betaEU)", name: "facebook", widget: "string"}
       - {label: "Excerpt (used in Partner Overview)", name: "excerpt", widget: "string", required: false}
       - {label: "President", name: "president", widget: "string", required: false}
@@ -119,7 +119,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Twitter Handle (without at)", name: "twitter", widget: "string", required: false}
       - {label: "Mail", name: "mail", widget: "string", required: false}
       - {label: "Linkedin (e.g. http://linkedin.com/BETAEU)", name: "linkedin", widget: "string"}
-      - {label: "Instagram (e.g. "BetaEU")", name: "instagram", widget: "string"}
+      - {label: "Instagram (e.g. BetaEU)", name: "instagram", widget: "string"}
       - {label: "Facebook (e.g. http://facebook.com/betaEU)", name: "facebook", widget: "string"}
       - {label: "Excerpt (used in Partner Overview)", name: "excerpt", widget: "string", required: false}
       - {label: "President", name: "president", widget: "string", required: false}
@@ -152,7 +152,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Twitter Handle (without at)", name: "twitter", widget: "string", required: false}
       - {label: "Mail", name: "mail", widget: "string", required: false}
       - {label: "Linkedin (e.g. http://linkedin.com/BETAEU)", name: "linkedin", widget: "string"}
-      - {label: "Instagram (e.g. "BetaEU")", name: "instagram", widget: "string"}
+      - {label: "Instagram (e.g. BetaEU)", name: "instagram", widget: "string"}
       - {label: "Facebook (e.g. http://facebook.com/betaEU)", name: "facebook", widget: "string"}
       - {label: "Excerpt (used in Partner Overview)", name: "excerpt", widget: "string", required: false}
       - {label: "President", name: "president", widget: "string", required: false}
