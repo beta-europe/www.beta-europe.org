@@ -4,7 +4,7 @@ title: BETA Netherlands
 website: Netherlands.BETA-europe.org
 mail: c.kroes@beta-europe.org
 linkedin: ' '
-instagram: ' Casper_Kroes'
+instagram: ''
 facebook: ' '
 excerpt: >-
   BETA Netherlands was founded in November 2018 and will organise its first MEU
