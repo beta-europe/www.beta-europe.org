@@ -6,7 +6,7 @@ mail: c.kroes@beta-europe.org
 president: Casper Kroes
 country: Netherlands
 town: The Hague
-geo:
+geo: '52.0704978, 4.3006999'
 header:
   teaser: /assets/images/beta_netherlands_logo_colored.png
 ---
