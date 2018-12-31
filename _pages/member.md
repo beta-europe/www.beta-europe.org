@@ -19,10 +19,12 @@ The network of BETA Europe is strong thanks to its members.
   {% endfor %}
 </div>
 <br>
+<br>
+<br>
+<br>
 
-
+# Observers
 <div class="grid__wrapper grid__partners">
-# observers
   {% for post in site.observers %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
