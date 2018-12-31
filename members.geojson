@@ -6,8 +6,8 @@ permalink: /members.geojson
 {
   "type": "FeatureCollection",
   "features": [
-  {% assign localised_partners = (site.members) | where_exp: "partner", "partner.geo contains ','" %}
-  {% assign localised_partners = (site.observers) | where_exp: "partner", "partner.geo contains ','" %}
+  {% assign localised_partners = site.members | where_exp: "partner", "partner.geo contains ','" %}
+  {% assign localised_partners = site.observers | where_exp: "partner", "partner.geo contains ','" %}
   {% for partner in localised_partners %}
     {
       "type": "Feature",
