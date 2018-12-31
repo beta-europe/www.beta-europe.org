@@ -20,7 +20,7 @@ The network of BETA Europe is strong thanks to its members.
 </div>
 
 <div class="grid__wrapper grid__partners">
-    <h1>Observers</h1>
+  {% include <h1>Observers</h1> type="grid" %}
 </div>
 
 
