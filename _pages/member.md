@@ -7,7 +7,7 @@ author_profile: true
 
 The network of BETA Europe is strong thanks to its members.
 
-# Full members
+# Full Members
 
 {% include map.html geojson="/members.geojson" %}
 
@@ -15,6 +15,15 @@ The network of BETA Europe is strong thanks to its members.
 
 <div class="grid__wrapper grid__partners">
   {% for post in site.members %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
+
+# Observers
+{% include base_path %}
+
+<div class="grid__wrapper grid__partners">
+  {% for post in site.observers %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
