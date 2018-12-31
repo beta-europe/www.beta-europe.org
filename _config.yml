@@ -53,6 +53,7 @@ atom_feed:
 cms:
   has_conference         : true
   has_members            : true
+  has_observers          : true
 
 # Related to Forum API
 forum_api: https://forum.beta-europe.org
