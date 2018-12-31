@@ -24,8 +24,10 @@ The network of BETA Europe is strong thanks to its members.
 
 {% include feature_row id="observers" type="left" %}
 
+[//]: <> (The feature_row is to break off the grid from the Full Members. There is a mistake in the grid Type that would not allow it in any easier way.)
+
+# Observers
 <div class="grid__wrapper grid__partners">
-  <h1>Observers</h1>
   {% for post in site.observers %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
