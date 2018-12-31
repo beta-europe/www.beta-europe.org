@@ -1,11 +1,14 @@
 ---
 slug: beta-netherlands
 title: BETA Netherlands
-website: 'Netherlands.BETA-europe.org'
+website: Netherlands.BETA-europe.org
 mail: c.kroes@beta-europe.org
-linkedin:
-instagram:
-facebook:
+linkedin: ' '
+instagram: ' '
+facebook: ' '
+excerpt: >-
+  BETA Netherlands was founded in November 2018 and will organise its first MEU
+  in July 2019 in The Hague.
 president: Casper Kroes
 country: Netherlands
 town: The Hague
