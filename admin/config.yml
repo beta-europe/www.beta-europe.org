@@ -138,7 +138,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Image", name: "image", widget: "image", required: false}
           - {label: "Thumbnail for Member Overview", name: "teaser", widget: "image", required: false}
           - {label: "Label (e.g. for credit)", name: "credit", widget: "string", required: false}
-{% endraw %}{% endif %}{% if site.cms.has_conference %}
+{% endraw %}{% endif %}{% if site.cms.has_observers %}
   - name: "observer"
     label: "Observers"
     folder: "_observers"
