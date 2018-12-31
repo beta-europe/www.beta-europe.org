@@ -21,6 +21,7 @@ The network of BETA Europe is strong thanks to its members.
 
 <div class="grid__wrapper grid__partners">
 </div>
+{% comment} ugly solution to a formating error with the previous grid not closing well
 
 # Observers
 <div class="grid__wrapper grid__partners">
