@@ -5,7 +5,7 @@ website: Netherlands.BETA-europe.org
 mail: c.kroes@beta-europe.org
 linkedin: ' '
 instagram: ''
-facebook: ' '
+facebook: ' https://www.facebook.com/MEUNL'
 excerpt: >-
   BETA Netherlands was founded in November 2018 and will organise its first MEU
   in July 2019 in The Hague.
