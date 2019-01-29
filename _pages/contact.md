@@ -35,7 +35,7 @@ For any further inquiries on BETA Europe positions, please contact our Head of H
 You can also create a national BETA organisation and/or organise your own MEU simulation in your city with like-minded people and friends.
 BETA will gladly support your project and help you throughout the whole process.
 
-For any further inquiries on how to start your own project, please contact our Head of Concept and Partnerships, Mr. Marco Vento (,mailto:m.vento@beta-europe.org>).
+For any further inquiries on how to start your own project, please contact our Head of Concept and Partnerships, Mr. Marco Vento (<mailto:m.vento@beta-europe.org>).
 
 ## Become a partner
 
