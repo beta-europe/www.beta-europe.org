@@ -23,4 +23,4 @@ Voter turnout, especially among the younger generations, has been less than sati
 
 The process was kicked off in June by asking Europeans not only to vote, but also to spread the word and to mobilise their families, friends, neighbours and communities to do so too. Using social media channels and organising events to promote their campaign for European democracy, it aims to bring people together, discuss issues that matter to them and look to the future of Europe.
 
-> Sign up to their website in order to get more info, and find out nearest event about European elections => [**ttimv.eu/BETAEurope**](ttimv.eu/BETAEurope)
+> Sign up to their website in order to get more info, and find out nearest event about European elections => [**ttimv.eu/BETAEurope**](https://www.thistimeimvoting.eu/?recruiter_id=104246)
