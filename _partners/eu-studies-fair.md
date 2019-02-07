@@ -1,7 +1,7 @@
 ---
 slug: eu-studies-fair
 title: POLITICO EU Studies Fair
-website: 'https://www.politico.eu/event/eu-studies-fair-2018/'
+website: 'https://www.politico.eu/event/politicos-eu-studies-fair-20th-edition/'
 twitter: EUstudiesfair
 mail: events@politico.eu
 excerpt: >-
@@ -13,7 +13,7 @@ country: Kingdom of Belgium
 town: Brussels
 geo: '50.8454,4.3500'
 header:
-  teaser: /assets/images/logo.png
+  teaser: /assets/images/eusf-logo.png
 ---
 POLITICO’s EU Studies Fair is the largest educational and networking event in Europe focused on graduate and postgraduate programs in EU studies, international relations, business, economics, public policy and law.
 
