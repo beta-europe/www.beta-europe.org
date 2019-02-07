@@ -17,7 +17,7 @@ edit: true
 ---
 During the #BETAGeneralAssembly the new Management Board was elected. Let us introduce you to the team that will coordinate the work within BETA Europe for the 2018-2019 business year! 
 
-![](/assets/images/0.jpg)
+![null](/assets/images/0.jpg)
 
 The new President is Nick Madzarov. The two Vice-Presidents are: Suzana Pecin and Stefan Zirkovic. The Treasurer is Lina Kalouti. The Secretary General is Kristin Aldag.
 
@@ -33,4 +33,4 @@ Lina is the new treasurer. One of the milestones of Lina’s education is her de
 
 Kristin is a student of International Relations, specializing in area studies for Europe and Russia. Currently, she studies in Krakow, Poland. She feels proudly European and doesn’t hide that her identity has been simulated by her involvement with BETA. Raised in Germany, she experienced an emotional EVS in Moldova, which as she said, turned the course of her life. She never escape the challenges. Her curiosity pushes her to want to learn and understand, and manages to fill the pleasure of discovery through travel. Her first contact with the BETA world took place in 2017, when she took part in MEU Strasbourg, deciding soon after, to become part of the team. From now on she will be responsible for internal communication and the main contact person for our 12 national BETA branches, in charge of internal communication. They’re ready. And you?
 
-![](/assets/images/bwtta3.png)
+![null](/assets/images/bwtta3.png)
