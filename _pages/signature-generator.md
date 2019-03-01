@@ -59,7 +59,7 @@ input {
 ## Frequently Asked Questions
 
 My title/name is wrong. What should I do?
-:   The name and the title are imported from the forum. Please send a PM to [r.riemann](https://forum.beta-europe.org/u/r.riemann) to have it corrected.
+:   The name and the title are imported from the forum. Please send a PM to [the IT Team](IT@Beta-europe.org) to have it corrected.
 
 What is the meaning of `-- ` (dash-dash-space)?
 :   Good mail applications will remove the signature from replies and this character combination on a single line indicates the beginning of the signature.
@@ -99,7 +99,7 @@ My question is not covered here. What should I do?
           var twitter = "@"+response.data.user.user_fields["1"];
           var linkedIn = response.data.user.user_fields["3"];
           var facebook = response.data.user.user_fields["4"];
-          this.signature = `-- 
+          this.signature = `--
 BETA e.V., ${title}
 🌐 http://www.beta-europe.org
 📧 ${this.username}@beta-europe.org
