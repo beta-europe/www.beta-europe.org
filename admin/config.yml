@@ -139,7 +139,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Thumbnail for Member Overview", name: "teaser", widget: "image", required: false}
           - {label: "Label (e.g. for credit)", name: "credit", widget: "string", required: false}
 {% endraw %}{% endif %}{% if site.cms.has_observers %}{% raw %}
-  - name: "observers"
+  - name: "observer"
     label: "Observers"
     folder: "_observers"
     sort: "title:asc"
@@ -189,9 +189,6 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Mail", name: "mail", widget: "string"}
       - {label: "Website (e.g. http://mywebsite.eu)", name: "website", widget: "string", required: true}
       - {label: "Twitter Handle (without at)", name: "twitter", widget: "string", required: false, pattern: ['[A-Za-z0-9_]{1,20}', "Provide Twitter handle without @."]}
-      - {label: "Linkedin (e.g. http://linkedin.com/BETAEU)", name: "linkedin", widget: "string", required: false}
-      - {label: "Instagram (e.g. BetaEU)", name: "instagram", widget: "string", required: false}
-      - {label: "Facebook (e.g. http://facebook.com/betaEU)", name: "facebook", widget: "string", required: false}
       - {label: "Country", name: "country", widget: "string", required: false}
       - {label: "Town", name: "town", widget: "string", required: false}
       - {label: "Location", name: "location", widget: "string", required: false}
