@@ -1,5 +1,5 @@
 ---
-title: RoMEU 2019
+title: ROME MEU 2019
 slug: ROME-MEU-2019
 conference: RomEU
 year: 2019
