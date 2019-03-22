@@ -1,5 +1,5 @@
 ---
-title: MiMEU 2019
+title: Milan MEU 2019
 slug: MILAN-MEU-2019
 conference: MILAN-MEU
 year: 2019
