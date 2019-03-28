@@ -13,8 +13,7 @@ main:
     url: /member/
   - title: Partners
     url: /partner/
-  - title: Democracy Alive Mini-MEU
-    url: /democracy-alive-mini-meu/
+
 teams:
   - children:
       - title: Management Board
