@@ -3,7 +3,7 @@ title: BETA at the Democracy Alive festival
 modified: 2018-03-012T23:00:00.000Z
 excerpt: European Parliament Elections
 header:
-  image:
+  image: /assets/images/header-meu2015.jpg
 author_profile: false
 permalink: /democracy-alive-mini-meu/
 sidebar:
