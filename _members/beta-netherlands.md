@@ -1,8 +1,8 @@
 ---
 slug: beta-netherlands
 title: BETA Netherlands
-website: Netherlands.BETA-europe.org
-mail: c.kroes@beta-europe.org
+website: netherlands.beta-europe.org
+mail: netherlands@beta-europe.org
 linkedin: ' '
 instagram: ''
 facebook: ' https://www.facebook.com/MEUNL'
