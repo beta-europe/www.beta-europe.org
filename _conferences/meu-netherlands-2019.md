@@ -1,6 +1,6 @@
 ---
 title: MEU Netherlands 2019
-slug: meu-netherlands-2019
+slug: meu-netherlands
 partner-slug: beta-netherlands
 conference: MEU-Netherlands-2019
 year: 2019
