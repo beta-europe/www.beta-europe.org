@@ -13,12 +13,10 @@ location: Université Libanaise
 geo: '33.8886,35.4955'
 excerpt: Migration; Gender Balance
 header:
-  image: /assets/images/53352422_333880307230899_2820713346376925184_n.jpg
+  image: ''
 ---
 We are happy to announce the launch of BETA Lebanon and its MEU!
 
-MEU Lebanon: 6-11th of September + 2 extra optional days of political tourism
-
-Visits to the UN security forces and refugee camps, meetings with political officials.
+MEU Lebanon: 6-11th of September + 2 extra optional days of political tourism: visits to the UN security forces and refugee camps, meetings with political officials.
 
 Applications and more information coming soon!
