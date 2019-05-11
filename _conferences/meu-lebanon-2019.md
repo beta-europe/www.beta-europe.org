@@ -4,7 +4,7 @@ slug: meu-lebanon-2019
 conference: meu-lebanon
 year: 2019
 begin: '2019-09-06'
-end: '2019-09-13'
+end: '2019-09-11'
 mail: ' lebanonbeta19@gmail.com'
 website: 'https://www.facebook.com/BETAMEULebanon/'
 country: Lebanon
