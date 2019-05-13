@@ -1,6 +1,9 @@
 ---
-title: 'European Elections 2019: Visions & Divisions'
-excerpt: 'Check out #BETAEurope''s event on EP elections 2019'
+title: 'European Elections: Visions & Divisions panel in Kraków'
+excerpt: >-
+  BETA Europe holds panel discussion ‘European Elections 2019: Visions &
+  Divisions’ at the Jagiellonian University of Krakow, for the #ThisTimeImVoting
+  campaign to promote European Elections 2019
 categories: association
 tags:
   - ttimv
@@ -14,7 +17,8 @@ comments: false
 share: true
 published: true
 edit: true
-header: {}
+header:
+  image: /assets/images/img_1712.jpg
 ---
 As part of our activities for the promotion of #ThisTimeImVoting campaign and raising awarness of European Union and its Institutions, Bringing Europeans Together Association - BETA Europe -  has organised a public panel discussion ‘European Elections 2019: Visions & Divisions’ at the Jagiellonian University of Krakow. 
 
