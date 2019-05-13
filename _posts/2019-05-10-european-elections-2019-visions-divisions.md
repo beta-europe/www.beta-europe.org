@@ -18,7 +18,7 @@ share: true
 published: true
 edit: true
 header:
-  image: /assets/images/img_1689f.jpg
+  image: ''
   teaser: /assets/images/img_1689f.jpg
 ---
 As part of our activities for the promotion of #ThisTimeImVoting campaign and raising awarness of European Union and its Institutions, Bringing Europeans Together Association - BETA Europe -  has organised a public panel discussion ‘European Elections 2019: Visions & Divisions’ at the Jagiellonian University of Krakow. 
