@@ -13,3 +13,8 @@ town: The Hague
 geo: '52.0705, 4.3007, '
 ---
   The flagship project of BETA Netherlands is Model European Union The Netherlands (MEU The Netherlands) which is scheduled to premiere in July 2019 and will host around 100 participants from all over Europe. The project aims to promote knowledge of the decision-making process, representing the way new EU legislation comes to force while fostering mutual understanding and cooperation through debate and dialogue amidst youth within Netherlands and Europe.
+
+Participation fee is €99\
+If you want us to fix accomodation that'd be an additional €125 but you are free to fix your own accomodation. Applications can be done here: <https://forms.gle/7av7WZLj4rivKHjs6>
+
+Find more info here: <https://www.facebook.com/meunl>
