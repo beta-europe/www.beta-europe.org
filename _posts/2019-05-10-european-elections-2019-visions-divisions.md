@@ -34,7 +34,7 @@ Our speakers at the panel discussion were:
 2. Mr Jan Truszczyński, a long-time diplomat, who is well known for his positions as Ambassador of Poland to the European Union (1996-2001), Chief negotiator for Poland’s #EU accession, and deputy Foreign Office Minister (2001-2005);
 3. Dr. Natasza Styczyńska, Assistant Professor at the Institute of European Studies of the Jagiellonian University since 2007.
 
-Panel Discussion was moderated by Mr Cláudio Teixeira.
+The Panel Discussion was moderated by Mr Cláudio Teixeira, former President of BETA Europe, a Competition and EU Law expert and author of publications on the topic of European Elections and European Electoral Reform.
 
 ![](/assets/images/img_1689.jpg)
 
