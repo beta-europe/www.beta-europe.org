@@ -15,7 +15,7 @@ published: true
 edit: true
 header: {}
 ---
-As part of the "Erasmus in Action" project, funded with the support of the European Commission, BETA Europe, together with ESN International and other partner organisations, has developed two brochures: **_Erasmus in Action Manual_ **and **_How EU Decisions are Made?_** 
+As part of the "Erasmus in Action" project, funded with the support of the European Commission, BETA Europe, together with ESN International and other partner organisations, has developed two publications.
 
 [**_Erasmus in Action - Manual_**](https://esn.org/sites/default/files/pages/eia_manual.pdf)  gives an overview of the EU legislative process, the role of EU citizens in the institutions, shows the impact of the EU elections, explains how debates on EU can be promoted and presents what we do best - #ModelEU conferences!
 
