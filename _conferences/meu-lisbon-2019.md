@@ -18,7 +18,6 @@ MEU Lisbon is back for season 2! BETA Portugal is happy to announce that MEU Lis
 Topics:
 
 1. Election of the President of the European Commission
-
-2.
+2. 
 
 3.
