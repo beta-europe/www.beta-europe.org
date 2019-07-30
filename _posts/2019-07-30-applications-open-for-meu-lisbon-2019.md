@@ -17,4 +17,6 @@ Applications for Participants are now Open! Join MEULisbon, one of the most auth
 
 You can apply here in the link to become a [Participant](https://forms.gle/3Wjk3SgNsemV3dyJA) or an [Organiser](https://forms.gle/m85qMe54gHZZz18T6).
 
+All news and developments at the event's [Facebook](https://www.facebook.com/MEULisbon/) page.
+
 ![](/assets/images/1-cópia.png)
