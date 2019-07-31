@@ -11,7 +11,7 @@ share: true
 published: true
 edit: true
 header:
-  image: /assets/images/header-meu2015.jpg
+  image: ''
   teaser: /assets/images/1-cópia.png
 ---
 BETA Portugal is organising its second edition of MEU Lisbon, from 15-20 October 2019, and is actively looking for Participants, as well as Chairs, Commissioners and Organisers.
