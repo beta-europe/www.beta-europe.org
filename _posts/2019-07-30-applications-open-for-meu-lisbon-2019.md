@@ -11,7 +11,8 @@ share: true
 published: true
 edit: true
 header:
-  image: ''
+  image: /assets/images/1-cópia.png
+  teaser: /assets/images/1-cópia.png
 ---
 BETA Portugal is organising its second edition of MEU Lisbon, from 15-20 October 2019, and is actively looking for Participants, as well as Chairs, Commissioners and Organisers.\
 \
@@ -20,5 +21,3 @@ Join MEULisbon, one of the most authentic and professional simulations of EU Pol
 You can apply here in the link to become a [Participant](https://forms.gle/3Wjk3SgNsemV3dyJA) or an [Organiser](https://forms.gle/m85qMe54gHZZz18T6).
 
 All news and developments at the event's [Facebook](https://www.facebook.com/MEULisbon/) page.
-
-![](/assets/images/1-cópia.png)
