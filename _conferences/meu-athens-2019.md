@@ -1,18 +1,15 @@
 ---
-title: MEU Scotland 2019
-slug: meu-scotland-2019
-partner-slug: ''
-conference: MEU Scotland
+title: MEU Athens 2019
+slug: meu-athens-2019
+partner-slug: beta-greece
+conference: MEU Athens
 year: 2019
-begin: '2019-10-24'
-end: '2019-10-29'
-mail: president@meu.scot
-website: 'https://meu.scot/'
-country: Scotland
-town: Glasgow
-location: University of Strathclyde
-geo: '-4.251806,55.864237'
+begin: '2019-10-31'
+end: '2019-11-03'
+mail: y.rajendra@beta-europe.org
+website: 'https://greece.beta-europe.org/'
+country: Greece
+town: Athens
+geo: '37.9837, 23.7293'
 ---
-MEU Scotland is an educational and cultural simulation of European politics. We seek to build understanding to inspire and engage young people from Scotland and beyond on the politics of Europe. 
-
-Take your place as an EU decision-maker or influencer, and shape the future of EU youth policy!
+The flagship project of BETA Greece is Model European Union Athens (MEU Athens). The project aims to promote knowledge of the decision-making process, representing the way new EU legislation comes to force while fostering mutual understanding and cooperation through debate and dialogue amidst youth within Greece and Europe.
