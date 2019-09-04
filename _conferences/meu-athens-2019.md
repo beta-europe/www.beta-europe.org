@@ -2,7 +2,7 @@
 title: MEU Scotland 2019
 slug: meu-scotland-2019
 partner-slug: ''
-conference: meu-scotland
+conference: MEU Scotland
 year: 2019
 begin: '2019-10-24'
 end: '2019-10-29'
