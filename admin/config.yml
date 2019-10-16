@@ -224,7 +224,6 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Thumbnail for Image", name: "teaser", widget: "image", required: false}
           - {label: "Label (e.g. for credit)", name: "credit", widget: "string", required: false}
 {% endraw %}{% endif %}{% raw %}
-{% endif %}{% raw %}
   - name: "settings"
     label: "Settings"
     files:
