@@ -215,14 +215,14 @@ collections: # A list of collections the CMS should be able to edit
         - {label: "Name", name: "name", widget: "string", required: true}
         - {label: "Title" name: "title", widget: "string", required: true}
         - {label: "Mail", name: "mail", widget: "string"}
-  - label: "Cover Image"
-      name: "header"
-      widget: "object"
-      required: false
-      fields:
-        - {label: "Image", name: "image", widget: "image", required: false}
-        - {label: "Thumbnail for Image", name: "teaser", widget: "image", required: false}
-        - {label: "Label (e.g. for credit)", name: "credit", widget: "string", required: false}
+        - label: "Cover Image"
+          name: "header"
+          widget: "object"
+          required: false
+          fields:
+          - {label: "Image", name: "image", widget: "image", required: false}
+          - {label: "Thumbnail for Image", name: "teaser", widget: "image", required: false}
+          - {label: "Label (e.g. for credit)", name: "credit", widget: "string", required: false}
 {% endraw %}{% endif %}{% if site.cms.has_teammember %}{% raw %}
 {% endif %}{% raw %}
   - name: "settings"
