@@ -1,5 +1,5 @@
 ---
-title: MEU SKOPJE 2020
+title: MEU Skopje 2020
 slug: MEU-SKOPJE-2020
 partner-slug: ''
 conference: MEU-SKOPJE
