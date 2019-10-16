@@ -204,7 +204,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Image", name: "image", widget: "image", required: false}
           - {label: "Thumbnail for Image", name: "teaser", widget: "image", required: false}
           - {label: "Label (e.g. for credit)", name: "credit", widget: "string", required: false}
-{% endraw %}{% endif %}{% if site.cms.has_observers %}{% raw %}
+{% endraw %}{% endif %}{% if site.cms.has_teammmember %}{% raw %}
   - name: "teammember" # Used in routes, ie.: /admin/collections/:slug/edit
       label: "TeamMembers" # Used in the UI, ie.: "New Post"
       folder: "_teammbr" # The path to the folder where the documents are stored
@@ -223,7 +223,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Image", name: "image", widget: "image", required: false}
           - {label: "Thumbnail for Image", name: "teaser", widget: "image", required: false}
           - {label: "Label (e.g. for credit)", name: "credit", widget: "string", required: false}
-{% endraw %}{% endif %}{% if site.cms.has_teammember %}{% raw %}
+{% endraw %}{% endif %}{% raw %}
 {% endif %}{% raw %}
   - name: "settings"
     label: "Settings"
