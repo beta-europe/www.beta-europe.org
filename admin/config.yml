@@ -209,10 +209,10 @@ collections: # A list of collections the CMS should be able to edit
       folder: "_teammbr" # The path to the folder where the documents are stored
       sort: "title:desc" # Default is title:asc
       create: true # Allow users to create new documents in this collection
-      slug: "{{}}"
+      slug: "{{slug}}"
       fields: # The fields each document in this collection have
         - {label: "Name", name: "name", widget: "string", required: true}
-        - {label: "Title name: "title", widget: "string", required: true}
+        - {label: "Title" name: "title", widget: "string", required: true}
         - {label: "Mail", name: "mail", widget: "string"}
   - label: "Cover Image"
       name: "header"
