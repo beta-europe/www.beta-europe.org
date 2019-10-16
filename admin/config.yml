@@ -186,7 +186,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Year", name: "year", widget: "number", valueType: "int", required: true, pattern: ['\d{4}', "Provide conference year."], default: 2018}
       - {label: "Conference Start", name: "begin", widget: "date", format: "YYYY-MM-DD", required: true}
       - {label: "Conference End", name: "end", widget: "date", format: "YYYY-MM-DD", required: true}
-      - {label: "Mail", name: "mail", widget: "string"}
+      - {label: "Mail", name: "mail", widget: "string", required: false}
       - {label: "Website (e.g. http://mywebsite.eu)", name: "website", widget: "string", required: true}
       - {label: "Twitter Handle (without at)", name: "twitter", widget: "string", required: false, pattern: ['[A-Za-z0-9_]{1,20}', "Provide Twitter handle without @."]}
       - {label: "Country", name: "country", widget: "string", required: false}
@@ -195,7 +195,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Participant Number", name: "participants", widget: "string", required: false}
       - {label: "Geo Location (e.g.: 52.2333,20.8891)", name: "geo", widget: "string", required: false}
       - {label: "Topic Excerpt (used in archive)", name: "excerpt", widget: "string", required: false}
-      - {label: "Conference Description", name: "body", widget: "markdown"}
+      - {label: "Conference Description", name: "body", widget: "markdown", required: false}
       - label: "Cover Image"
         name: "header"
         widget: "object"
