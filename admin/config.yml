@@ -204,6 +204,24 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Image", name: "image", widget: "image", required: false}
           - {label: "Thumbnail for Image", name: "teaser", widget: "image", required: false}
           - {label: "Label (e.g. for credit)", name: "credit", widget: "string", required: false}
+  - name: "TeamMember" # Used in routes, ie.: /admin/collections/:slug/edit
+      label: "Team Members" # Used in the UI, ie.: "New Post"
+      folder: "_teammbr" # The path to the folder where the documents are stored
+      sort: "title:desc" # Default is title:asc
+      create: true # Allow users to create new documents in this collection
+      slug: "{{}}"
+      fields: # The fields each document in this collection have
+        - {label: "Name", name: "name", widget: "string", required: true}
+        - {label: "Title name: "title", widget: "string", required: true}
+        - {label: "Mail", name: "mail", widget: "string"}
+  - label: "Cover Image"
+      name: "header"
+      widget: "object"
+      required: false
+      fields:
+        - {label: "Image", name: "image", widget: "image", required: false}
+        - {label: "Thumbnail for Image", name: "teaser", widget: "image", required: false}
+        - {label: "Label (e.g. for credit)", name: "credit", widget: "string", required: false}
 {% endif %}{% raw %}
   - name: "settings"
     label: "Settings"
