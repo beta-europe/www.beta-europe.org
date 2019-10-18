@@ -1,7 +1,7 @@
 ---
 slug: beta-netherlands
 title: BETA Netherlands
-website: netherlands.beta-europe.org
+website: 'https://netherlands.beta-europe.org'
 mail: netherlands@beta-europe.org
 linkedin: ' '
 instagram: ''
