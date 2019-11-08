@@ -275,7 +275,7 @@ collections:
     output: true
     permalink: "/:slug/"
   teammembers:
-    title: Team_members
+    title: Teammembers
     output: true
     permalink: "/teammembers/:path/"
 
