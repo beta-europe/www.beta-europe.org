@@ -5,7 +5,7 @@ permalink: /teammember/
 author_profile: true
 ---
 
-BETA Europe is managed by it's Management Board and Extended Management Board
+BETA Europe is managed by its Management Board and Extended Management Board
 
 {% include base_path %}
 
