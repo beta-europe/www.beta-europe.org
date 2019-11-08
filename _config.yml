@@ -277,7 +277,7 @@ collections:
   teammembers:
     title: Team_members
     output: true
-    permalink: "/teammembers/:slug/"
+    permalink: "/teammembers/:path/"
 
 # Defaults
 defaults:
@@ -369,3 +369,14 @@ defaults:
       related: false
       sidebar:
         nav: teams
+  # _teammembers
+  - scope:
+      path: ''
+      type: teammembers
+    values:
+      layout: partner_page
+      author_profile: true
+      comments: false
+      share: true
+      edit: true
+      related: false
