@@ -274,6 +274,10 @@ collections:
     title: Pages
     output: true
     permalink: "/:slug/"
+  teammembers:
+    title: Team_members
+    output: true
+    permalink: "/teammembers/:slug/"
 
 # Defaults
 defaults:
