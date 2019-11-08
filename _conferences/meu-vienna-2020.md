@@ -13,4 +13,4 @@ town: Vienna
 location: ''
 geo: '47.5162315, 14.5500717'
 ---
-MEU Vienna is the first and only MEU simulation in Austria and had its premier in 2014. Usually taking place the last weekend of February, the seventh edition is expected to happen in February 2019.
+MEU Vienna is the first and only MEU simulation in Austria and had its premier in 2014. Usually taking place the last weekend of February, the seventh edition is expected to happen in February 2020.
