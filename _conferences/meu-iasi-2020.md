@@ -4,8 +4,8 @@ slug: meu-iasi-2020
 partner-slug: asd-uaic
 conference: meu-iasi
 year: 2020
-begin: '2019-03-10'
-end: '2019-03-15'
+begin: '2020-03-10'
+end: '2020-03-15'
 mail: meu.iasi@asd-uaic.ro
 website: 'http://asd-uaic.ro/meu'
 country: Romania
