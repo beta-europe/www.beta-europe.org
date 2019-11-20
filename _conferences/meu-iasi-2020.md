@@ -7,7 +7,7 @@ year: 2020
 begin: '2020-03-10'
 end: '2020-03-15'
 mail: meu.iasi@asd-uaic.ro
-website: 'http://asd-uaic.ro/meu'
+website: 'https://www.facebook.com/MEUIasi/'
 country: Romania
 town: Iași
 geo: '47.1622,27.4123'
