@@ -7,8 +7,6 @@ main:
     url: /news/
   - title: MEU Calendar
     url: /calendar/
-  - title: Forum
-    url: 'https://forum.beta-europe.org'
   - title: Members
     url: /member/
   - title: Partners
