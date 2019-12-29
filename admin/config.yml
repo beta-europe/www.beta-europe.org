@@ -206,7 +206,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Label (e.g. for credit)", name: "credit", widget: "string", required: false}
 {% endraw %}{% raw %}
   - name: "teammember" # Used in routes, ie.: /admin/collections/:slug/edit
-    Label: "TeamMembers" # Used in the UI, ie.: "New Post"
+    label: "TeamMembers" # Used in the UI, ie.: "New Post"
     folder: "_teammembers" # The path to the folder where the documents are stored
     sort: "title:desc" # Default is title:asc
     create: true # Allow users to create new documents in this collection
