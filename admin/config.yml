@@ -213,7 +213,7 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{slug}}"
     fields: # The fields each document in this collection have
       - {label: "Name", name: "name", widget: "string", required: true}
-      - {label: "Title" name: "title", widget: "string", required: true}
+      - {label: "Title", name: "title", widget: "string", required: true}
       - {label: "Mail", name: "mail", widget: "string"}
       - label: "Cover Image"
         name: "header"
