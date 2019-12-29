@@ -10,9 +10,9 @@ sidebar:
 
 To contact BETA Europe, please refer to the links provided to the left and pick the relevant channels.
 
-General inquiries should be directed to the Secretary-General of BETA Europe, Ms Kristin Aldag (<mailto:contact@beta-europe.org>)
+General inquiries should be directed to the Secretary-General of BETA Europe, Atilla Nagy (<mailto:contact@beta-europe.org>)
 
-Official contacts or requests to the Management Board should be addressed to the President of BETA Europe, Mr Nick David Madžarov (<mailto:contact@beta-europe.org>)
+Official contacts or requests to the Management Board should be addressed to the President of BETA Europe, Gary Paterson (<mailto:contact@beta-europe.org>)
 
 ## Become a Member
 
