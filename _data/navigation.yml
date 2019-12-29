@@ -14,25 +14,4 @@ main:
 teams:
   - children:
       - title: Management Board
-        url: /team/board/
-      - title: Extended Management Board
-        url: /team/extended-board
-      - title: Concept and Partnerships
-        url: /team/concept-partnerships/
-      - title: Public Relations
-        url: /team/public-relations/
-      - title: Fundraising
-        url: /team/fundraising/
-      - title: Human Resources
-        url: /team/human-resources/
-      - title: Layout and Design
-        url: /team/layout-design/
-      - title: Translation Services
-        url: /team/translations/
-      - title: Information Technology
-        url: /team/information-technology/
-      - title: Legal Affairs
-        url: /team/legal-affairs/
-      - title: Trustees
-        url: /team/trustees/
-    title: BETA Teams
+        url: /teammember/
