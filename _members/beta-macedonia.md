@@ -2,7 +2,7 @@
 slug: beta-macedonia
 title: BETA Macedonia
 website: 'https://macedonia.beta-europe.org'
-mail: ''
+mail: 'betamacedonia@gmail.com'
 linkedin: ' '
 instagram: ''
 facebook: ' https://www.facebook.com/betamacedonia'
