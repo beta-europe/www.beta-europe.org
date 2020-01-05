@@ -7,7 +7,7 @@ linkedin: ' '
 instagram: ''
 facebook: ' https://www.facebook.com/betamacedonia'
 excerpt: >-
-BETA Macedonia is a national youth association founded in October 2018. Their primary goal is the organisation of Model European Union Skopje. They have launched high school and university meetings introducing the general public with its goals.
+  BETA Macedonia is a national youth association founded in October 2018. Their primary goal is the organisation of Model European Union Skopje. They have launched high school and university meetings introducing the general public with its goals.
 president: Filip Gjurcheski
 country: Macedonia
 town: Skopje
