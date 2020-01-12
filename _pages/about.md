@@ -12,13 +12,13 @@ sidebar:
 
 ## Our Association
 
-BETA is a politically independent and non-profit association founded in Germany in 2008.  Our name stands for Bringing Europeans Together Association because this is our mission: to strengthen the European society by encouraging democratic processes and consciousness about the plurality of European identities, both on national and international level. 
+BETA Europe, AISBL is a politically independent and non-profit association,  seated in Brussels, with national chapters in 20 countries. Our name stands for Bringing Europeans Together Association because this is our mission: to strengthen the European society by encouraging democratic processes and consciousness about the plurality of European identities, both on national and international level. 
 
 The expression of our goal is to actively support such political simulations as the Model European Union (MEU), events which allow young people to engage in politics, discovering the founding principles behind Europe through a first hand experience of the democratic process.
 
-Starting from nine members, BETA has now grown to more than 500 members in 2017, involving more than 1500 youth of 33 nationalities and supporting over 20 events worldwide. 
+Founded in Germany in 2008., BETA has now grown to have 20 national organisations, 21 partner organisations more than 500 individual members, involving more than 2500 youth of 33 nationalities and supporting over 25 events worldwide, from Europe to Africa, Middle East to Central Asia.
 
-BETA is the growing managerial infrastructure behind MEU events driven by the maximum professionalism of its members to promote learning, supporting and inspiring young European generations, in the respect of the diversities and under the sign of tolerance and inclusivity. 
+BETA is the growing managerial infrastructure behind MEU events driven by the maximum professionalism of its members to promote learning, supporting and inspiring young European generations, in the respect of the diversities and under the sign of tolerance and inclusiveness. 
 
 ## Our Values
 
@@ -30,13 +30,11 @@ We believe in the value of learning, especially through practice. Both through t
 
 ### Supporting
 
-As a non-profit organisation, we want to contribute to society as much as we possibly can. In addition to running our own activities, we strive to ensure that others will be able to do the same.
-We are strong advocates of the power of youth; we therefore want to help young people deliver high-quality projects and initiatives that are in accordance with our mission.
+As a non-profit organisation, we want to contribute to society as much as we possibly can. In addition to running our own activities, we strive to ensure that others will be able to do the same. We are strong advocates of the power of youth; we therefore want to help young people deliver high-quality projects and initiatives that are in accordance with our mission.
 
 ### Professionalism
 
-We go all out to make sure that our activities are of the highest quality. Internally, we ensure that all our volunteers are supported, given the tools to succeed, learn together and enjoy their roles.
-We have a highly experienced management team and we are an outstanding organisation to volunteer for. Externally, our teams aim to treat participants, partners and guests with utmost respect and professionalism.
+We go all out to make sure that our activities are of the highest quality. Internally, we ensure that all our volunteers are supported, given the tools to succeed, learn together and enjoy their roles. We have a highly experienced management team and we are an outstanding organisation to volunteer for. Externally, our teams aim to treat participants, partners and guests with utmost respect and professionalism.
 
 ### Tolerance and inclusivity
 
