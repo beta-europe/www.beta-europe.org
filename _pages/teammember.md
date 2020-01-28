@@ -1,5 +1,5 @@
 ---
-layout: team_page
+layout: archive-team
 title: "Our Team Members"
 permalink: /teammember/
 author_profile: true
