@@ -375,7 +375,7 @@ defaults:
       type: teammembers
     values:
       layout: team_page
-      author_profile: false
+      author_profile: true
       comments: false
       share: true
       edit: true
