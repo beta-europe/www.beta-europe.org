@@ -374,7 +374,7 @@ defaults:
       path: ''
       type: teammembers
     values:
-      layout: partner_page
+      layout: team_page
       author_profile: true
       comments: false
       share: true
