@@ -3,8 +3,6 @@ title: Contact
 modified: 2017-11-06T09:51:33.139Z
 excerpt: Contact us
 author_profile: false
-sidebar:
-  nav: teams
 ---
 {% include toc title="Contact" %}
 

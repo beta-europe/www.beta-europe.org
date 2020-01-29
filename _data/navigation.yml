@@ -1,8 +1,10 @@
 main:
   - title: About
     url: /about/
-  - title: Team
+  - title: Contact
     url: /contact/
+  - title: Team
+    url: /team/  
   - title: News
     url: /news/
   - title: MEU Calendar
