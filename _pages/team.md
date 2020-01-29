@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Our Team Members"
+title: "Our Management Board"
 permalink: /team/
 author_profile: true
 ---
