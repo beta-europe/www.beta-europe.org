@@ -2,5 +2,5 @@
 slug: atilla-nagy
 title: Atilla Nagy
 function: Secretary-General
-mail: a.nagy@beta-europe.org
+mail: mailto:a.nagy@beta-europe.org
 ---

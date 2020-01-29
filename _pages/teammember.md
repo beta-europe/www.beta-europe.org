@@ -17,6 +17,6 @@ BETA Europe is managed by its Management Board and Extended Management Board
 
 <div class="grid__wrapper grid__partners">
   {% for post in site.teammembers %}
-    {% include archive-single.html type="grid" %}
+    {% include archive-team.html type="grid" %}
   {% endfor %}
 </div>

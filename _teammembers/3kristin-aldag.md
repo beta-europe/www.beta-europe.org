@@ -2,5 +2,5 @@
 slug: kristin-aldag
 title: Kristin Aldag
 function: Vice-President
-mail: k.aldag@beta-europe.org
+mail: mailto:k.aldag@beta-europe.org
 ---

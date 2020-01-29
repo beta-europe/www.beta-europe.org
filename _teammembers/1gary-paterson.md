@@ -2,5 +2,5 @@
 slug: gary-paterson
 title: Gary Paterson
 function: President
-mail: g.paterson@beta-europe.org
+mail: mailto:g.paterson@beta-europe.org
 ---
