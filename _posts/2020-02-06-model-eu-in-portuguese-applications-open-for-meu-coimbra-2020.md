@@ -7,13 +7,14 @@ categories: network
 tags:
   - BETA Portugal
 date: '2020-02-06 06:36:59'
-toc: false
+toc: true
 comments: true
 share: true
 published: true
 edit: true
 header:
-  image: ''
+  credit: MEU Coimbra
+  image: /assets/images/81678511_1516364898518342_5160781665777221632_n.png
   teaser: /assets/images/82967534_1534951713326327_2677498022669058048_o.jpg
 ---
 ![](/assets/images/81678511_1516364898518342_5160781665777221632_n.png)
