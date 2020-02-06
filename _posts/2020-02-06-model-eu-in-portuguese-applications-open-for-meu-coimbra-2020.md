@@ -23,10 +23,16 @@ BETA Portugal is organising the third edition of its national language MEU in Po
 
 From 19 to 23 February, 100 young participants from all over the Portuguese-speaking world shall take on the roles of MEPs, Ministers of the Council of the EU, Journalists, Lobbyists and - a first in Portugal - Interpreters! 
 
-Two legislative proposals shall be discussed: the Regulation on screening of  Foreign Investment and the Withdrawal Agreement of the UK from the EU. The topics shall have the expert insight of renowned speakers, including Sandra Pereira MEP, and Bernardo Ivo Cruz (Brexit Digest).\
-\
-MEU Coimbra also lists a number of organisers hailing from all over BETA Europe's network: Andreea Serban (DG MEU Iasi) and Wassim Essebane (DG Brussels MEU) shall take on the role of European Commission; Cohen Ferreira (BETA PT, Brussels MEU) is Brexit Secretary, Giuliano Cantadore (BETA PT, MEU Strasbourg) is Legal Advisor and Carlos Gómez Arnemann (BETA España, MEU Spain) will be the Lobbyists Coordinator. As chairpersons, Cláudio Teixeira (BETA PT, former president BETA Europe) and Miguel Guedes (DG MEU Lisbon) will preside the European Parliament and the Council of the EU.
+Two legislative proposals shall be discussed: the Regulation on screening of  Foreign Investment and the Withdrawal Agreement of the UK from the EU. The topics shall have the expert insight of renowned speakers, including Sandra Pereira MEP, and Bernardo Ivo Cruz (Brexit Digest).
 
-Although Portuguese shall be the official working language, international applications are welcomed, and are open until 14 February.
+
+
+MEU Coimbra also lists a number of organisers hailing from all over BETA Europe's network: Andreea Serban (DG MEU Iasi) and Wassim Essebane (DG Brussels MEU) shall take on the role of European Commission. Cohen Ferreira (BETA PT, Brussels MEU) shall be the Brexit Secretary, Giuliano Cantadore (MEU Strasbourg) will be Legal Advisor and Carlos Gómez Arnemann (MEU Spain) will be the Lobbyists Coordinator. As chairpersons, Cláudio Teixeira (former president BETA Europe) and Miguel Guedes (DG MEU Lisbon) will preside the European Parliament and the Council of the EU.
+
+Although Portuguese shall be the official working language, international applications are welcomed until the 14th February.
+
+
+
+The event counts on the High Patronage of the President of the Portuguese Republic, the European Parliament Information Office in Portugal and the European Commission Representation in Portugal and the Rector of the University of Coimbra,
 
 More information at the [event page.](https://www.facebook.com/events/508673199759327/)
