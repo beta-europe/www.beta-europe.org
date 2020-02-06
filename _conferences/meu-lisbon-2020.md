@@ -11,7 +11,7 @@ country: Portugal
 town: Lisbon
 location: ''
 participants: '100'
-geo: '40.203314,-8.410257'
+geo: 38.71667 -9.13333
 header:
   image: ''
 ---
