@@ -14,7 +14,7 @@ location: ''
 participants: '120'
 geo: 50.85045 4.34878
 ---
-Brussels MEU 2020 will take place on the 30 March - 3 April so mark your calendars for one of Europe's most exciting MEUs!\
+Brussels MEU 2020 will take place on the 30 March - 3 April so mark your calendars for one of Europe's most exciting MEUs!
 You can expect thought-provoking discussions on EU politics and policies, meet like-minded individuals and collectively delve into the matters currently being addressed in the EU.
 
 Make yourself heard!
