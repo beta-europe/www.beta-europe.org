@@ -9,7 +9,8 @@ end: '2020-05-08'
 mail: romeu.applications@gmail.com
 website: bit.ly/RoMEU2020Applications
 country: Italy
-town: Rome
+town:
+facebook: https://www.facebook.com/romemodeleuropeanunion/
 geo: '41.90278, 12.49637'
 header:
   image: /assets/images/82333576_619602252190070_8770170656898678784_n.jpg
