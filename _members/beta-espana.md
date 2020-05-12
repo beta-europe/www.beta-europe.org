@@ -14,7 +14,7 @@ excerpt: >-
 president: ''
 country: Spain
 town: Madrid/Granada
-geo: '37.1773,3.5986'
+geo: '37.1773, -3.5986'
 header:
   teaser: /assets/images/logos_resized_0002_BETAsello.png
 ---
