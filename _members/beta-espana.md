@@ -2,7 +2,7 @@
 slug: beta-espana
 title: Bringing Europeans Together Association España
 website: under construction
-twitter: 'meu_granada'
+twitter: ''
 mail: beta-spain@beta-europe.org / meu-spain@beta-europe.org
 linkedin: 'https://www.linkedin.com/company/model-european-union-spain / https://www.linkedin.com/company/model-of-european-union-granada / https://www.linkedin.com/company/bringin-europeans-together-españa'
 facebook: 'https://www.facebook.com/Model-European-Union-Spain-104064927777192 / https://www.facebook.com/meu1granada / https://www.facebook.com/BETA-España-Bringing-Europeans-Together-Association-Spain-351683335704414
