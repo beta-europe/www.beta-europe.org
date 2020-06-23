@@ -1,6 +1,6 @@
 ---
 slug: beta-espana
-title: Bringing Europeans Together Association España
+title: BETA España
 website: under construction
 mail: beta-spain@beta-europe.org / meu-spain@beta-europe.org
 linkedin: 'https://www.linkedin.com/company/model-european-union-spain / https://www.linkedin.com/company/model-of-european-union-granada / https://www.linkedin.com/company/bringin-europeans-together-españa'
