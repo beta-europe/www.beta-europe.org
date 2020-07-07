@@ -7,8 +7,7 @@ linkedin: ' '
 instagram: ''
 facebook: ' https://www.facebook.com/MEUNL'
 excerpt: >-
-  BETA Netherlands was founded in November 2018 and will organise its first MEU
-  in July 2019 in The Hague.
+  BETA Netherlands was founded in November 2018 and organises Model European Union Netherlands annually.
 president: Casper Kroes
 country: Netherlands
 town: The Hague
