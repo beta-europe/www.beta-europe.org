@@ -1,6 +1,6 @@
 ---
 title: Contact
-modified: 2017-11-06T09:51:33.139Z
+modified: 2020-07-30T10:50:19.253Z
 excerpt: Contact us
 author_profile: false
 ---
@@ -8,32 +8,31 @@ author_profile: false
 
 To contact BETA Europe, please refer to the links provided to the left and pick the relevant channels.
 
-General inquiries should be directed to the Secretary-General of BETA Europe, Atilla Nagy (<mailto:contact@beta-europe.org>)
+General inquiries should be directed to the Secretary-General of BETA Europe, Vincent Miča ([contact@beta-europe.org](mailto:contact@beta-europe.org))
 
-Official contacts or requests to the Management Board should be addressed to the President of BETA Europe, Gary Paterson (<mailto:contact@beta-europe.org>)
+Official contacts or requests to the Management Board should be addressed to the President of BETA Europe, Kristin Aldag ([contact@beta-europe.org](mailto:contact@beta-europe.org))
 
 ## Become a Member
 
 An online membership form will soon be available.
 
-In the meantime, you can join us by sending a quick email to our Head of Human Resources, Ms Lina Kalouti (<mailto:l.kalouti@beta-europe.org>), stating your interest in becoming a BETA member.
+In the meantime, you can join us by sending a quick email to our Head of Human Resources, Ms Lina Kalouti ([l.kalouti@beta-europe.org](mailto:l.kalouti@beta-europe.org)), stating your interest in becoming a BETA member.
 
-A membership form will then be sent to you, and all you need to do is fill it in.
+A membership form will then be sent to you, and all you need to do is fill it in and send it back.
 
 ## Get Engaged
 
 There are many ways to get engaged with and within BETA.
 
-You can take on a position in a BETA Europe team, as an Officer or Head.
-Please refer to the open calls and the roles descriptions before applying for one of these roles.
+You can take on a position in a BETA Europe team, as an Officer or Head. Please refer to the open calls and the roles descriptions before applying for one of these roles.
 You will gain valuable work experience and will be awarded a certificate upon completion of your work.
 
-For any further inquiries on BETA Europe positions, please contact our Head of Human Resources, Ms Lina Kalouti (<mailto:l.kalouti@beta-europe.org>)
+For any further inquiries on BETA Europe positions, please contact our Head of Human Resources, Ms Lina Kalouti ([l.kalouti@beta-europe.org](mailto:l.kalouti@beta-europe.org))
 
 You can also create a national BETA organisation and/or organise your own MEU simulation in your city with like-minded people and friends.
 BETA will gladly support your project and help you throughout the whole process.
 
-For any further inquiries on how to start your own project, please contact our Head of Concept and Partnerships, Mr Marco Vento (<mailto:m.vento@beta-europe.org>).
+For any further inquiries on how to start your own project, please contact the European Management Board: [contact@beta-europe.org](mailto:contact@beta-europe.org).
 
 ## Become a partner
 
@@ -43,4 +42,4 @@ Your organisation will then be invited to sign a partnership agreement with BETA
 
 We encourage you to join our network since you will benefit from BETA's support as well as all other MEU partners' experiences.
 
-To know more about our partnership programme, you can contact our Head of Concept and Partnerships, Mr Marco Vento (<mailto:m.vento@beta-europe.org>).
+To know more about our partnership programme, you can contact the European Management Board: [contact@beta-europe.org](mailto:contact@beta-europe.org).
