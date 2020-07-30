@@ -1,6 +1,5 @@
 ---
 slug: andre-carvalho
-title: André Carvalho
 order: "3"
 name: Koen Schrier
 function: Treasurer
