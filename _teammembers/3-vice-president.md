@@ -1,5 +1,5 @@
 ---
-slug: kristin-aldag
+slug: vice-president-2
 order: "2"
 name: Carlos Gomez Arnemann
 function: Vice-President

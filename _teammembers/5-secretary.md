@@ -1,5 +1,5 @@
 ---
-slug: atilla-nagy
+slug: secretary-general
 order: "4"
 name: Vincent Miča
 function: Secretary-General

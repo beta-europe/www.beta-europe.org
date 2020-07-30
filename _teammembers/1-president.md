@@ -1,5 +1,5 @@
 ---
-slug: gary-paterson
+slug: president
 order: "1"
 name: Kristin Aldag
 function: President

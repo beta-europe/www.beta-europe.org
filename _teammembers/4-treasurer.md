@@ -1,5 +1,5 @@
 ---
-slug: andre-carvalho
+slug: treasurer
 order: "3"
 name: Koen Schrier
 function: Treasurer
