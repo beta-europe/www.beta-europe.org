@@ -4,5 +4,5 @@ title: Kristin Aldag
 order: "2"
 name: Carlos Gomez Arnemann
 function: Vice-President
-mail: mailto:k.aldag@beta-europe.org
+mail: mailto:c.arnemann@beta-europe.org
 ---
