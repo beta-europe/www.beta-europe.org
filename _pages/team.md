@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: archive-team
 title: "Our Management Board"
 permalink: /team/
 author_profile: true
