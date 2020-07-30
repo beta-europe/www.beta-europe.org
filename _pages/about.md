@@ -12,21 +12,21 @@ sidebar:
 
 ## Our Association
 
-BETA Europe, AISBL is a politically independent and non-profit association,  seated in Brussels, with national chapters in 20 countries. Our name stands for Bringing Europeans Together Association because this is our mission: to strengthen the European society by encouraging democratic processes and consciousness about the plurality of European identities, both on national and international level. 
+BETA Europe, AISBL is a politically independent and non-profit association,  seated in Brussels, with national chapters in 20 countries. Our name stands for Bringing Europeans Together Association because this is our mission: to strengthen the European society by encouraging democratic processes and consciousness about the plurality of European identities, both on national and international level.
 
 The expression of our goal is to actively support such political simulations as the Model European Union (MEU), events which allow young people to engage in politics, discovering the founding principles behind Europe through a first hand experience of the democratic process.
 
 Founded in Germany in 2008., BETA has now grown to have 20 national organisations, 21 partner organisations more than 500 individual members, involving more than 2500 youth of 33 nationalities and supporting over 25 events worldwide, from Europe to Africa, Middle East to Central Asia.
 
-BETA is the growing managerial infrastructure behind MEU events driven by the maximum professionalism of its members to promote learning, supporting and inspiring young European generations, in the respect of the diversities and under the sign of tolerance and inclusiveness. 
+BETA is the growing managerial infrastructure behind MEU events driven by the maximum professionalism of its members to promote learning, supporting and inspiring young European generations, in the respect of the diversities and under the sign of tolerance and inclusiveness.
 
 ## Our Values
 
-What drives BETA is not a certain political ideology but shared values which unify our team and our actions. 
+What drives BETA is not a certain political ideology but shared values which unify our team and our actions.
 
 ### Learning
 
-We believe in the value of learning, especially through practice. Both through the management of the association or experiencing role-play in occasion of our political simulations, we allow to our members to experience in first person concepts which would otherwise be just printed on pages of books. Informal learning which allow to gain experience and develop soft skills. 
+We believe in the value of learning, especially through practice. Both through the management of the association or experiencing role-play in occasion of our political simulations, we allow to our members to experience in first person concepts which would otherwise be just printed on pages of books. Informal learning which allow to gain experience and develop soft skills.
 
 ### Supporting
 
@@ -50,7 +50,7 @@ We want our activities to be exciting and motivating, and our members to be pass
 
 ## Our Mission
 
-Strengthen the European society by encouraging democratic processes and consciousness about the plurality of European identities, both on national and international level. 
+Strengthen the European society by encouraging democratic processes and consciousness about the plurality of European identities, both on national and international level.
 
 ## Our Goals
 
@@ -61,3 +61,6 @@ Strengthen the European society by encouraging democratic processes and consciou
 * Supporting non-formal education and advocating access to information about the work of the European Union;
 * Encouraging civic participation and volunteer work among our members and beyond;
 * Developing sustainable, impactful and professional educational events about EU politics, such as Model European Union conferences in Strasbourg and elsewhere.
+
+##Statutes
+The statutes can be found [here]<link>
