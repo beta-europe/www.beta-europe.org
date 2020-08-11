@@ -1,7 +1,7 @@
 ---
 slug: beta-slovakia
 title: BETA Slovakia
-website: 'https://slovakia.beta-europe.org'
+website: 'https://www.meubratislava.eu/'
 facebook:
 instagram:
 linkedin:
