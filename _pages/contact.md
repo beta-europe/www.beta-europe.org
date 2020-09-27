@@ -14,11 +14,9 @@ Official contacts or requests to the Management Board should be addressed to the
 
 ## Become a Member
 
-An online membership form will soon be available.
+If you'd like to join BETA Europe as an individual member, please fill out our online membership form and we will get in touch with you! -->[ https://forms.gle/NACMQMCLKpchg7Ud9](https://forms.gle/NACMQMCLKpchg7Ud9)
 
-In the meantime, you can join us by sending a quick email to our Head of Human Resources, Ms Lina Kalouti ([l.kalouti@beta-europe.org](mailto:l.kalouti@beta-europe.org)), stating your interest in becoming a BETA member.
-
-A membership form will then be sent to you, and all you need to do is fill it in and send it back.
+Please bear in mind that an annual membership fee of 15€ applies. If you have any questions, please feel invited to contact our HR team by writing to [hr@beta-europe.org.](mailto:hr@beta-europe.org)
 
 ## Get Engaged
 
@@ -27,7 +25,7 @@ There are many ways to get engaged with and within BETA.
 You can take on a position in a BETA Europe team, as an Officer or Head. Please refer to the open calls and the roles descriptions before applying for one of these roles.
 You will gain valuable work experience and will be awarded a certificate upon completion of your work.
 
-For any further inquiries on BETA Europe positions, please contact our Head of Human Resources, Ms Lina Kalouti ([l.kalouti@beta-europe.org](mailto:l.kalouti@beta-europe.org))
+For any further inquiries on BETA Europe positions, please contact our HR team by emailing [hr@beta-europe.org](mailto:hr@beta-europe.org)
 
 You can also create a national BETA organisation and/or organise your own MEU simulation in your city with like-minded people and friends.
 BETA will gladly support your project and help you throughout the whole process.
