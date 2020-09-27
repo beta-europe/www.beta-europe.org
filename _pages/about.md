@@ -16,9 +16,9 @@ BETA Europe, AISBL is a politically independent and non-profit association,  sea
 
 The expression of our goal is to actively support such political simulations as the Model European Union (MEU), events which allow young people to engage in politics, discovering the founding principles behind Europe through a first hand experience of the democratic process.
 
-Founded in Germany in 2008., BETA has now grown to have 20 national organisations, 21 partner organisations more than 500 individual members, involving more than 2500 youth of 33 nationalities and supporting over 25 events worldwide, from Europe to Africa, Middle East to Central Asia.
+Founded in Germany in 2008 as BETA eV, BETA Europe has now grown to have 16 national branches, many partner organisations and more than 500 individual members, involving more than 2500 youth of 33 nationalities and supporting over 25 events worldwide, from Europe to Africa, Middle East to Central Asia.
 
-BETA is the growing managerial infrastructure behind MEU events driven by the maximum professionalism of its members to promote learning, supporting and inspiring young European generations, in the respect of the diversities and under the sign of tolerance and inclusiveness.
+BETA Europe is the growing managerial infrastructure behind MEU events driven by the maximum professionalism of its members to promote learning, supporting and inspiring young European generations, in the respect of the diversities and under the sign of tolerance and inclusiveness.
 
 ## Our Values
 
@@ -62,5 +62,5 @@ Strengthen the European society by encouraging democratic processes and consciou
 * Encouraging civic participation and volunteer work among our members and beyond;
 * Developing sustainable, impactful and professional educational events about EU politics, such as Model European Union conferences in Strasbourg and elsewhere.
 
-##Statutes
-The statutes can be found [here]<link>
+\##Statutes
+The statutes can be found \[here]<link>
