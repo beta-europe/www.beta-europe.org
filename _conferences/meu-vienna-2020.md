@@ -2,7 +2,7 @@
 title: MEU Vienna 2020
 slug: MEU-VIENNA-2020
 partner-slug: model-european-union-vienna
-conference: MEU-VIENA
+conference: meu-vienna
 year: 2020
 begin: '2020-02-27'
 end: '2020-03-01'

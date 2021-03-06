@@ -1,7 +1,7 @@
 ---
 title: Milan MEU 2019
 slug: MILAN-MEU-2019
-conference: MILAN-MEU
+conference: milan-meu
 year: 2019
 begin: '2019-10-03'
 end: '2019-10-07'
