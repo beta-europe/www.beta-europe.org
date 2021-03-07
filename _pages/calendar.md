@@ -10,12 +10,11 @@ image:
   feature:
 ---
 
-To ensure you never miss a Model EU event, please [join our community][join]
-to follow our [news] learn about the next conferences of our partners.
+To ensure you never miss a Model EU event, please
+follow our [news] learn about the next conferences of our partners.
 
-[Join our Community][join]{: .btn .btn--primary} [Checkout the News][news]{: .btn .btn--primary} [Import our Calendar (.ics)][ics]{: .btn .btn--primary}
+[Checkout the News][news]{: .btn .btn--primary} [Import our Calendar (.ics)][ics]{: .btn .btn--primary}
 
-[join]: https://forum.beta-europe.org/signup
 [news]: /news/
 [ics]: {{ "/events.ics" | absolute_url }}
 
