@@ -8,6 +8,7 @@ website: https://www.facebook.com/MEUSofia/
 year: 2021
 begin: '2021-10-21'
 end: '2021-10-24'
+mail: modeleuropeanunion.sofia@gmail.com
 participants: ~100
 town: Sofia
 country: Bulgaria
