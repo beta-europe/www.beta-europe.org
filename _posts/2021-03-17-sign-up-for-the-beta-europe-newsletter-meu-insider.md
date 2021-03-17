@@ -1,6 +1,7 @@
 ---
 title: "Sign up for the BETA Europe Newsletter: MEU Insider!"
-excerpt: "Sign up for the BETA Europe Newsletter: MEU Insider!"
+excerpt: "It is our pleasure to announce the brandnew BETA Europe newsletter:
+  MEU Insider!"
 date: 2021-02-20 03:29:08
 toc: false
 comments: false
