@@ -62,5 +62,4 @@ Strengthen the European society by encouraging democratic processes and consciou
 * Encouraging civic participation and volunteer work among our members and beyond;
 * Developing sustainable, impactful and professional educational events about EU politics, such as Model European Union conferences in Strasbourg and elsewhere.
 
-\##Statutes
-The statutes can be found \[here]<link>
+Our statutes, which explain the functioning of BETA Europe as well as its mission, can be found here: <http://bit.ly/BETA-Europe_Statutes>
