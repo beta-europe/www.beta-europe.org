@@ -14,7 +14,7 @@ Official contacts or requests to the Management Board should be addressed to the
 
 If you’d like to join BETA Europe as an individual member, please fill out our online membership form and we will get in touch with you! –> <https://bit.ly/BETA_Europe_Membership_Application> 
 
-Please bear in mind that an annual membership fee of 15€ applies. If you have any questions, please feel invited to contact our HR team by writing to hr@beta-europe.org.
+Please bear in mind that an annual membership fee of 15€ applies. If you have any questions, please feel invited to contact our HR team by writing to [hr@beta-europe.org](mailto:hr@beta-europe.org).
 
 ## Get Engaged
 
@@ -32,9 +32,7 @@ For any further inquiries on how to start your own project or for more informati
 
 If you are planning to organise your own MEU simulation or are pursuing related activities with similar objectives and would like to join our partner network, we would be happy to work with you!
 
-
 After a consultative meeting with our Partnership team, your organisation will then be invited to sign a partnership agreement with BETA Europe.
 
-
 Joining our network of partners has many advantages which include BETA Europe’s full support for your events and activities, access to our as well as all other MEU partners’ experience , and invitations to European events such as the annual MEU Symposium.
-To know more about our partnership programme, please contact the European Management Board: contact@beta-europe.org.
+To know more about our partnership programme, please contact the European Management Board: [contact@beta-europe.org](mailto:contact@beta-europe.org).
