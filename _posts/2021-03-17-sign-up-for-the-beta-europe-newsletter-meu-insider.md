@@ -8,7 +8,7 @@ share: true
 published: true
 edit: true
 header:
-  image: /assets/images/meu-insider.png
+  image: ""
 ---
 It is a pleasure to announce the brandnew BETA Europe newsletter: MEU Insider!
 
@@ -22,6 +22,4 @@ The first two editions which have already been published can be found here:
 
 [February 2021](https://us5.campaign-archive.com/?u=991adf83a05812fffbbbc33dc&id=97f7c9ea3d)
 
-
-
-![]()
+![](/assets/images/meu-insider.png)
