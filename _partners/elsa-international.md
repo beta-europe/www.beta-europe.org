@@ -1,6 +1,6 @@
 ---
 slug: elsa-international
-title: "Elsa International "
+title: "ELSA International "
 website: https://elsa.org/
 mail: " elsa@elsa.org"
 linkedin: https://www.linkedin.com/company/elsa_org/
