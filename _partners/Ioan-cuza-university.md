@@ -1,6 +1,6 @@
 ---
 slug: meu-iasi
-title: Law Students Associationat Alexandru Ioan Cuza University
+title: MEU Iași
 website: "https://m.facebook.com/MEUIasi/ "
 twitter: IasiMeu
 mail: meu.iasi@asd-uaic.ro
