@@ -1,12 +1,16 @@
 ---
-slug: lebanese-american-university
-title: Lebanese American University
+slug: lau-meu
+title: LAU MEU
 website: www.laumodeleu.org
-mail: esamia@lau.edu.lb
-president: Elie Samia
-country: Lebanon
-town: Beirut
-geo: '33.888630,35.495480'
+mail: AVPOCE@lau.edu.lb
+instagram: lau.meu
+facebook: https://www.facebook.com/LAUModelEU
+excerpt: LAU MEU is a student organisation from the The Lebanese American
+  University that explores the  world of the Model European Union.
+president: ""
+country: ""
+town: ""
+geo: 33.888630,35.495480
 header:
   teaser: /assets/images/logos_resized_0000_Logo---Ghina-Harb.png
 ---
