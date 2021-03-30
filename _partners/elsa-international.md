@@ -11,6 +11,9 @@ excerpt: The European Law Students’ Association (ELSA) is an international,
   students and recent graduates, who are interested in achieving academic and
   personal excellence in addition to their legal or law-related studies at
   university.
+country: Belgium
+town: Brussels
+geo: 50.823786579892825,4.385390760938623
 header:
   teaser: /assets/images/12593915_10154076341572760_2418408471897782181_o.png
 ---
