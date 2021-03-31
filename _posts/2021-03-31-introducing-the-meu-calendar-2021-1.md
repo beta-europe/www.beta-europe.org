@@ -20,6 +20,6 @@ As a consequence of the situation, any events planned for this year will take pl
 
 We kindly invite you to have a look at the [MEU calendar](https://www.beta-europe.org/calendar/) on the website as well as this [overview sheet](https://docs.google.com/document/d/1lnXx3Ax6BCtI93Rmud-iGB8gPdAW0v-5mKMh7eT2Opg/edit?usp=sharing) which will be continuously updated as more and more conferences announce precise dates. As usual, please visit the indicated website and/or social media channels to find out more information about the specific conference and how to apply.
 
-If you have any further questions on how to get engaged within BETA Europe, you can always check out the "get engaged" section of this website and reach us under contact@beta-europe.org!
+If you have any further questions on how to get engaged within BETA Europe and the MEU world, you can always check out the "get engaged" section of this website and reach us under contact@beta-europe.org!
 
 We are looking forward to welcoming you at one of our many (online)MEU's this year!
