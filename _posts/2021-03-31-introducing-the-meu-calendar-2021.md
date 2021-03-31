@@ -4,7 +4,7 @@ excerpt: Without a doubt, this MEU season is still heavily impacted by the
   ongoing pandemic and it is likely that planned conferences which involve
   dozens of participants and international travel will not be able to take place
   as planned, or only under very tight restrictions.
-date: 2021-03-31 01:27:53
+date: 2021-03-28 03:27:00
 toc: false
 comments: false
 share: true
