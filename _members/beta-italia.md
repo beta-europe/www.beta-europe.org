@@ -12,7 +12,7 @@ excerpt: >-
   e.V. Founded in 2016, we already count 40 members all over Italy and Europe,
   focusing on the realisation of 3 Model European Union in Venice, Rome and
   Milan.
-president: Marco Gerbaudo
+president: Valeria Peruzzi
 country: Italy
 town: Rome
 geo: '41.9015,12.4608'
