@@ -7,7 +7,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:http://www.beta-europe.org/
 METHOD:PUBLISH
-{% for event in site.conferences limit:20 %}BEGIN:VEVENT
+{% assign sortedconfs = site.conferences | sort: 'year' | reverse %}
+{% for event in sortedconfs %}BEGIN:VEVENT
 UID:{{ event.slug }}@beta-europe.org
 ORGANIZER;CN="{% if event.partner-slug %}{% assign partner = site.partners | where: 'slug', event.partner-slug  | first %}{{ partner.title }}{% else %}{{ event.title }} Team{% endif %}":MAILTO:{% if event.mail %}{{ event.mail }}{% else %}{{ site.author.email }}{% endif %}
 LOCATION:{{ event.town }}{% if event.geo %}
