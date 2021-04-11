@@ -6,8 +6,8 @@ conference: sofia-meu
 mail:
 website: https://www.facebook.com/MEUSofia/
 year: 2018
-begin: '2018-04-18'
-end: '2018-04-22'
+begin: 2018-04-18
+end: 2018-04-22
 participants: ~100
 town: Sofia
 country: Bulgaria

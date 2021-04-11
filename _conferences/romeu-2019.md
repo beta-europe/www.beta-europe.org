@@ -3,8 +3,8 @@ title: ROME MEU 2019
 slug: ROME-MEU-2019
 conference: RomEU
 year: 2019
-begin: '2019-05-06'
-end: '2019-05-09'
+begin: 2019-05-06
+end: 2019-05-09
 mail: contact@italy.beta-europe.org
 website: 'https://www.facebook.com/pg/romemodeleuropeanunion'
 country: Italy

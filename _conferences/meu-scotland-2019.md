@@ -3,8 +3,8 @@ title: MEU Scotland 2019
 slug: meu-scotland-2019
 conference: meu-scotland
 year: 2019
-begin: '2019-10-24'
-end: '2019-10-29'
+begin: 2019-10-24
+end: 2019-10-29
 mail: president@meu.scot
 website: 'https://meu.scot'
 country: 'Scotland, UK'

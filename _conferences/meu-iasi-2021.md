@@ -4,8 +4,8 @@ slug: meu-iasi-2021
 partner-slug: asd-uaic
 conference: meu-iasi
 year: 2021
-begin: '2021-04-01'
-end: '2021-04-04'
+begin: 2021-04-01
+end: 2021-04-04
 website: 'https://www.facebook.com/MEUIasi/'
 country: online
 town: '' 

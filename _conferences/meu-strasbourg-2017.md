@@ -6,8 +6,8 @@ conference: meu-strasbourg
 mail: contact@meu-strasbourg.org
 website: http://www.meu-strasbourg.org/
 year: 2017
-begin: '2017-03-18'
-end: '2017-03-26'
+begin: 2017-03-18
+end: 2017-03-26
 participants:
 town: Strasbourg
 country: France

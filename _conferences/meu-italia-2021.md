@@ -3,8 +3,8 @@ title: MEU Italia 2021
 slug: meu-italia-2021
 conference: MEU Italia
 year: 2021
-begin: '2021-11-12'
-end: '2021-11-14'
+begin: 2021-11-12
+end: 2021-11-14
 website: https://www.facebook.com/betaitaly/
 country: ""
 location: "online "

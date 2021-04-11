@@ -6,8 +6,8 @@ conference: sofia-meu
 mail:
 website: https://www.facebook.com/MEUSofia/
 year: 2017
-begin: '2017-09-06'
-end: '2017-09-10'
+begin: 2017-09-06
+end: 2017-09-10
 participants: ~100
 town: Sofia
 country: Bulgaria

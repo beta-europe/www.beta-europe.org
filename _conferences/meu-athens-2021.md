@@ -4,8 +4,8 @@ slug: meu-athens-2021
 partner-slug: beta-greece
 conference: meu-athens
 year: 2021
-begin: '2021-11-24'
-end: '2021-11-28'
+begin: 2021-11-24
+end: 2021-11-28
 website: 'https://www.facebook.com/meuathens/'
 facebook: 'https://www.facebook.com/betagreece/'
 country: Greece

@@ -4,8 +4,8 @@ slug: meu-vienna-dep-2021
 partner-slug: ''
 conference: meu-vienna
 year: 2021
-begin: '2021-02-26'
-end: '2021-02-27'
+begin: 2021-02-26
+end: 2021-02-27
 website: 'https://www.facebook.com/MEUVienna/'
 country: 'online'
 town: ''

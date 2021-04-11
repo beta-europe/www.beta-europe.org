@@ -7,8 +7,8 @@ mail:
 website: https://www.facebook.com/MEU.ASU/
 twitter: meuainshams
 year: 2016
-begin: '2016-04-21'
-end: '2016-04-24'
+begin: 2016-04-21
+end: 2016-04-24
 participants:
 town: Cairo
 country: Egypt

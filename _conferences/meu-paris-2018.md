@@ -4,8 +4,8 @@ slug: meu-paris-2018
 partner-slug: beta-france
 conference: meu-paris
 year: 2018
-begin: '2018-09-03'
-end: '2018-09-08'
+begin: 2018-09-03
+end: 2018-09-08
 mail: participants.model.eu.paris@gmail.com
 website: 'https://france.beta-europe.org/meup/'
 twitter: 'https://twitter.com/modeleup'

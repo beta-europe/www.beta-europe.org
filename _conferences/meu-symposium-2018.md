@@ -4,8 +4,8 @@ slug: meu-symposium-2018
 partner-slug: beta-europe
 conference: meu-symposium
 year: 2018
-begin: '2018-09-20'
-end: '2018-09-23'
+begin: 2018-09-20
+end: 2018-09-23
 mail: contact@beta-europe.org
 website: www.beta-europe.org
 twitter: 'https://twitter.com/BETA_Europe'

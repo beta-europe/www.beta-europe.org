@@ -4,8 +4,8 @@ slug: meu-strasbourg-2019
 partner-slug: beta-france
 conference: meu-strasbourg
 year: 2019
-begin: '2019-04-06'
-end: '2019-04-13'
+begin: 2019-04-06
+end: 2019-04-13
 mail: info@meu-strasbourg.org
 website: 'https://meu-strasbourg.org'
 twitter: meustrasbourg

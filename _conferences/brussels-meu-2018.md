@@ -4,8 +4,8 @@ slug: brussels-meu-2018
 partner-slug: brussels-meu
 conference: brussels-meu
 year: 2018
-begin: '2018-04-24'
-end: '2018-04-27'
+begin: 2018-04-24
+end: 2018-04-27
 mail: contact@brusselsmeu.org
 website: 'http://www.brusselsmeu.org/'
 country: Belgium

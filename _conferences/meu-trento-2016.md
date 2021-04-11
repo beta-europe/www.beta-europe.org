@@ -7,8 +7,8 @@ mail: model.eu.tn@gmail.com
 website: http://meu-trento.jimdo.com/
 twitter: null
 year: 2016
-begin: '2016-07-17'
-end: '2016-07-20'
+begin: 2016-07-17
+end: 2016-07-20
 participants:
 town: Trento
 country: Italy

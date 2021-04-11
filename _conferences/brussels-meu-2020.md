@@ -4,8 +4,8 @@ slug: BRUSSELS-MEU-2020
 partner-slug: brussels-meu
 conference: Brussels MEU
 year: 2020
-begin: '2020-03-30'
-end: '2020-04-03'
+begin: 2020-03-30
+end: 2020-04-03
 mail: ''
 website: 'https://www.facebook.com/BrusselsMEU/'
 country: Belgium

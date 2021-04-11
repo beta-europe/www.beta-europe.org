@@ -7,8 +7,8 @@ mail: info@beum.org
 website: http://www.belgrade-meu.org/
 twitter:
 year: 2019
-begin: '2019-12-05'
-end: '2019-12-08'
+begin: 2019-12-05
+end: 2019-12-08
 town: Belgrade
 country: Serbia
 geo: 44.80957,20.46187

@@ -4,8 +4,8 @@ slug: meu-athens-2019
 partner-slug: beta-greece
 conference: MEU Athens
 year: 2019
-begin: '2019-10-31'
-end: '2019-11-03'
+begin: 2019-10-31
+end: 2019-11-03
 mail: y.rajendra@beta-europe.org
 website: 'https://greece.beta-europe.org/'
 country: Greece

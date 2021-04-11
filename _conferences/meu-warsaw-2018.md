@@ -4,8 +4,8 @@ title: MEU Warsaw 2018
 partner-slug: beta-poland
 conference: meu-warsaw
 year: 2018
-begin: '2018-08-23'
-end: '2018-08-28'
+begin: 2018-08-23
+end: 2018-08-28
 mail: polska@beta-europe.org
 website: 'http://www.meu-warsaw.pl/'
 twitter: MEU_Warsaw

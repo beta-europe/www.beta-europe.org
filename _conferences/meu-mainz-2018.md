@@ -4,8 +4,8 @@ slug: meu-mainz-2018
 partner-slug: aegee-mainz
 conference: mainz-meu
 year: 2018
-begin: '2018-07-18'
-end: '2018-07-22'
+begin: 2018-07-18
+end: 2018-07-22
 mail: meum.coordination@gmail.com
 website: 'https://www.facebook.com/meumainz/'
 country: Germany

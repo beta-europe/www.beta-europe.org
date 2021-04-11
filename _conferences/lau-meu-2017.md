@@ -6,8 +6,8 @@ conference: lau-meu
 mail: info@laumeu.org
 website: https://www.facebook.com/LAUModelEU/?fref=ts
 year: 2017
-begin: '2017-02-18'
-end: '2017-02-19'
+begin: 2017-02-18
+end: 2017-02-19
 participants:
 town:
 country: Lebanon

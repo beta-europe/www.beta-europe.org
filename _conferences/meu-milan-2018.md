@@ -6,8 +6,8 @@ conference: milan-meu
 mail:
 website: https://www.facebook.com/MilanMEU/?ref=br_rs
 year: 2018
-begin: '2018-05-24'
-end: '2018-05-27'
+begin: 2018-05-24
+end: 2018-05-27
 participants:
 town: Milan
 country: Italy

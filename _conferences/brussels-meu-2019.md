@@ -4,8 +4,8 @@ slug: brussels-meu-2019
 partner-slug: brussels-meu
 conference: brussels-meu
 year: 2019
-begin: '2019-04-01'
-end: '2019-04-05'
+begin: 2019-04-01
+end: 2019-04-05
 mail: contact@brusselsmeu.org
 website: 'https://www.brusselsmeu.org/'
 twitter: BrusselsMEU

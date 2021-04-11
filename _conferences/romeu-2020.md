@@ -4,8 +4,8 @@ slug: RoMEU-2020
 partner-slug: ''
 conference: RoMEU
 year: 2020
-begin: '2020-05-04'
-end: '2020-05-08'
+begin: 2020-05-04
+end: 2020-05-08
 mail: romeu.applications@gmail.com
 website: bit.ly/RoMEU2020Applications
 country: Italy

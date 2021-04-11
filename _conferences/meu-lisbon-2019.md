@@ -3,8 +3,8 @@ title: MEU Lisbon 2019
 slug: meu-lisbon-2019
 conference: meu-lisbon
 year: 2019
-begin: '2019-10-15'
-end: '2019-10-20'
+begin: 2019-10-15
+end: 2019-10-20
 mail: meulisbon@portugal.beta-europe.org
 website: portugal.beta-europe.org
 country: Portugal

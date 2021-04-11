@@ -7,8 +7,8 @@ mail:
 website: http://www.meu-vienna.at
 twitter: MEUVienna
 year: 2016
-begin: '2016-02-25'
-end: '2016-02-28'
+begin: 2016-02-25
+end: 2016-02-28
 participants:
 town: Vienna
 country: Austria

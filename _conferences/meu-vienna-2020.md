@@ -4,8 +4,8 @@ slug: MEU-VIENNA-2020
 partner-slug: model-european-union-vienna
 conference: meu-vienna
 year: 2020
-begin: '2020-02-27'
-end: '2020-03-01'
+begin: 2020-02-27
+end: 2020-03-01
 mail: info@meu-vienna.at
 website: 'https://www.facebook.com/MEUVienna/'
 country: Austria

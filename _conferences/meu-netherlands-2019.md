@@ -4,8 +4,8 @@ slug: meu-netherlands
 partner-slug: beta-netherlands
 conference: MEU-Netherlands-2019
 year: 2019
-begin: '2019-07-08'
-end: '2019-07-13'
+begin: 2019-07-08
+end: 2019-07-13
 mail: c.kroes@beta-europe.org
 website: 'https://netherlands.beta-europe.org/'
 country: Netherlands

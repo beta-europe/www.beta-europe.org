@@ -4,8 +4,8 @@ slug: meu-granada-2019
 partner-slug: beta-spain
 conference: meu-granada
 year: 2019
-begin: '2019-04-03'
-end: '2019-04-07'
+begin: 2019-04-03
+end: 2019-04-07
 mail: info@meugranada.org
 website: 'http://meugranada.org'
 country: Spain

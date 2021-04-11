@@ -4,8 +4,8 @@ slug: meu-vienna-2019
 partner-slug: meu-vienna
 conference: meu-vienna
 year: 2019
-begin: '2019-02-21'
-end: '2019-02-24'
+begin: 2019-02-21
+end: 2019-02-24
 mail: info@meu-vienna.at
 website: 'http://www.meu-vienna.at'
 twitter: MEUVienna

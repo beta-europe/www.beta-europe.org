@@ -3,8 +3,8 @@ title: MEU Coimbra 2020
 slug: meu-coimbra-2020
 conference: meu-coimbra
 year: 2020
-begin: '2020-02-19'
-end: '2020-02-23'
+begin: 2020-02-19
+end: 2020-02-23
 mail: contact@portugal.beta-europe.org
 website: 'https://www.facebook.com/betaportugal.official/'
 country: Portugal
