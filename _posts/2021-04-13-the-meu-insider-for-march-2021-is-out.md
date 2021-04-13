@@ -1,5 +1,5 @@
 ---
-title: The MEU Insider for March 2021 is out!
+title: The MEU Insider for March 2021 is out
 excerpt: The BETA Europe Newsletter “MEU Insider” for March 2021 is out - to
   read, please click here!
 date: 2021-03-30 01:07:14
