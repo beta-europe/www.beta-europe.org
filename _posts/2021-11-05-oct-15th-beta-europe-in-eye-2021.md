@@ -11,7 +11,7 @@ share: true
 published: true
 edit: true
 ---
-On October 8-9, the European Youth Event (EYE) took place in the European Parliament building in Strasbourg. The EYE is organized every two years and gathers hundreds of young people from all over Europe to shape the future of Europe together. The EYE is usually attended by young people between 16 and 30 years old, who are interested to know more about the European Union. The EYE is a great platform for young people to discuss topics of interest today, be it climate change or rule of law in the European Union.
+**On October 8-9, the European Youth Event (EYE) took place in the European Parliament building in Strasbourg.** The EYE is organized every two years and gathers hundreds of young people from all over Europe to shape the future of Europe together. The EYE is usually attended by young people between 16 and 30 years old, who are interested to know more about the European Union. The EYE is a great platform for young people to discuss topics of interest today, be it climate change or rule of law in the European Union.
 
 This EYE edition was planned to be held in 2020, following the previous editions in 2014, 2016, and 2018, but was postponed due to the COVID-19 pandemic. Luckily, due to the efforts of the organizing team, it became reality this autumn!
 
