@@ -1,5 +1,5 @@
 ---
-title: "Oct 15th: BETA Europe in EYE 2021"
+title: BETA Europe at the EYE 2021
 excerpt: Bringing Europeans Together Association - BETA Europe has attended to
   the European Youth Event, organising a workshop on Saturday, the 9th of
   October 2021.
