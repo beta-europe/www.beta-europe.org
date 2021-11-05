@@ -4,12 +4,14 @@ excerpt: Bringing Europeans Together Association - BETA Europe has attended to
   the European Youth Event, organising a workshop on Saturday, the 9th of
   October 2021.
 categories: association
-date: 2021-11-05 03:19:30
+date: 2021-11-04 09:19:30
 toc: false
 comments: false
 share: true
 published: true
 edit: true
+header:
+  teaser: /assets/images/20211009_ep-120090l_mch_1612_resized_xl-e1634726432932-2048x753.jpg
 ---
 **On October 8-9, the European Youth Event (EYE) took place in the European Parliament building in Strasbourg.** The EYE is organized every two years and gathers hundreds of young people from all over Europe to shape the future of Europe together. The EYE is usually attended by young people between 16 and 30 years old, who are interested to know more about the European Union. The EYE is a great platform for young people to discuss topics of interest today, be it climate change or rule of law in the European Union.
 
