@@ -1,7 +1,7 @@
 ---
 slug: vice-president-1
 order: "2"
-nameTM: Lina Kalouti
+nameTM: Fernando Ruivo
 function: Vice-President
-mail: mailto:l.kalouti@beta-europe.org
+mail: mailto:f.ruivo@beta-europe.org
 ---
