@@ -1,7 +1,7 @@
 ---
-slug: vice-president-2
+slug: president
 order: "2"
 nameTM: Carlos Gomez Arnemann
-function: Vice-President
+function: President
 mail: mailto:c.arnemann@beta-europe.org
 ---
