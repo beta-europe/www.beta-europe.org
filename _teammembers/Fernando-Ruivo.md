@@ -1,7 +1,7 @@
 ---
 slug: vice-president-1
 order: "2"
-nameTM: Fernando Ruivo
+nameTM: Laura Elena Baciu
 function: Vice-President
-mail: mailto:f.ruivo@beta-europe.org
+mail: mailto:e.baciu@beta-europe.org
 ---
