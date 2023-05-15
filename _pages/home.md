@@ -10,14 +10,14 @@ header:
 #  cta_label: "Join Our Network"
 #  cta_url: "http://forum.beta-europe.org"
   caption: "Photo credit: [**MEUS 2015**](http://www.meu-strasbourg.org)"
-excerpt: "Bringing Europeans Together Association A.I.S.B.L. (BETA) is a politically independent and non-profit association to support the organisation of European politics simulations."
+excerpt: "Bringing Europeans Together Association - BETA A.I.S.B.L. is a politically independent and non-profit association to support the organisation of European politics simulations."
 intro_01:
   - title: Our Association
     image_path: /assets/images/BETA-GA_2015.jpg
     alt: "BETA General Assembly 2015"
     excerpt:
     |
-      The Bringing Europeans Together Association (BETA) A.I.S.B.L. Is a young, politically independent and non-profit association founded in August 2008 by nine young Europeans in Mainz, Germany. Today, BETA counts more than 400 members from all across Europe.
+      The Bringing Europeans Together Association (BETA) A.I.S.B.L. Is a young, politically independent and non-profit association founded in August 2008 by nine young Europeans in Mainz, Germany. In 2018, it was refounded as a federation in Brussels. Today, BETA counts 17 national brands and more than 400 members from all across Europe.
     url: "/contact/"
     btn_label: "People behind BETA"
     btn_class: "btn--primary"
