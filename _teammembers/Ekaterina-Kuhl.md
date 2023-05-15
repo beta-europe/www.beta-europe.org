@@ -1,7 +1,7 @@
 ---
 slug: secretary-general
 order: "4"
-nameTM: Vincent Miča
+nameTM: Ekaterina Katsyanova-Kühl
 function: Secretary-General
-mail: mailto:v.mica@beta-europe.org
+mail: mailto:e.kuhl@beta-europe.org
 ---
