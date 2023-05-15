@@ -1,5 +1,5 @@
 ---
-title: Málaga MEU Spain 2021
+title: Málaga MEU Spain 2023
 slug: malaga-meu-spain-2023
 partner-slug: malaga-meu
 conference: malaga-meu
@@ -14,4 +14,4 @@ country: 'Spain'
 town: 'Málaga'
 geo: ''
 ---
-Málaga MEU Spain 2021.
+Málaga MEU Spain 2023.
