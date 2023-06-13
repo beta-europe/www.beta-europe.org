@@ -4,7 +4,7 @@ title: BETA France
 website: 'https://beta-france.org/'
 twitter: 
 mail: france@france.beta-europe.org
-facebook: BETA France
+facebook:
 instagram: @beta.france
 linkedin: BETA France
 excerpt: >-
@@ -22,3 +22,5 @@ BETA France is a youth NGO organising simulations of European Politics under the
 
 
 Apart from that BETA France does a number of activities in the local community
+
+
