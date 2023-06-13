@@ -5,15 +5,15 @@ website: 'https://beta-france.org/'
 twitter: 
 mail: france@france.beta-europe.org
 facebook:
-instagram: @beta.france
-linkedin: BETA France
+instagram:
+linkedin:
 excerpt: >-
   BETA France organises political simulations for youth concerning the workings
   of the European Union.
 president: Morten Munch Jespersen
 country: France
 town: Paris
-geo: '48.863, 2.325'
+geo: '48.573405, 7.752111'
 header:
   teaser: /assets/images/logos_resized_0006_partner-logo-beta-france.png
 ---
