@@ -4,9 +4,9 @@ title: BETA France
 website: 'https://beta-france.org/'
 twitter: 
 mail: france@france.beta-europe.org
-facebook:
-instagram:
-linkedin:
+facebook: BETA France
+instagram: beta.france
+linkedin: BETA France
 excerpt: >-
   BETA France organises political simulations for youth concerning the workings
   of the European Union.
