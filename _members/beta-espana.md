@@ -1,7 +1,8 @@
 ---
 slug: beta-espana
 title: BETA España
-website: under construction
+website: betaspain.es
+twitter: twitter.con/spainbeta
 mail: beta-spain@beta-europe.org / meu-spain@beta-europe.org
 linkedin: 'https://www.linkedin.com/company/model-european-union-spain / https://www.linkedin.com/company/model-of-european-union-granada / https://www.linkedin.com/company/bringin-europeans-together-españa'
 facebook: 'https://www.facebook.com/Model-European-Union-Spain-104064927777192 / https://www.facebook.com/meu1granada / https://www.facebook.com/BETA-España-Bringing-Europeans-Together-Association-Spain-351683335704414'
