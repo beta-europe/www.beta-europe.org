@@ -1,9 +1,9 @@
 ---
 slug: vice-president
 order: "2"
-nameTM: Anhelina Pryimak
+nameTM: Olivia Blanchard
 function: Vice-president
-mail: mailto:a.pryimak@beta-europe.org
+mail: mailto:o.blanchard@beta-europe.org
 header:
   image: ""
 ---
