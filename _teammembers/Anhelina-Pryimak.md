@@ -1,5 +1,5 @@
 ---
-slug: Vicepresident
+slug: Vice-president
 order: "3"
 nameTM: Anhelina Pryimak
 function: Vicepresident
