@@ -1,7 +1,7 @@
 ---
 slug: head-of-legal-affairs
 order: "3"
-nameTM: Athina Stavrinidou
+nameTM: Mathilde Pompey
 function: Head of Legal Affairs
-mail: a.stavrinidou@beta-europe.org
+mail: m.pompey@beta-europe.org
 ---
