@@ -4,7 +4,7 @@ title: "Our Management Board"
 permalink: /team/
 author_profile: true
 ---
-BETA Europe is managed by its Management Board 
+# Management Board 
 
 
 
@@ -20,7 +20,7 @@ BETA Europe is managed by its Management Board
 
 {% include feature_row id="extendedteammembers" type="left" %}
 
-and Extended Management Board
+# Extended Management Board
 
 <div class="grid__wrapper grid__partners">
   {% for post in site.extendedteammembers %}
