@@ -1,7 +1,7 @@
 ---
 slug: secretary-general
 order: "4"
-nameTM: Ekaterina Katsyanova-Kühl
+nameTM: Veronica Lacova
 function: Secretary-General
-mail: mailto:e.kuhl@beta-europe.org
+mail: mailto:v.lacova@beta-europe.org
 ---
