@@ -278,6 +278,10 @@ collections:
     title: Teammembers
     output: true
     permalink: "/teammembers/:path/"
+  extendedteammembers:
+    title: ExtendedTeammembers
+    output: true
+    permalink: "/extendedteammembers/:path/"
 
 # Defaults
 defaults:
@@ -373,6 +377,17 @@ defaults:
   - scope:
       path: ''
       type: teammembers
+    values:
+      layout: team_page
+      author_profile: true
+      comments: false
+      share: true
+      edit: true
+      related: false
+  # _extendedteammembers
+  - scope:
+      path: ''
+      type: extendedteammembers
     values:
       layout: team_page
       author_profile: true
